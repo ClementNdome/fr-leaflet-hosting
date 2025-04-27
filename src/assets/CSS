@@ -1,0 +1,11 @@
+/* Add this to your global CSS */
+.custom-cluster {
+  background: #ff7800;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

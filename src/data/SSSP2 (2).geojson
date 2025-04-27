@@ -1,0 +1,1429 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4311271,-0.7995711 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Rubiri water project ",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":180,
+    "Challenges facing:":"Connection ",
+    "Means of verification used:":"Billing and Revenue Collection Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4915773,-0.8174141 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Aqua joy",
+    "Mode of service delivery:":"Bulk Water sales, Water Kiosk",
+    "Years enterprise has been operational:":7,
+    "Number of the active Household Connections:":0,
+    "Challenges facing:":"No challenges",
+    "Means of verification used:":"Procurement and Inventory Report, Regulatory and Compliance Reports",
+    "Administrative region":"Olkaria, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.47236167,-0.72481 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Celebration waters ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection, Bulk Water sales",
+    "Years enterprise has been operational:":8,
+    "Number of the active Household Connections:":74,
+    "Challenges facing:":"High cost of electricity , Lateness on payment of water bills",
+    "Means of verification used:":"Billing and Revenue Collection Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4403262,-0.7810899 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Michael Ndirangu karuku",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":40,
+    "Challenges facing:":"High pnding bills from customers",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Strategic and Performance Reports",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4400874,-0.7885483 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mwita",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Pending bills",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Strategic and Performance Reports",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4440012,-0.7818247 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mirera High school",
+    "Mode of service delivery:":"Other (please specify)",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Salty water",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Strategic and Performance Reports",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4440119,-0.7786299 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Wa karo",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":4,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Financial constraint",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Strategic and Performance Reports",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4406415,-0.7643471 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Villa view",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Water shortage ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Strategic and Performance Reports",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.290286805,0.110636368 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Kahuruko manjari borehole",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":1,
+    "Number of the active Household Connections:":0,
+    "Challenges facing:":"Shortage",
+    "Means of verification used:":"Billing and Revenue Collection Report",
+    "Administrative region":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5282042,-0.7525391 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mwaniki's Kiosk",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Cost of electrcity ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Other (please specify)",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.511769,-0.7245954 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mutethia water project ",
+    "Mode of service delivery:":"Household water connection, Water Kiosk",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":60,
+    "Challenges facing:":"Storage, network  borehole can only serve on solar",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.44630671,-0.780223074 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Anthony Mwangi",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":3,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Electricity",
+    "Means of verification used:":"Income and Expenditure Statement, Billing and Revenue Collection Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.44733616,-0.779092984 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"John Mwangi{indivudual)",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Late payment",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5115925,-0.7074032 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mununga Water Project ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":8,
+    "Challenges facing:":"Electric bill, storage, network ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Biashara, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2041874,-0.8274586 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"EMBEUTI WATER  PROJECT ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection, Bulk Water sales",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":20,
+    "Challenges facing:":"High bills of electricity ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Maiella, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.41657279,-0.7998371 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Davanns",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":4,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Insufficient water ",
+    "Means of verification used:":"Regulatory and Compliance Reports, Customer Register and Service Coverage Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4462785,-0.784833 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Antony",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Financial constraints, Pending bills",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Strategic and Performance Reports",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.50233435,-0.65433229 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Gituru Water Project",
+    "Mode of service delivery:":"Other (please specify)",
+    "Years enterprise has been operational:":1,
+    "Number of the active Household Connections:":15,
+    "Challenges facing:":"Network insufficient, insufficient water, solar",
+    "Means of verification used:":"Customer Register and Service Coverage Report",
+    "Administrative region":"Biashara, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5094185,-0.6403406 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Kahuru water project, kahuru smart CBO ",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":20,
+    "Number of the active Household Connections:":90,
+    "Challenges facing:":"Shortage of water , Network , Power ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Biashara, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2235231,-0.8176909 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Moi ndabi water project",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":33,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Eelectricity bills are high , The structure is not stable ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Maiella, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4737867,-0.7211699 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Vintel w.supplies",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":121,
+    "Challenges facing:":"The high cost of electricity, bloated cost of pipes and fittings, power outages leading to inefficient pumping resulting to inadequate supply ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Income and Expenditure Statement, Regulatory and Compliance Reports",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4748438,-0.7175855 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Methuen heights",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":6,
+    "Number of the active Household Connections:":89,
+    "Challenges facing:":"Cost electricity,power outages,",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.22097,-0.7879617 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Susan Gitau ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":2,
+    "Challenges facing:":"Lack of electricity in the area ",
+    "Means of verification used:":"Customer Register and Service Coverage Report, Other (please specify)",
+    "Administrative region":"Maiella, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.524873,-0.755371 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Missouri water project ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":1,
+    "Number of the active Household Connections:":0,
+    "Challenges facing:":"Vanderlism, power bill, network, , NRW",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.532793,-0.701429 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Kambi Ndoro Water Project",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":200,
+    "Challenges facing:":"Solar installation, Height of water tower, insufficient water",
+    "Means of verification used:":"Customer Register and Service Coverage Report, Billing and Revenue Collection Report",
+    "Administrative region":"Githabai, Kinangop, Nyandarua, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.524741,-0.6717385 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Gisheha Water Project",
+    "Mode of service delivery:":"Household water connection, Other (please specify)",
+    "Years enterprise has been operational:":1,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Small Network coverage , No electricity grid connection, relying on solar",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Biashara, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4475297,-0.7270121 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"David Gitau water kiosk ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":14,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Pump failure . Low sales during rains . Constant water despite high cost of living ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4485233,-0.7266088 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"AIC naivasha technical ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":24,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Pump break down, Power fluctuations , Low sales ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.45971775,-0.766996587 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mountain View ",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":8,
+    "Number of the active Household Connections:":50,
+    "Challenges facing:":"Leakages, Bursts, Electricity cost",
+    "Means of verification used:":"Customer Complaints and Resolution Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5424169,-0.7911423 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mwega Farmers Water Project ",
+    "Mode of service delivery:":"Household water connection, Water Kiosk",
+    "Years enterprise has been operational:":23,
+    "Number of the active Household Connections:":33,
+    "Challenges facing:":"Not enough storage to supply and add more connections , 50cubic leaking via underground amd cannot be used at the moment , Unable to measure non revenue water despite pumping average of 90 cubic per day",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Regulatory and Compliance Reports",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46701589,-0.753727273 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Francis Nganga",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":6,
+    "Number of the active Household Connections:":15,
+    "Challenges facing:":"Bursts and leakages",
+    "Means of verification used:":"Customer Register and Service Coverage Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4474778,-0.7201779 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"James mwangi gateri",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":35,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Working environment not conducive, Electricity bills, Low sales compared to expenses",
+    "Means of verification used:":"Customer Complaints and Resolution Report",
+    "Administrative region":"Viwandani, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4417865,-0.7190106 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Dovespring",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High electricity cost. Customers taking water on bills and later refuse to pay ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4378874,-0.7134818 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Jm waweru",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":12,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Power failure. , High power cost, High cost of maintenance ",
+    "Means of verification used:":"Regulatory and Compliance Reports",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4309876,-0.7080112 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"UNITED Methodist Water",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High maintainable cost, Competition from mobile vendors, High cost of electricity ",
+    "Means of verification used:":"Billing and Revenue Collection Report",
+    "Administrative region":"Viwandani, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4286043,-0.7087991 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Rufhas macharia ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High Electricity bill, Low sales due to competition from naivawasco, Lack of Record keeping ",
+    "Means of verification used:":"Regulatory and Compliance Reports",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4280252,-0.7014265 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Sunshine springs",
+    "Mode of service delivery:":"Bulk Water sales",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Low water sales due to high connections from utility , High cost of electricity bills , Water quality. Too much flouride",
+    "Means of verification used:":"Regulatory and Compliance Reports",
+    "Administrative region":"Viwandani, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4838762,-0.7571458 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Allan Theuri Water Project ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":3,
+    "Number of the active Household Connections:":130,
+    "Challenges facing:":"High cost of power expenses , Unable to measure non revenue , Illegal connections ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Regulatory and Compliance Reports, Income and Expenditure Statement, Customer Register and Service Coverage Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4980579,-0.8843229 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"HENRY MUNGAI WATER PROJECT LONGONOT ",
+    "Mode of service delivery:":"Water Kiosk, Other (please specify)",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Hihg competition from Naivawasco , High electricity bills , High level of fluoride ",
+    "Means of verification used:":"Customer Register and Service Coverage Report",
+    "Administrative region":"Olkaria, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.45885833,-0.762833333 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Unity water project ",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":4,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Shortage of water, Too much dust that affects the solar panel hence ineffective when pumping water, Breakdown of the pumping equipment ",
+    "Means of verification used:":"Procurement and Inventory Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4347199,-0.7161172 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Beatrice njoki macharia ",
+    "Mode of service delivery:":"Bulk Water sales, Water Kiosk",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High Electricity bill, High competition , High sewer bills ",
+    "Means of verification used:":"Regulatory and Compliance Reports",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46136,-0.765286667 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"One 27 shop",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":14,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"No clients flowing to buy water",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.451445,-0.728451667 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Hcfg",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":6,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Maintenance of the tanks ",
+    "Means of verification used:":"Procurement and Inventory Report",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4334694,-0.7165482 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Wambuku",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High fluoride level, High operations cost, High cost of electricity ",
+    "Means of verification used:":"Income and Expenditure Statement",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4379956,-0.7211601 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Catholic diosses of nakuru",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":32,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Disconnection from WARMA when in areas , Power interruption , Maintenance challenges ",
+    "Means of verification used:":"Regulatory and Compliance Reports",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5004317,-0.8855817 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"LONGONOT COMMUNITY DEVELOPMENT FORUM ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection, Bulk Water sales",
+    "Years enterprise has been operational:":12,
+    "Number of the active Household Connections:":30,
+    "Challenges facing:":"High  cost repair of pipes , We connected to electricity we are using solar , Poor standards of pipe due to lack of finances ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Olkaria, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.47588793,-0.677502506 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Karati Water",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":14,
+    "Number of the active Household Connections:":50,
+    "Challenges facing:":"electricity cost, non payment, ilegal connections",
+    "Means of verification used:":"Regulatory and Compliance Reports, Billing and Revenue Collection Report",
+    "Administrative region":"Malewa West, Gilgil, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Njoroge enterprise ",
+    "Mode of service delivery:":"Bulk Water sales",
+    "Years enterprise has been operational:":3,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Eelectricity bill",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.479115,-0.722603333 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Rektus Commercial Agency",
+    "Mode of service delivery:":"Household water connection, Water Kiosk, Bulk Water sales",
+    "Years enterprise has been operational:":3,
+    "Number of the active Household Connections:":75,
+    "Challenges facing:":"Cost of electricity , Challenges in revenue collection , Power disruption ",
+    "Means of verification used:":"Billing and Revenue Collection Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5721767,-0.9717888 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"West bound service center",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High electricity bill",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5899308,-0.9828661 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Korio enterprise ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Pipe damage , Shortage of storage , Re installation of new quality pipes",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.466336,-0.747216 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Ushirika Traders Water Project ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":7,
+    "Number of the active Household Connections:":50,
+    "Challenges facing:":"No water to supply customers , Cost of power not sorted to operate, Withdrawal of customers ",
+    "Means of verification used:":"Customer Register and Service Coverage Report, Regulatory and Compliance Reports, Income and Expenditure Statement",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.479672,-0.664852692 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Nyonjoro Water Project",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":25,
+    "Number of the active Household Connections:":250,
+    "Challenges facing:":"Illegal connections , In sufficient Water reservoirs , Electricity Costs, Late Payments",
+    "Means of verification used:":"Customer Register and Service Coverage Report, Regulatory and Compliance Reports",
+    "Administrative region":"Biashara, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5877588,-0.9851708 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Wa joking enterprise ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Damaged pipes, Lack of meters and bulk meters",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.47875333,-0.759023333 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Coming water project ",
+    "Mode of service delivery:":"Bulk Water sales",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"WRMA water rates are high",
+    "Means of verification used:":"Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Strategic and Performance Reports",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5850609,-0.9804667 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Genesis self help group ",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":0,
+    "Challenges facing:":"Low quality of pipe, verdalisim from community , Untreated water ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5868178,-0.9854311 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Gachiengo water kiosk",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Theft of gatevalves , Pipe damages, Pipe blockages, Iinadequate storage ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5877811,-0.9873434 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Simpo water project ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":8,
+    "Number of the active Household Connections:":10,
+    "Challenges facing:":"Poor clas of pipes , Verdalisim of pipe by community and monkey ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5855484,-0.9809291 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Maji safi water project ",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":60,
+    "Challenges facing:":"PIPE damages, Over charging or permits",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5892859,-0.9823079 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Hedansaale water",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":25,
+    "Number of the active Household Connections:":330,
+    "Challenges facing:":"Pipe damages , Lack of quality pipes, Iadequate storage ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5842391,-0.9881585 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Njiriri water kiosk ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Bad quality of pipes, Pipe damages",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5827412,-0.986817 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Bidii",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":44,
+    "Challenges facing:":"Bad quality of pipes, Unable to treat water, Pipe damaged ",
+    "Means of verification used:":"Other (please specify), Strategic and Performance Reports",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5847906,-0.9821493 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"MAAI MAHIU TOWNSHIP WATER PROJECT",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":29,
+    "Number of the active Household Connections:":117,
+    "Challenges facing:":"PIPES, Financial constraint, Gate valves connection",
+    "Means of verification used:":"Customer Register and Service Coverage Report, Customer Complaints and Resolution Report",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.429316,-0.804848 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Sanctuary spa and resort ",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":1,
+    "Number of the active Household Connections:":25,
+    "Challenges facing:":"Onboarding on new customers , Ccustomers not affording to pay for new connection fee, Overflows due to low demand ",
+    "Means of verification used:":"Regulatory and Compliance Reports, Customer Register and Service Coverage Report, Billing and Revenue Collection Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5862003,-0.9776729 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Millimani conservation resourse group",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":20,
+    "Number of the active Household Connections:":300,
+    "Challenges facing:":"Bad quality of pipes, Theft of the pipes, Lack of adequate storage , Challenging of laying of pipes",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46213667,-0.745725 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Abraham services water project",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":3,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Water sometimes is insufficient",
+    "Means of verification used:":"Customer Register and Service Coverage Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46222667,-0.745796667 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Upendo village water project ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":3,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Less customers",
+    "Means of verification used:":"Regulatory and Compliance Reports, Income and Expenditure Statement, Procurement and Inventory Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.519858,-0.779768 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Nyamathi Water Project (Muranja)",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":220,
+    "Challenges facing:":"Masonry Tank leakage, Mismanagement, One borehole is not operational after collapsing",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5834509,-0.9804146 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Upendo wa thati project",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":15,
+    "Number of the active Household Connections:":15,
+    "Challenges facing:":"Pipe damages, Pipe blockage , Iinadequate storage",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5853806,-0.9779435 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Ruiru water supplier mai maihu town ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":20,
+    "Number of the active Household Connections:":17,
+    "Challenges facing:":"Verdalisim of the pipe  by thugs and monkey , Poor quality of pipes ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.530252,-0.740852 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Kanyiriri Water Project",
+    "Mode of service delivery:":"Household water connection",
+    "Years enterprise has been operational:":20,
+    "Number of the active Household Connections:":200,
+    "Challenges facing:":"Small network coverage , Very old infrastructure - tank and pipelines , Poor billing methods - connected customers do not have water meters",
+    "Means of verification used:":"Customer Register and Service Coverage Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.563381,-0.9900546 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Ridges water Boresha children's home ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":6,
+    "Number of the active Household Connections:":0,
+    "Challenges facing:":"Damages of pipes , Damages of tank, Pipe blockage , Theft of pipes and gavelves , Inadequate storage",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5785816,-0.985684 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Baba njokis water project ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":12,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High electricity bills , Vverdalisim from the forest , Wrong piping and class",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5840008,-0.9738148 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mbugua water kiosk ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":3,
+    "Number of the active Household Connections:":17,
+    "Challenges facing:":"Inadequate storage , Pipe damages, Theft of pipes, Unable to purchase bulk meters",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.48725,-0.770194 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Karai Water Project",
+    "Mode of service delivery:":"Household water connection, Water Kiosk",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":260,
+    "Challenges facing:":"Insufficient water supply, Small network, Additional borehole required, Electricity bill high, Solar which is not working",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Other (please specify)",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4758883,-0.84195 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Tushirikiane tuishi kwa pamoja",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High electricity bills , politics within the members, verdalisim ",
+    "Means of verification used:":"Income and Expenditure Statement, Other (please specify)",
+    "Administrative region":"Olkaria, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2244417,-0.7838117 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Osage",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Poor class of pipes ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Maiella, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2024118,-0.8204885 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"NGONDI WATER PROJECT",
+    "Mode of service delivery:":"Water Kiosk, Household water connection, Bulk Water sales, Other (please specify)",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":0,
+    "Challenges facing:":"High bills of electricity, , Poor class of pipes and politics from the community ",
+    "Means of verification used:":"Billing and Revenue Collection Report, Other (please specify)",
+    "Administrative region":"Maiella, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5849634,-0.984323 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Gitau water kiosk ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":15,
+    "Challenges facing:":"Pipe damages by animals and people , Pipe blockage , Bad quality of pipes , Vandalism of pipes and gatevalves ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.57945,-0.981465 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Wa Jane water",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":13,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Insufficient of water, Unable to build a kiosk",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5791242,-0.9808079 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Imani water kiosk",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":1,
+    "Challenges facing:":"Impurities of water, Pipe damages , Vandalism of pipes , Inadequate storage ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5818595,-0.9810478 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Fossil contractor limited ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":10,
+    "Number of the active Household Connections:":165,
+    "Challenges facing:":"Maintenance of pipes , Iinadequate storage , Cost of accessing customers who are far",
+    "Means of verification used:":"Billing and Revenue Collection Report, Customer Register and Service Coverage Report, Customer Complaints and Resolution Report, Income and Expenditure Statement, Procurement and Inventory Report, Regulatory and Compliance Reports, Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5793817,-0.9836106 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"David gitau",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":25,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Impurities of water (salt), Inadequate water, Inadequate storage ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5834715,-0.9848039 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Wasafi water ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":2,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High maintenance of pump, Inadequate water , vandalism of gatevalves ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5909635,-0.985945 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Trissac water",
+    "Mode of service delivery:":"Bulk Water sales",
+    "Years enterprise has been operational:":13,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"Pipe damages , Inadequate storage , Vandalism ",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5901752,-0.9849705 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Kagisha water kiosk ",
+    "Mode of service delivery:":"Water Kiosk",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":7,
+    "Challenges facing:":"Damages of pipes , vandalism of pipes and gatevalves , Blockage of pipes",
+    "Means of verification used:":"Other (please specify)",
+    "Administrative region":"Mai Mahiu, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4230725,-0.7069224 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Kijiji water project ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":5,
+    "Number of the active Household Connections:":15,
+    "Challenges facing:":"High electricity bills , Ccompetition from WSP",
+    "Means of verification used:":"Billing and Revenue Collection Report, Other (please specify)",
+    "Administrative region":"Lake View, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4734991,-0.7512399 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Vision water project ",
+    "Mode of service delivery:":"Household water connection, Water Kiosk",
+    "Years enterprise has been operational:":6,
+    "Number of the active Household Connections:":23,
+    "Challenges facing:":"Insufficient water , Vernderlization of pipes , Electricity bills",
+    "Means of verification used:":"Customer Register and Service Coverage Report, Billing and Revenue Collection Report",
+    "Administrative region":"Hells Gate, Naivasha, Nakuru, Kenya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4747719,-0.7496983 ]
+    },
+    "properties": {
+    "Name of the water enterprise:":"Mama mercy water project  ",
+    "Mode of service delivery:":"Water Kiosk, Household water connection",
+    "Years enterprise has been operational:":4,
+    "Number of the active Household Connections:":null,
+    "Challenges facing:":"High electricity bills , Insufficient water supply ",
+    "Means of verification used:":"Customer Register and Service Coverage Report, Billing and Revenue Collection Report",
+    "Administrative region":"Naivasha East, Naivasha, Nakuru, Kenya"
+    }
+  }
+]
+}
