@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title-bar">
-      <h1> GIS MAPPING FOR SSWSP </h1>
+      <h1> Sanitataion Baseline Mapping </h1>
     </div>
 
     <div class="footer">
