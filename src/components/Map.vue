@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title-bar">
-      <h1> Sanitataion Baseline Mapping </h1>
+      <h1> Sanitation Baseline Mapping </h1>
     </div>
 
     <div class="footer">
@@ -22,9 +22,11 @@ import "leaflet.markercluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import { useSessionStorage } from "@vueuse/core";
-import { Session } from "node:inspector";
+// import { Session } from "node:inspector";
+// import { Session } from "node:inspector";
 import type { FeatureCollection, GeoJsonProperties, Geometry } from "geojson";
-import { GeoJSON } from "geojson";
+// import { GeoJSON } from "geojson";
+import type { GeoJSON } from "geojson";
 import type { Layer } from "leaflet";
 // import { FileSessionVariableComponent } from "./MapSession.vue";
 // Types
