@@ -121,9 +121,9 @@ const addToLayerControl = (name: string, layer: leaflet.Layer) => {
 
 let userGeoMarker: leaflet.Marker;
 
-const loadGeoJSON = async () => {
+const loadGeoJSON  = async () => {
   try {
-    const response = await fetch('src/data/Sanitation Baseline (6).geojson');
+    const response = await fetch('/data/Sanitation Baseline (6).geojson');
     const data = await response.json();
 
     // Create a Marker Cluster Group
