@@ -11,7 +11,7 @@
     <input ref="fileInput" type="file" accept=".kml" style="display:none" @change="handleFileChange" />
   </div>
 
-  <div id="map" style="height: 80vh;"></div>
+  <div id="map" style="height: 88vh;"></div>
 </template>
 
 <script setup lang="ts">
