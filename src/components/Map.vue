@@ -11,7 +11,7 @@
     <input ref="fileInput" type="file" accept=".kml" style="display:none" @change="handleFileChange" />
   </div>
 
-  <div id="map" style="height: 88vh;"></div>
+  <div id="map" style="height: 85vh;"></div>
 </template>
 
 <script setup lang="ts">
@@ -156,7 +156,7 @@ const loadGeoJSON  = async () => {
 onMounted(() => {
   map = leaflet
     .map("map")
-    .setView([-0.84666, 36.45511], 11);
+    .setView([-0.84666, 36.45511], 10);
 
   // Base maps
   const osm = leaflet.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
