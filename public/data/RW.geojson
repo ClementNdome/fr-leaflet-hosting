@@ -1,0 +1,3905 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4349752,-0.7093724 ]
+    },
+    "properties": {
+    "Name of the customer?":"Ann Wangui Njogu",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10601387,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":283976,
+    "Account status":"Disconnected from the main",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.987999916,
+    "Capture the location of the meter (altitude)":1905.699951,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 9:36",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7093724,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4349752,
+    "Capture the location of the meter (Location Answered - accuracy)":2.987999916,
+    "Capture the location of the meter (Location Answered - altitude)":1905.699951,
+    "Route name?":"DEB",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from water kiosk",
+    "Is there meter installled?":"No meter at the customer premise",
+    "What are the final remarks?":"Enforce in debt collection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4345126,-0.7085703 ]
+    },
+    "properties": {
+    "Name of the customer?":"Simon Karanja",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10601496,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":39710,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":6.711999893,
+    "Capture the location of the meter (altitude)":1905.199951,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 9:38",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.708563,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4344885,
+    "Capture the location of the meter (Location Answered - accuracy)":5.836999893,
+    "Capture the location of the meter (Location Answered - altitude)":1905.199951,
+    "Route name?":"DEB",
+    "Period of no consumption":54,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4351454,-0.7082448 ]
+    },
+    "properties": {
+    "Name of the customer?":"Ruth Wanjiru",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606673,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":14625,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":6.550000191,
+    "Capture the location of the meter (altitude)":1906.699951,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 9:51",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7085123,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4345692,
+    "Capture the location of the meter (Location Answered - accuracy)":5.074999809,
+    "Capture the location of the meter (Location Answered - altitude)":1906.699951,
+    "Route name?":"DEB",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"No, meter stolen ",
+    "What are the final remarks?":"Follow up to clear bill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4322118,-0.7148505 ]
+    },
+    "properties": {
+    "Name of the customer?":"ESTON maina",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10100336,
+    "Account category":"Commercial",
+    "Service type":"Water and sewer",
+    "Account debt":2700,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.712000012,
+    "Capture the location of the meter (altitude)":1891.599976,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 10:40",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7148505,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4322118,
+    "Capture the location of the meter (Location Answered - accuracy)":1.712000012,
+    "Capture the location of the meter (Location Answered - altitude)":1891.599976,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2020,
+    "Other sources of water":"Borehole",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4343847,-0.7077136 ]
+    },
+    "properties": {
+    "Name of the customer?":"Henry Mungai Kimani",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10611139,
+    "Account category":"Residential ",
+    "Service type":"Water and sewer ",
+    "Account debt":0,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.513999939,
+    "Capture the location of the meter (altitude)":1900.300049,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 10:42",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7077136,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4343847,
+    "Capture the location of the meter (Location Answered - accuracy)":3.513999939,
+    "Capture the location of the meter (Location Answered - altitude)":1900.300049,
+    "Route name?":"DEB",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Facilitate closure of account and return meter to the office "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.432889,-0.7083435 ]
+    },
+    "properties": {
+    "Name of the customer?":"County youth gender and social services",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606538,
+    "Account category":"Government",
+    "Service type":"Water and sewer",
+    "Account debt":143424,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.404000044,
+    "Capture the location of the meter (altitude)":1905.619,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 11:16",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7083435,
+    "Capture the location of the meter (Location Answered) (longitude)":36.432889,
+    "Capture the location of the meter (Location Answered - accuracy)":3.404000044,
+    "Capture the location of the meter (Location Answered - altitude)":1905.619,
+    "Route name?":"Ap line",
+    "Period of no consumption":2022,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from main and follow up the debt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4339924,-0.7085875 ]
+    },
+    "properties": {
+    "Name of the customer?":"Kuria karanja",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10601608,
+    "Account category":"MDU",
+    "Service type":"Water and sewer",
+    "Account debt":3572,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.678999901,
+    "Capture the location of the meter (altitude)":1905.300049,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 11:27",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7085875,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4339924,
+    "Capture the location of the meter (Location Answered - accuracy)":4.678999901,
+    "Capture the location of the meter (Location Answered - altitude)":1905.300049,
+    "Route name?":"AP LINE",
+    "Period of no consumption":2023,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4338888,-0.7115776 ]
+    },
+    "properties": {
+    "Name of the customer?":"Lucy Njoki",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10602253,
+    "Account category":"Residential",
+    "Service type":"Water only",
+    "Account debt":37635,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":42.5,
+    "Capture the location of the meter (altitude)":1902.400024,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 11:39",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7115812,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4338902,
+    "Capture the location of the meter (Location Answered - accuracy)":99.51300049,
+    "Capture the location of the meter (Location Answered - altitude)":1902.400024,
+    "Route name?":"AP LINE",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4342618,-0.7141684 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Richard Githere",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606918,
+    "Account category":"MDU",
+    "Service type":"Water and sewer ",
+    "Account debt":5320,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":8.5,
+    "Capture the location of the meter (altitude)":1901,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 11:53",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7140097,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4341767,
+    "Capture the location of the meter (Location Answered - accuracy)":4.71600008,
+    "Capture the location of the meter (Location Answered - altitude)":1901,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from water venders",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4339762,-0.7138847 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Richard Githere",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606919,
+    "Account category":"MDU",
+    "Service type":"Water and sewer",
+    "Account debt":6764,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.799000025,
+    "Capture the location of the meter (altitude)":1901,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 11:54",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7138847,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4339762,
+    "Capture the location of the meter (Location Answered - accuracy)":2.799000025,
+    "Capture the location of the meter (Location Answered - altitude)":1901,
+    "Route name?":"Industrial Area",
+    "Period of no consumption":4,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4342297,-0.713981 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Richard Githere",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10610045,
+    "Account category":"Residential ",
+    "Service type":"Water and sewer ",
+    "Account debt":10350,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.613999844,
+    "Capture the location of the meter (altitude)":1901,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 11:57",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.713981,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4342297,
+    "Capture the location of the meter (Location Answered - accuracy)":4.613999844,
+    "Capture the location of the meter (Location Answered - altitude)":1901,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2023,
+    "Other sources of water":"Purchase from water venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main and follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.434091,-0.7139202 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Richard",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606916,
+    "Account category":"MDU",
+    "Service type":"Water and sewer",
+    "Account debt":33771,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.178999901,
+    "Capture the location of the meter (altitude)":1900.5,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 12:00",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7139202,
+    "Capture the location of the meter (Location Answered) (longitude)":36.434091,
+    "Capture the location of the meter (Location Answered - accuracy)":3.178999901,
+    "Capture the location of the meter (Location Answered - altitude)":1900.5,
+    "Route name?":"Industrial Area",
+    "Period of no consumption":2024,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnected from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4341373,-0.7141949 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Richard",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606914,
+    "Account category":"MDU",
+    "Service type":"Water and sewer",
+    "Account debt":15880,
+    "Account status":"Active",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.538000107,
+    "Capture the location of the meter (altitude)":1901.300049,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 12:03",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7141949,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4341373,
+    "Capture the location of the meter (Location Answered - accuracy)":4.538000107,
+    "Capture the location of the meter (Location Answered - altitude)":1901.300049,
+    "Route name?":"Industrial Area",
+    "Period of no consumption":2023,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnected from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4329357,-0.7145785 ]
+    },
+    "properties": {
+    "Name of the customer?":"Samson Mwangi",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10603886,
+    "Account category":"Residential ",
+    "Service type":"Water and sewer",
+    "Account debt":27675,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":14.00500011,
+    "Capture the location of the meter (altitude)":1894.699951,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 12:14",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2020,
+    "Other sources of water":"Well",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4328684,-0.7145393 ]
+    },
+    "properties": {
+    "Name of the customer?":"Samson Ng'ang'a",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10603887,
+    "Account category":"Residential ",
+    "Service type":"Water and sewer",
+    "Account debt":18330,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.116000175,
+    "Capture the location of the meter (altitude)":1894.599976,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 12:17",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7145393,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4328684,
+    "Capture the location of the meter (Location Answered - accuracy)":5.116000175,
+    "Capture the location of the meter (Location Answered - altitude)":1894.599976,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2020,
+    "Other sources of water":"Well",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.432462,-0.7147142 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Gitiya",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606560,
+    "Account category":"Commercial",
+    "Service type":"Water and sewer",
+    "Account debt":3550,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":32.09899902,
+    "Capture the location of the meter (altitude)":1892.900024,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 12:30",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4324176,-0.7146923 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Gitiya",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606563,
+    "Account category":"Commercial",
+    "Service type":"Water and sewer",
+    "Account debt":3550,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":21.98200035,
+    "Capture the location of the meter (altitude)":1892.900024,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 12:32",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Industrial Area",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4314486,-0.7114232 ]
+    },
+    "properties": {
+    "Name of the customer?":"Stephen Mboci",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10602773,
+    "Account category":"MDU",
+    "Service type":"Water and sewer",
+    "Account debt":0,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.5,
+    "Capture the location of the meter (altitude)":1884.015,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 12:44",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7114232,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4314486,
+    "Capture the location of the meter (Location Answered - accuracy)":1.5,
+    "Capture the location of the meter (Location Answered - altitude)":1884.015,
+    "Route name?":"Industrial Area",
+    "Period of no consumption":2023,
+    "Other sources of water":"None",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Closure of the account"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4330989,-0.7098092 ]
+    },
+    "properties": {
+    "Name of the customer?":"Evans Boro",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10608002,
+    "Account category":"Residential",
+    "Service type":"Water only",
+    "Account debt":5066,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":48.90000153,
+    "Capture the location of the meter (altitude)":1899.800049,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 13:16",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7098092,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4330989,
+    "Capture the location of the meter (Location Answered - accuracy)":65.08899689,
+    "Capture the location of the meter (Location Answered - altitude)":1899.800049,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4314062,-0.7114158 ]
+    },
+    "properties": {
+    "Name of the customer?":"Grace Wangari ",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10602663,
+    "Account category":"Residential",
+    "Service type":"Water only",
+    "Account debt":8016,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.625,
+    "Capture the location of the meter (altitude)":1900,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 13:19",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7114158,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4314062,
+    "Capture the location of the meter (Location Answered - accuracy)":1.625,
+    "Capture the location of the meter (Location Answered - altitude)":1900,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2023,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4298627,-0.7099963 ]
+    },
+    "properties": {
+    "Name of the customer?":"Moses Njuguna",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10603005,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":47090,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.299999952,
+    "Capture the location of the meter (altitude)":1886.900024,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 13:25",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7099963,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4298627,
+    "Capture the location of the meter (Location Answered - accuracy)":3.299999952,
+    "Capture the location of the meter (Location Answered - altitude)":1886.900024,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2024,
+    "Other sources of water":"Well",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main and follow up to clear bill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4298429,-0.7099458 ]
+    },
+    "properties": {
+    "Name of the customer?":"Moses Njuguna",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10603005,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":47090,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":20.7670002,
+    "Capture the location of the meter (altitude)":1886.900024,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 13:24",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7099109,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4298917,
+    "Capture the location of the meter (Location Answered - accuracy)":18.94499969,
+    "Capture the location of the meter (Location Answered - altitude)":1886.900024,
+    "Route name?":"industrial area",
+    "Period of no consumption":2024,
+    "Other sources of water":"Well",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.428836,-0.7092484 ]
+    },
+    "properties": {
+    "Name of the customer?":"Rufus maina",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10601604,
+    "Account category":"Commercial",
+    "Service type":"Water only",
+    "Account debt":2850,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":16.41300011,
+    "Capture the location of the meter (altitude)":1884.599976,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 13:33",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2021,
+    "Other sources of water":"Borehole",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4276012,-0.7058578 ]
+    },
+    "properties": {
+    "Name of the customer?":"Edith shighadi",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10605443,
+    "Account category":"Industrial area",
+    "Service type":"Water only",
+    "Account debt":0,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.864000082,
+    "Capture the location of the meter (altitude)":1874.785,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 13:50",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7058578,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4276012,
+    "Capture the location of the meter (Location Answered - accuracy)":3.864000082,
+    "Capture the location of the meter (Location Answered - altitude)":1874.785,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2024,
+    "Other sources of water":"Borehole",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4288943,-0.7086002 ]
+    },
+    "properties": {
+    "Name of the customer?":"Joseph munene",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10607361,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":8575,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":79.19999695,
+    "Capture the location of the meter (altitude)":1885.099976,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 14:02",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Industrial area",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Customer water has been disconnected from the main, follow up the debt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4322138,-0.7057372 ]
+    },
+    "properties": {
+    "Name of the customer?":"Purity Wangui",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10601418,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":3430,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.724999905,
+    "Capture the location of the meter (altitude)":1902.2,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 14:26",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7057372,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4322138,
+    "Capture the location of the meter (Location Answered - accuracy)":4.724999905,
+    "Capture the location of the meter (Location Answered - altitude)":1902.2,
+    "Route name?":"AP line",
+    "Period of no consumption":2024,
+    "Other sources of water":"Well",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4316126,-0.705473 ]
+    },
+    "properties": {
+    "Name of the customer?":"Joseph Ndungu Mwangi",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606960,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.242000103,
+    "Capture the location of the meter (altitude)":1889.6,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 14:46",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7054698,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4316148,
+    "Capture the location of the meter (Location Answered - accuracy)":2.5,
+    "Capture the location of the meter (Location Answered - altitude)":1889.8,
+    "Route name?":"AP line ",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"Vacant premises, occupied. Now consuming "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4317122,-0.705168 ]
+    },
+    "properties": {
+    "Name of the customer?":"Joseph Kungu",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10606974,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":7.282999992,
+    "Capture the location of the meter (altitude)":1889.2,
+    "Capture the location of the meter (Time Answered)":"5/27/2025 14:44",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7052424,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4317338,
+    "Capture the location of the meter (Location Answered - accuracy)":6.242000103,
+    "Capture the location of the meter (Location Answered - altitude)":1889.3,
+    "Route name?":"AP line",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premises occupied,now consuming "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.42602,-0.6990383 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Nganga Kabugi (4)",
+    "Name of the customer? (Location Answered) (latitude)":-0.6990383,
+    "Account number?":10605971,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":5550,
+    "Account status":"Active,meter stolen,disconnected from the main line. ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1127.062012,
+    "Capture the location of the meter (altitude)":1893.4,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 7:42",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Vacated premise,follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.425991,-0.6991293 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Nganga Kabugi",
+    "Name of the customer? (Location Answered) (latitude)":-0.6990786,
+    "Account number?":10603344,
+    "Account category":"Commercial ",
+    "Service type":"Water only ",
+    "Account debt":50,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.400000095,
+    "Capture the location of the meter (altitude)":1888.2,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 7:33",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.6990375,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4260228,
+    "Capture the location of the meter (Location Answered - accuracy)":4.732999802,
+    "Capture the location of the meter (Location Answered - altitude)":1893.4,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2024,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Meter stolen and replaced, now consuming water "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4295424,-0.7260033 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter ngethe",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500719,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":8230,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.021999836,
+    "Capture the location of the meter (altitude)":1884.735107,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 8:25",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7260033,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4295424,
+    "Capture the location of the meter (Location Answered - accuracy)":4.021999836,
+    "Capture the location of the meter (Location Answered - altitude)":1884.735107,
+    "Route name?":"Mukurinu",
+    "Period of no consumption":2021,
+    "Other sources of water":"Buying from venders",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from main and follow up the debt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4298056,-0.7257037 ]
+    },
+    "properties": {
+    "Name of the customer?":"Esther kamau",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500687,
+    "Account category":"Residential ",
+    "Service type":"Water only",
+    "Account debt":8055,
+    "Account status":"Sealed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.90899992,
+    "Capture the location of the meter (altitude)":1870.44873,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 8:28",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7257037,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4298056,
+    "Capture the location of the meter (Location Answered - accuracy)":4.90899992,
+    "Capture the location of the meter (Location Answered - altitude)":1870.44873,
+    "Route name?":"Mukurinu ",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.425965,-0.705055 ]
+    },
+    "properties": {
+    "Name of the customer?":"Robert Kiragu Njoroge",
+    "Name of the customer? (Location Answered) (latitude)":-0.7050556,
+    "Account number?":10603381,
+    "Account category":"Residential ",
+    "Service type":"Water only",
+    "Account debt":18665,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.099999905,
+    "Capture the location of the meter (altitude)":1889.8,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 8:38",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.705055,
+    "Capture the location of the meter (Location Answered) (longitude)":36.425965,
+    "Capture the location of the meter (Location Answered - accuracy)":3.099999905,
+    "Capture the location of the meter (Location Answered - altitude)":1889.8,
+    "Route name?":"Hopewell",
+    "Period of no consumption":2024,
+    "Other sources of water":"No, buying from water venders",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"Disconnect from the main line and follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4286659,-0.7281369 ]
+    },
+    "properties": {
+    "Name of the customer?":"Josphat waweru",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500690,
+    "Account category":"Residential ",
+    "Service type":"Water only",
+    "Account debt":50,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.728000164,
+    "Capture the location of the meter (altitude)":1875.93457,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 8:52",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7281369,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4286659,
+    "Capture the location of the meter (Location Answered - accuracy)":4.728000164,
+    "Capture the location of the meter (Location Answered - altitude)":1875.93457,
+    "Route name?":"Mukurinu",
+    "Period of no consumption":2024,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4300256,-0.7275217 ]
+    },
+    "properties": {
+    "Name of the customer?":"Samuel njuguna",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500649,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":1650,
+    "Account status":"Sealed (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.770999908,
+    "Capture the location of the meter (altitude)":1883.78125,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 9:07",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7275217,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4300256,
+    "Capture the location of the meter (Location Answered - accuracy)":4.770999908,
+    "Capture the location of the meter (Location Answered - altitude)":1883.78125,
+    "Route name?":"Mukurinu",
+    "Period of no consumption":2021,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main and follow up the debt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4291648,-0.7043656 ]
+    },
+    "properties": {
+    "Name of the customer?":"Eliud Muikia Njuguna",
+    "Name of the customer? (Location Answered) (latitude)":-0.7043656,
+    "Account number?":10603364,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":310,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2200,
+    "Capture the location of the meter (altitude)":null,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 9:17",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7043656,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4291648,
+    "Capture the location of the meter (Location Answered - accuracy)":2200,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell",
+    "Period of no consumption":2024,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacated premises, disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4286095,-0.7277027 ]
+    },
+    "properties": {
+    "Name of the customer?":"Ngugi njuguna",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10508928,
+    "Account category":"Residential ",
+    "Service type":"Water only",
+    "Account debt":0,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.989999771,
+    "Capture the location of the meter (altitude)":1869.453125,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 9:22",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7277027,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4286095,
+    "Capture the location of the meter (Location Answered - accuracy)":4.989999771,
+    "Capture the location of the meter (Location Answered - altitude)":1869.453125,
+    "Route name?":"Mukurinu",
+    "Period of no consumption":2024,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"Advise the customer water to be reconnected "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4291648,-0.7043656 ]
+    },
+    "properties": {
+    "Name of the customer?":"Eliud Muikia Njuguna",
+    "Name of the customer? (Location Answered) (latitude)":-0.7043656,
+    "Account number?":10603368,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2200,
+    "Capture the location of the meter (altitude)":null,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 9:25",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2024,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"Vacated premises, disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4291648,-0.7043656 ]
+    },
+    "properties": {
+    "Name of the customer?":"Eliud Muikai Njuguna",
+    "Name of the customer? (Location Answered) (latitude)":-0.7043656,
+    "Account number?":10603369,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":50,
+    "Account status":"On ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2200,
+    "Capture the location of the meter (altitude)":null,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 9:31",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2021,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacated premises, disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4308865,-0.7290377 ]
+    },
+    "properties": {
+    "Name of the customer?":"Njoroge ngugi",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10507011,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":16480,
+    "Account status":"Seated (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.989999771,
+    "Capture the location of the meter (altitude)":1884.791504,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 9:45",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7290377,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4308865,
+    "Capture the location of the meter (Location Answered - accuracy)":4.989999771,
+    "Capture the location of the meter (Location Answered - altitude)":1884.791504,
+    "Route name?":"Mukurinu",
+    "Period of no consumption":2023,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from main and enforce debt collection "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4317289,-0.7286599 ]
+    },
+    "properties": {
+    "Name of the customer?":"Ruth wanjiku",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500724,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":40480,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.296999931,
+    "Capture the location of the meter (altitude)":1879.750977,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 9:56",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7286539,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4317258,
+    "Capture the location of the meter (Location Answered - accuracy)":3.828000069,
+    "Capture the location of the meter (Location Answered - altitude)":1880.481689,
+    "Route name?":"Lake view",
+    "Period of no consumption":2022,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from main and enforce debt collection "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4291383,-0.7036883 ]
+    },
+    "properties": {
+    "Name of the customer?":"Vertical Agro (EPZ) Limited ",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10603355,
+    "Account category":"Industrial ",
+    "Service type":"Water only ",
+    "Account debt":500,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1861.728027,
+    "Capture the location of the meter (altitude)":1887,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 10:24",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell",
+    "Period of no consumption":2021,
+    "Other sources of water":"Borehole ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4323474,-0.7330069 ]
+    },
+    "properties": {
+    "Name of the customer?":"Thumbi ndegwa",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500738,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":8155,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.964000225,
+    "Capture the location of the meter (altitude)":1875.410156,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 10:30",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7330069,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4323474,
+    "Capture the location of the meter (Location Answered - accuracy)":4.964000225,
+    "Capture the location of the meter (Location Answered - altitude)":1875.410156,
+    "Route name?":"Lake view",
+    "Period of no consumption":2021,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To disconnect from main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4331503,-0.7335121 ]
+    },
+    "properties": {
+    "Name of the customer?":"Stanley wachanga",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10502859,
+    "Account category":"Water only ",
+    "Service type":"Residential ",
+    "Account debt":9902,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.986999989,
+    "Capture the location of the meter (altitude)":1887.084961,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 10:43",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7335121,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4331503,
+    "Capture the location of the meter (Location Answered - accuracy)":4.986999989,
+    "Capture the location of the meter (Location Answered - altitude)":1887.084961,
+    "Route name?":"Lake view",
+    "Period of no consumption":2022,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Customer to clear the bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4333657,-0.7331905 ]
+    },
+    "properties": {
+    "Name of the customer?":"Daniel Gitau",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500677,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":100,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.921999931,
+    "Capture the location of the meter (altitude)":1876.27832,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 10:50",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7331905,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4333657,
+    "Capture the location of the meter (Location Answered - accuracy)":4.921999931,
+    "Capture the location of the meter (Location Answered - altitude)":1876.27832,
+    "Route name?":"Lake view ",
+    "Period of no consumption":2024,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Advised customer to reconnect "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4291648,-0.7043656 ]
+    },
+    "properties": {
+    "Name of the customer?":"Buffalo Mall",
+    "Name of the customer? (Location Answered) (latitude)":-0.7043656,
+    "Account number?":10604612,
+    "Account category":"Commercial ",
+    "Service type":"Water only ",
+    "Account debt":8000,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2200,
+    "Capture the location of the meter (altitude)":null,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 11:00",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2021,
+    "Other sources of water":"Borehole ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4332961,-0.7320639 ]
+    },
+    "properties": {
+    "Name of the customer?":"Suleiman kanyi",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":100502927,
+    "Account category":"Lake view ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.546999931,
+    "Capture the location of the meter (altitude)":1887.148438,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 11:01",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7320639,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4332961,
+    "Capture the location of the meter (Location Answered - accuracy)":4.546999931,
+    "Capture the location of the meter (Location Answered - altitude)":1887.148438,
+    "Route name?":"Lake view ",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Customer to be reconnected "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4326471,-0.7275581 ]
+    },
+    "properties": {
+    "Name of the customer?":"John kiarie",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10506680,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":9068,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.795000076,
+    "Capture the location of the meter (altitude)":1872.047119,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 11:12",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7275581,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4326471,
+    "Capture the location of the meter (Location Answered - accuracy)":4.795000076,
+    "Capture the location of the meter (Location Answered - altitude)":1872.047119,
+    "Route name?":"Lake view ",
+    "Period of no consumption":2023,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"To be disconnected from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4324462,-0.726028 ]
+    },
+    "properties": {
+    "Name of the customer?":"John kariuki",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10507312,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":7.710000038,
+    "Capture the location of the meter (altitude)":1875.921143,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 11:20",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7260212,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4324485,
+    "Capture the location of the meter (Location Answered - accuracy)":6.524000168,
+    "Capture the location of the meter (Location Answered - altitude)":1876.075928,
+    "Route name?":"Lake view ",
+    "Period of no consumption":2024,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Customer not using our water due to excess flouride"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4323712,-0.7256028 ]
+    },
+    "properties": {
+    "Name of the customer?":"Jackson karanja",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500709,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":2850,
+    "Account status":"Sealed (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.77699995,
+    "Capture the location of the meter (altitude)":1877.447754,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 11:30",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7256028,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4323712,
+    "Capture the location of the meter (Location Answered - accuracy)":4.77699995,
+    "Capture the location of the meter (Location Answered - altitude)":1877.447754,
+    "Route name?":"Mukurinu ",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4357565,-0.7272202 ]
+    },
+    "properties": {
+    "Name of the customer?":"Benson kuria",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10500701,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":42200,
+    "Account status":"Sealed (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.221000195,
+    "Capture the location of the meter (altitude)":1885.201172,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 11:44",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7272202,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4357565,
+    "Capture the location of the meter (Location Answered - accuracy)":4.221000195,
+    "Capture the location of the meter (Location Answered - altitude)":1885.201172,
+    "Route name?":"Lake view ",
+    "Period of no consumption":2022,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Enforce debt collection "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4265133,-0.6985617 ]
+    },
+    "properties": {
+    "Name of the customer?":"Timothy Kamau",
+    "Name of the customer? (Location Answered) (latitude)":-0.6985604,
+    "Account number?":10309020,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":21498,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.099999905,
+    "Capture the location of the meter (altitude)":1886,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 12:21",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.6985617,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4265133,
+    "Capture the location of the meter (Location Answered - accuracy)":2.099999905,
+    "Capture the location of the meter (Location Answered - altitude)":1886,
+    "Route name?":"Manera",
+    "Period of no consumption":2022,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4268391,-0.6993526 ]
+    },
+    "properties": {
+    "Name of the customer?":"Waweru kihara",
+    "Name of the customer? (Location Answered) (latitude)":-0.6986205,
+    "Account number?":10604094,
+    "Account category":"Commercial ",
+    "Service type":"Water only ",
+    "Account debt":8860,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.350000024,
+    "Capture the location of the meter (altitude)":1887,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 12:35",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.6993526,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4268391,
+    "Capture the location of the meter (Location Answered - accuracy)":1.350000024,
+    "Capture the location of the meter (Location Answered - altitude)":1887,
+    "Route name?":"Hopewell",
+    "Period of no consumption":2021,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4258383,-0.69877 ]
+    },
+    "properties": {
+    "Name of the customer?":"Simon Njoroge Kabogo",
+    "Name of the customer? (Location Answered) (latitude)":-0.69877,
+    "Account number?":10603395,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":50,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.399999976,
+    "Capture the location of the meter (altitude)":1890.1,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 12:46",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.69877,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4258383,
+    "Capture the location of the meter (Location Answered - accuracy)":1.399999976,
+    "Capture the location of the meter (Location Answered - altitude)":1890.1,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2020,
+    "Other sources of water":"Well",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"Disconnect from the main"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4257804,-0.6986983 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Njeng",
+    "Name of the customer? (Location Answered) (latitude)":-0.6986467,
+    "Account number?":10603309,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":50,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.724999905,
+    "Capture the location of the meter (altitude)":1879.6,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 12:56",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.6986983,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4257804,
+    "Capture the location of the meter (Location Answered - accuracy)":4.724999905,
+    "Capture the location of the meter (Location Answered - altitude)":1879.6,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2024,
+    "Other sources of water":"Buying from vendors",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Return the meter to the office "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4252083,-0.698975 ]
+    },
+    "properties": {
+    "Name of the customer?":"Hopewell secondary school ",
+    "Name of the customer? (Location Answered) (latitude)":-0.698975,
+    "Account number?":10601577,
+    "Account category":"School ",
+    "Service type":"Water only ",
+    "Account debt":152801,
+    "Account status":"Disconnected ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1965.219971,
+    "Capture the location of the meter (altitude)":1888.9,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 13:18",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2020,
+    "Other sources of water":"Borehole ",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Facilitate closure of account "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4254133,-0.70418 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Njuguna Wanjiru",
+    "Name of the customer? (Location Answered) (latitude)":-0.7041799,
+    "Account number?":10602691,
+    "Account category":"Cut off",
+    "Service type":"Water only ",
+    "Account debt":15498,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.599999905,
+    "Capture the location of the meter (altitude)":1884.4,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 8:30",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.70418,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4254133,
+    "Capture the location of the meter (Location Answered - accuracy)":2.599999905,
+    "Capture the location of the meter (Location Answered - altitude)":1884.4,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2023,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.42602,-0.6990383 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Nganga (6)",
+    "Name of the customer? (Location Answered) (latitude)":-0.6990383,
+    "Account number?":10605972,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":5550,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1392.790039,
+    "Capture the location of the meter (altitude)":1893.4,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 7:49",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Hopewell",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"No, meter stolen ",
+    "What are the final remarks?":"Vacated premises, follow up to clear bill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4260433,-0.6977583 ]
+    },
+    "properties": {
+    "Name of the customer?":"Keroche Breweries ",
+    "Name of the customer? (Location Answered) (latitude)":-0.6977567,
+    "Account number?":10102727,
+    "Account category":"Industrial ",
+    "Service type":"Sewer only ",
+    "Account debt":3285862,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":8.583000183,
+    "Capture the location of the meter (altitude)":1892.3,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 12:12",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.6977583,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4260433,
+    "Capture the location of the meter (Location Answered - accuracy)":7.199999809,
+    "Capture the location of the meter (Location Answered - altitude)":1892.3,
+    "Route name?":"Hopewell",
+    "Period of no consumption":2023,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4259693,-0.699086 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Nganga (3)",
+    "Name of the customer? (Location Answered) (latitude)":-0.699086,
+    "Account number?":10605973,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":5550,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.800000191,
+    "Capture the location of the meter (altitude)":1888.5,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 7:52",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.699086,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4259693,
+    "Capture the location of the meter (Location Answered - accuracy)":4.800000191,
+    "Capture the location of the meter (Location Answered - altitude)":1888.5,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Vacated premises, follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4259683,-0.6990867 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Nganga (1)",
+    "Name of the customer? (Location Answered) (latitude)":-0.6990867,
+    "Account number?":10605974,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":5550,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.5,
+    "Capture the location of the meter (altitude)":1888.5,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 7:54",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.6990867,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4259683,
+    "Capture the location of the meter (Location Answered - accuracy)":4.5,
+    "Capture the location of the meter (Location Answered - altitude)":1888.5,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Vacated premises,follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4259669,-0.699099 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Nganga (5)",
+    "Name of the customer? (Location Answered) (latitude)":-0.6990892,
+    "Account number?":10605975,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":5550,
+    "Account status":"Active",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.75,
+    "Capture the location of the meter (altitude)":1888.6,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 7:57",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.699099,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4259669,
+    "Capture the location of the meter (Location Answered - accuracy)":4.75,
+    "Capture the location of the meter (Location Answered - altitude)":1888.6,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Vacated premises, follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4260083,-0.6990883 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Nganga",
+    "Name of the customer? (Location Answered) (latitude)":-0.6990862,
+    "Account number?":10605976,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":5550,
+    "Account status":"Active",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.400000095,
+    "Capture the location of the meter (altitude)":1888.5,
+    "Capture the location of the meter (Time Answered)":"5/28/2025 7:59",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.6990883,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4260083,
+    "Capture the location of the meter (Location Answered - accuracy)":4.400000095,
+    "Capture the location of the meter (Location Answered - altitude)":1888.5,
+    "Route name?":"Hopewell ",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Vacated premises, follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4463087,-0.7318318 ]
+    },
+    "properties": {
+    "Name of the customer?":"Tabitha Wanjiru Kamau",
+    "Name of the customer? (Location Answered) (latitude)":-0.7318318,
+    "Account number?":10303674,
+    "Account category":"Residential",
+    "Service type":"Water only ",
+    "Account debt":97742,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.265999794,
+    "Capture the location of the meter (altitude)":1965.900024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 5:32",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7318318,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4463087,
+    "Capture the location of the meter (Location Answered - accuracy)":4.265999794,
+    "Capture the location of the meter (Location Answered - altitude)":1965.900024,
+    "Route name?":"Police container ",
+    "Period of no consumption":2022,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4421833,-0.73298 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Njenga Kiragu",
+    "Name of the customer? (Location Answered) (latitude)":-0.73298,
+    "Account number?":10302145,
+    "Account category":"Residential",
+    "Service type":"Water only ",
+    "Account debt":660448,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.5,
+    "Capture the location of the meter (altitude)":1941.7,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 5:52",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.73298,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4421833,
+    "Capture the location of the meter (Location Answered - accuracy)":1.5,
+    "Capture the location of the meter (Location Answered - altitude)":1941.7,
+    "Route name?":"Police container ",
+    "Period of no consumption":2023,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4416733,-0.7328533 ]
+    },
+    "properties": {
+    "Name of the customer?":"Stephen Kariuki Maina",
+    "Name of the customer? (Location Answered) (latitude)":-0.7328533,
+    "Account number?":10307388,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":755,
+    "Account status":"CORT",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.215999961,
+    "Capture the location of the meter (altitude)":1946.7,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 5:56",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7328533,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4416733,
+    "Capture the location of the meter (Location Answered - accuracy)":1.215999961,
+    "Capture the location of the meter (Location Answered - altitude)":1946.7,
+    "Route name?":"Police container ",
+    "Period of no consumption":2021,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4415431,-0.7324965 ]
+    },
+    "properties": {
+    "Name of the customer?":"Alice Njoki Wairi",
+    "Name of the customer? (Location Answered) (latitude)":-0.7325048,
+    "Account number?":10300744,
+    "Account category":"Residential",
+    "Service type":"Water only ",
+    "Account debt":50,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.599999905,
+    "Capture the location of the meter (altitude)":1952,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:06",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7324965,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4415431,
+    "Capture the location of the meter (Location Answered - accuracy)":3.599999905,
+    "Capture the location of the meter (Location Answered - altitude)":1952,
+    "Route name?":"Police container ",
+    "Period of no consumption":2024,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4511854,-0.7332366 ]
+    },
+    "properties": {
+    "Name of the customer?":"Government office",
+    "Name of the customer? (Location Answered) (latitude)":-0.7332359,
+    "Account number?":10300898,
+    "Account category":"Government ",
+    "Service type":"Water only ",
+    "Account debt":275,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.823999882,
+    "Capture the location of the meter (altitude)":1979,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:12",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7332366,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4511854,
+    "Capture the location of the meter (Location Answered - accuracy)":4.823999882,
+    "Capture the location of the meter (Location Answered - altitude)":1979,
+    "Route name?":"Guest inn",
+    "Period of no consumption":5,
+    "Other sources of water":"Customer harvesting rain water",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Customer to start using our services once the tank is empty "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4499411,-0.7332342 ]
+    },
+    "properties": {
+    "Name of the customer?":"Mary makori",
+    "Name of the customer? (Location Answered) (latitude)":-0.7332413,
+    "Account number?":10300890,
+    "Account category":"Government ",
+    "Service type":"Water only ",
+    "Account debt":7635,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5,
+    "Capture the location of the meter (altitude)":1977.235596,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:18",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7332342,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4499411,
+    "Capture the location of the meter (Location Answered - accuracy)":5,
+    "Capture the location of the meter (Location Answered - altitude)":1977.235596,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2022,
+    "Other sources of water":"Customer harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Customer line to be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4516626,-0.733524 ]
+    },
+    "properties": {
+    "Name of the customer?":"Andrew kimani",
+    "Name of the customer? (Location Answered) (latitude)":-0.733524,
+    "Account number?":10302522,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":2390,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.755000114,
+    "Capture the location of the meter (altitude)":1979,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:24",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.733524,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4516626,
+    "Capture the location of the meter (Location Answered - accuracy)":4.755000114,
+    "Capture the location of the meter (Location Answered - altitude)":1979,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2023,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4517736,-0.7337411 ]
+    },
+    "properties": {
+    "Name of the customer?":"Josphat nyongesa",
+    "Name of the customer? (Location Answered) (latitude)":-0.7337524,
+    "Account number?":10300859,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":10568,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.223999977,
+    "Capture the location of the meter (altitude)":1981.400024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:27",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7337297,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4517732,
+    "Capture the location of the meter (Location Answered - accuracy)":3.967999935,
+    "Capture the location of the meter (Location Answered - altitude)":1981.400024,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2025,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4519744,-0.7334858 ]
+    },
+    "properties": {
+    "Name of the customer?":"Magdalene kariuki",
+    "Name of the customer? (Location Answered) (latitude)":-0.7334858,
+    "Account number?":10300882,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":210,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.696000099,
+    "Capture the location of the meter (altitude)":1980.599976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:31",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7334858,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4519744,
+    "Capture the location of the meter (Location Answered - accuracy)":4.696000099,
+    "Capture the location of the meter (Location Answered - altitude)":1980.599976,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To follow up on the pending bill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4415069,-0.7305359 ]
+    },
+    "properties": {
+    "Name of the customer?":"Cleopas okore",
+    "Name of the customer? (Location Answered) (latitude)":-0.7305246,
+    "Account number?":10300768,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":60575,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.5,
+    "Capture the location of the meter (altitude)":1953.8,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:31",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7305359,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4415069,
+    "Capture the location of the meter (Location Answered - accuracy)":3.5,
+    "Capture the location of the meter (Location Answered - altitude)":1953.8,
+    "Route name?":"Police container ",
+    "Period of no consumption":2021,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4415383,-0.73052 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Mukuha Kago",
+    "Name of the customer? (Location Answered) (latitude)":-0.7305187,
+    "Account number?":10300930,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":80992,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.299999952,
+    "Capture the location of the meter (altitude)":1957.599976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:35",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.73052,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4415383,
+    "Capture the location of the meter (Location Answered - accuracy)":2.299999952,
+    "Capture the location of the meter (Location Answered - altitude)":1957.599976,
+    "Route name?":"Police container ",
+    "Period of no consumption":2022,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4419265,-0.7304063 ]
+    },
+    "properties": {
+    "Name of the customer?":"Linet Wairimu Mukuha",
+    "Name of the customer? (Location Answered) (latitude)":-0.7304036,
+    "Account number?":10300875,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":695,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.5,
+    "Capture the location of the meter (altitude)":1960.1,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:42",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7304063,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4419265,
+    "Capture the location of the meter (Location Answered - accuracy)":1.5,
+    "Capture the location of the meter (Location Answered - altitude)":1960.1,
+    "Route name?":"Police container ",
+    "Period of no consumption":2024,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacated premises, follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4425867,-0.7302017 ]
+    },
+    "properties": {
+    "Name of the customer?":"Elizabeth Kabura Mbugua",
+    "Name of the customer? (Location Answered) (latitude)":-0.7302017,
+    "Account number?":10302168,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":134443,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.299999952,
+    "Capture the location of the meter (altitude)":1961.7,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:53",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7302017,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4425867,
+    "Capture the location of the meter (Location Answered - accuracy)":1.299999952,
+    "Capture the location of the meter (Location Answered - altitude)":1961.7,
+    "Route name?":"Police container ",
+    "Period of no consumption":2021,
+    "Other sources of water":"Purchasing from water vendors ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4505074,-0.7302392 ]
+    },
+    "properties": {
+    "Name of the customer?":"Thomas kibeti",
+    "Name of the customer? (Location Answered) (latitude)":-0.7302392,
+    "Account number?":10200222,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":-100,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.956999779,
+    "Capture the location of the meter (altitude)":1977.900024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 6:55",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7302392,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4505074,
+    "Capture the location of the meter (Location Answered - accuracy)":4.956999779,
+    "Capture the location of the meter (Location Answered - altitude)":1977.900024,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2024,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Customer has an active connection "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4425574,-0.7315231 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Aloo",
+    "Name of the customer? (Location Answered) (latitude)":-0.7315231,
+    "Account number?":10300925,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.5,
+    "Capture the location of the meter (altitude)":1954.699951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:05",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7315231,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4425574,
+    "Capture the location of the meter (Location Answered - accuracy)":4.5,
+    "Capture the location of the meter (Location Answered - altitude)":1954.699951,
+    "Route name?":"Police container ",
+    "Period of no consumption":2025,
+    "Other sources of water":"Rain harvest ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4510972,-0.7303435 ]
+    },
+    "properties": {
+    "Name of the customer?":"Joash nduko",
+    "Name of the customer? (Location Answered) (latitude)":-0.7302989,
+    "Account number?":10200094,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":49692,
+    "Account status":"Sealed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.840000153,
+    "Capture the location of the meter (altitude)":1973.900024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:06",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7303435,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4510972,
+    "Capture the location of the meter (Location Answered - accuracy)":4.840000153,
+    "Capture the location of the meter (Location Answered - altitude)":1973.900024,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4415917,-0.7319083 ]
+    },
+    "properties": {
+    "Name of the customer?":"Naomi Wakonyo Kamau",
+    "Name of the customer? (Location Answered) (latitude)":-0.7318998,
+    "Account number?":10302214,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":2700,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.600000024,
+    "Capture the location of the meter (altitude)":1953.5,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:13",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7319083,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4415917,
+    "Capture the location of the meter (Location Answered - accuracy)":1.600000024,
+    "Capture the location of the meter (Location Answered - altitude)":1953.5,
+    "Route name?":"Police container ",
+    "Period of no consumption":2022,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacated premises, disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4510433,-0.7298974 ]
+    },
+    "properties": {
+    "Name of the customer?":"Michael muchiri",
+    "Name of the customer? (Location Answered) (latitude)":-0.7298918,
+    "Account number?":10200151,
+    "Account category":"MDU",
+    "Service type":"Water only",
+    "Account debt":82935,
+    "Account status":"Sealed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.815000057,
+    "Capture the location of the meter (altitude)":1973.099976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:13",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7298974,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4510433,
+    "Capture the location of the meter (Location Answered - accuracy)":4.815000057,
+    "Capture the location of the meter (Location Answered - altitude)":1973.099976,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"No meter at the customer premises"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4416033,-0.7319033 ]
+    },
+    "properties": {
+    "Name of the customer?":"Naomi Wakonyo Kamau",
+    "Name of the customer? (Location Answered) (latitude)":-0.7318933,
+    "Account number?":10308692,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":4350,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.565999985,
+    "Capture the location of the meter (altitude)":1954.9,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:16",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7319033,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4416033,
+    "Capture the location of the meter (Location Answered - accuracy)":1.565999985,
+    "Capture the location of the meter (Location Answered - altitude)":1954.9,
+    "Route name?":"Police container ",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacated premises, disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4499387,-0.7306049 ]
+    },
+    "properties": {
+    "Name of the customer?":"Amos njenga",
+    "Name of the customer? (Location Answered) (latitude)":-0.7305856,
+    "Account number?":10202786,
+    "Account category":"Retail shop",
+    "Service type":"Water only ",
+    "Account debt":94375,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.630000114,
+    "Capture the location of the meter (altitude)":1974.199951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:26",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7306049,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4499387,
+    "Capture the location of the meter (Location Answered - accuracy)":4.630000114,
+    "Capture the location of the meter (Location Answered - altitude)":1974.199951,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from water venders",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4422217,-0.73203 ]
+    },
+    "properties": {
+    "Name of the customer?":"Catherine Wanjiku Muchiri",
+    "Name of the customer? (Location Answered) (latitude)":-0.73203,
+    "Account number?":10308274,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.315999985,
+    "Capture the location of the meter (altitude)":1960.9,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:27",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.73203,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4422217,
+    "Capture the location of the meter (Location Answered - accuracy)":1.315999985,
+    "Capture the location of the meter (Location Answered - altitude)":1960.9,
+    "Route name?":"Police container ",
+    "Period of no consumption":2021,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premises, disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4430817,-0.7321767 ]
+    },
+    "properties": {
+    "Name of the customer?":"Hannah Wanjiri Kamu",
+    "Name of the customer? (Location Answered) (latitude)":-0.7321767,
+    "Account number?":10309631,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":4898,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.399999976,
+    "Capture the location of the meter (altitude)":1962.8,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:37",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7321767,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4430817,
+    "Capture the location of the meter (Location Answered - accuracy)":1.399999976,
+    "Capture the location of the meter (Location Answered - altitude)":1962.8,
+    "Route name?":"Police container ",
+    "Period of no consumption":2025,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4505377,-0.7296972 ]
+    },
+    "properties": {
+    "Name of the customer?":"David kamau",
+    "Name of the customer? (Location Answered) (latitude)":-0.729696,
+    "Account number?":10206505,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":1875,
+    "Account status":"Sealed(cut off)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.534999847,
+    "Capture the location of the meter (altitude)":1983,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:45",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7296972,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4505377,
+    "Capture the location of the meter (Location Answered - accuracy)":4.534999847,
+    "Capture the location of the meter (Location Answered - altitude)":1983,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2024,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4492168,-0.7298701 ]
+    },
+    "properties": {
+    "Name of the customer?":"Samuel macharia",
+    "Name of the customer? (Location Answered) (latitude)":-0.7298577,
+    "Account number?":10205652,
+    "Account category":"Retail shop ",
+    "Service type":"Water only ",
+    "Account debt":63628,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.761000156,
+    "Capture the location of the meter (altitude)":1971.699951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:50",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7298701,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4492168,
+    "Capture the location of the meter (Location Answered - accuracy)":4.761000156,
+    "Capture the location of the meter (Location Answered - altitude)":1971.699951,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2024,
+    "Other sources of water":"Customer buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4493324,-0.7287637 ]
+    },
+    "properties": {
+    "Name of the customer?":"George warui",
+    "Name of the customer? (Location Answered) (latitude)":-0.7287764,
+    "Account number?":10305145,
+    "Account category":"Residential ",
+    "Service type":"Water only",
+    "Account debt":27718,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.229000092,
+    "Capture the location of the meter (altitude)":1969.900024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 7:58",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7287637,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4493324,
+    "Capture the location of the meter (Location Answered - accuracy)":4.229000092,
+    "Capture the location of the meter (Location Answered - altitude)":1969.900024,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2023,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4429011,-0.7329892 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Mwangi Thuku",
+    "Name of the customer? (Location Answered) (latitude)":-0.73304,
+    "Account number?":10300842,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":10194,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.551000118,
+    "Capture the location of the meter (altitude)":1951.7,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:05",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7329892,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4429011,
+    "Capture the location of the meter (Location Answered - accuracy)":4.551000118,
+    "Capture the location of the meter (Location Answered - altitude)":1951.7,
+    "Route name?":"Police container ",
+    "Period of no consumption":2024,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4477628,-0.7284792 ]
+    },
+    "properties": {
+    "Name of the customer?":"Premire wave limited",
+    "Name of the customer? (Location Answered) (latitude)":-0.7284646,
+    "Account number?":10303975,
+    "Account category":"Retail shop ",
+    "Service type":"Water only ",
+    "Account debt":7117,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.441999912,
+    "Capture the location of the meter (altitude)":1968.400024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:06",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7284823,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4477612,
+    "Capture the location of the meter (Location Answered - accuracy)":4.257999897,
+    "Capture the location of the meter (Location Answered - altitude)":1968.400024,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2022,
+    "Other sources of water":"N/A construction stopped ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To follow up with the customer to clear the pending bill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4474838,-0.7281601 ]
+    },
+    "properties": {
+    "Name of the customer?":"Zacharia",
+    "Name of the customer? (Location Answered) (latitude)":-0.7281784,
+    "Account number?":10202186,
+    "Account category":"Residential ",
+    "Service type":"Water only",
+    "Account debt":0,
+    "Account status":"Closed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.975999832,
+    "Capture the location of the meter (altitude)":1961,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:18",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7281601,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4474838,
+    "Capture the location of the meter (Location Answered - accuracy)":4.975999832,
+    "Capture the location of the meter (Location Answered - altitude)":1961,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":0,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Account closed meter returned to the store "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4461276,-0.7262474 ]
+    },
+    "properties": {
+    "Name of the customer?":"Samuel Gitau ",
+    "Name of the customer? (Location Answered) (latitude)":-0.7262134,
+    "Account number?":10304237,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":1750,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.822000027,
+    "Capture the location of the meter (altitude)":1955.599976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:37",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7262474,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4461276,
+    "Capture the location of the meter (Location Answered - accuracy)":4.822000027,
+    "Capture the location of the meter (Location Answered - altitude)":1955.599976,
+    "Route name?":"Guest inn",
+    "Period of no consumption":2022,
+    "Other sources of water":"N/A ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To follow up with the customer on the arrears"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4461528,-0.7262466 ]
+    },
+    "properties": {
+    "Name of the customer?":"Samuel Gitau ",
+    "Name of the customer? (Location Answered) (latitude)":-0.7262466,
+    "Account number?":10304235,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.724999905,
+    "Capture the location of the meter (altitude)":1955.599976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:39",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7262466,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4461528,
+    "Capture the location of the meter (Location Answered - accuracy)":4.724999905,
+    "Capture the location of the meter (Location Answered - altitude)":1955.599976,
+    "Route name?":"Guest inn",
+    "Period of no consumption":0,
+    "Other sources of water":"None",
+    "Is there meter installled?":"Yes ",
+    "What are the final remarks?":"Customer line has a leakage before the meter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4461997,-0.7254524 ]
+    },
+    "properties": {
+    "Name of the customer?":"Joy celebration ",
+    "Name of the customer? (Location Answered) (latitude)":-0.7254176,
+    "Account number?":10304326,
+    "Account category":"Retail shop ",
+    "Service type":"Water only ",
+    "Account debt":67675,
+    "Account status":"Sealed (wired )",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.820000172,
+    "Capture the location of the meter (altitude)":1952.800049,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:44",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7254524,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4461997,
+    "Capture the location of the meter (Location Answered - accuracy)":4.820000172,
+    "Capture the location of the meter (Location Answered - altitude)":1952.800049,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2024,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To follow up on the debt collection "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4454576,-0.7247629 ]
+    },
+    "properties": {
+    "Name of the customer?":"Christopher muiruri",
+    "Name of the customer? (Location Answered) (latitude)":-0.72478,
+    "Account number?":10304421,
+    "Account category":"Retail shop ",
+    "Service type":"Water only ",
+    "Account debt":8300,
+    "Account status":"Sealed (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.828000069,
+    "Capture the location of the meter (altitude)":1950.900024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:48",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7247629,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4454576,
+    "Capture the location of the meter (Location Answered - accuracy)":4.828000069,
+    "Capture the location of the meter (Location Answered - altitude)":1950.900024,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2020,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Construction stopped "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4454018,-0.7245793 ]
+    },
+    "properties": {
+    "Name of the customer?":"Francis karuku",
+    "Name of the customer? (Location Answered) (latitude)":-0.7245793,
+    "Account number?":10202174,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":27261,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.920000076,
+    "Capture the location of the meter (altitude)":1949.800049,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 8:51",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7245793,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4454018,
+    "Capture the location of the meter (Location Answered - accuracy)":4.920000076,
+    "Capture the location of the meter (Location Answered - altitude)":1949.800049,
+    "Route name?":"Guest inn",
+    "Period of no consumption":2024,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4454882,-0.7242306 ]
+    },
+    "properties": {
+    "Name of the customer?":"Susan wambui ",
+    "Name of the customer? (Location Answered) (latitude)":-0.7242306,
+    "Account number?":10210866,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":5058,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.68599987,
+    "Capture the location of the meter (altitude)":1950,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:06",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7242512,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4455283,
+    "Capture the location of the meter (Location Answered - accuracy)":6.513999939,
+    "Capture the location of the meter (Location Answered - altitude)":1951,
+    "Route name?":"Guest inn ",
+    "Period of no consumption":2024,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To follow up with the bill arrears "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.442195,-0.7304133 ]
+    },
+    "properties": {
+    "Name of the customer?":"John Kimani Githua",
+    "Name of the customer? (Location Answered) (latitude)":-0.7304133,
+    "Account number?":10311558,
+    "Account category":"Residential ",
+    "Service type":"Water and sewer",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.595999956,
+    "Capture the location of the meter (altitude)":1957.599976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:07",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7304133,
+    "Capture the location of the meter (Location Answered) (longitude)":36.442195,
+    "Capture the location of the meter (Location Answered - accuracy)":1.595999956,
+    "Capture the location of the meter (Location Answered - altitude)":1957.599976,
+    "Route name?":"Police container ",
+    "Period of no consumption":2024,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premises, disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4482095,-0.7247515 ]
+    },
+    "properties": {
+    "Name of the customer?":"Eddy kuria",
+    "Name of the customer? (Location Answered) (latitude)":-0.7247645,
+    "Account number?":10308341,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":310,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.882999897,
+    "Capture the location of the meter (altitude)":1950.900024,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:16",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7247591,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4482206,
+    "Capture the location of the meter (Location Answered - accuracy)":4.705999851,
+    "Capture the location of the meter (Location Answered - altitude)":1950.900024,
+    "Route name?":"Heritage ",
+    "Period of no consumption":2024,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Active connection "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.445577,-0.7327784 ]
+    },
+    "properties": {
+    "Name of the customer?":"Samuel Nduru Rono",
+    "Name of the customer? (Location Answered) (latitude)":-0.7327782,
+    "Account number?":10300956,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":77560,
+    "Account status":"Sealed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4,
+    "Capture the location of the meter (altitude)":1962,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:25",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7327784,
+    "Capture the location of the meter (Location Answered) (longitude)":36.445577,
+    "Capture the location of the meter (Location Answered - accuracy)":4,
+    "Capture the location of the meter (Location Answered - altitude)":1962,
+    "Route name?":"Helping Hands",
+    "Period of no consumption":2021,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.44373,-0.7340767 ]
+    },
+    "properties": {
+    "Name of the customer?":"Priscillar Mugure",
+    "Name of the customer? (Location Answered) (latitude)":-0.7340754,
+    "Account number?":10302794,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.799999952,
+    "Capture the location of the meter (altitude)":1943,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:40",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7340767,
+    "Capture the location of the meter (Location Answered) (longitude)":36.44373,
+    "Capture the location of the meter (Location Answered - accuracy)":2.799999952,
+    "Capture the location of the meter (Location Answered - altitude)":1943,
+    "Route name?":"Helping hands ",
+    "Period of no consumption":2025,
+    "Other sources of water":"Rin harvesting ",
+    "Is there meter installled?":"Yee",
+    "What are the final remarks?":"Okay "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4494386,-0.7238404 ]
+    },
+    "properties": {
+    "Name of the customer?":"Mucheru macharia ",
+    "Name of the customer? (Location Answered) (latitude)":-0.7238404,
+    "Account number?":10200158,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":47650,
+    "Account status":"Sealed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.781000137,
+    "Capture the location of the meter (altitude)":1944.099976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:50",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7238404,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4494386,
+    "Capture the location of the meter (Location Answered - accuracy)":4.781000137,
+    "Capture the location of the meter (Location Answered - altitude)":1944.099976,
+    "Route name?":"Heritage ",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"No meter at the customer premises "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.44611,-0.7353317 ]
+    },
+    "properties": {
+    "Name of the customer?":"Simon Njogo Nganga",
+    "Name of the customer? (Location Answered) (latitude)":-0.7353333,
+    "Account number?":10302988,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.199999809,
+    "Capture the location of the meter (altitude)":1959.8,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:51",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7353317,
+    "Capture the location of the meter (Location Answered) (longitude)":36.44611,
+    "Capture the location of the meter (Location Answered - accuracy)":4.199999809,
+    "Capture the location of the meter (Location Answered - altitude)":1959.8,
+    "Route name?":"Helping hands",
+    "Period of no consumption":2023,
+    "Other sources of water":"Rain harvest ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Okay "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4494087,-0.7233563 ]
+    },
+    "properties": {
+    "Name of the customer?":"Wallace kibe",
+    "Name of the customer? (Location Answered) (latitude)":-0.7233563,
+    "Account number?":10200223,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":80550,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.861000061,
+    "Capture the location of the meter (altitude)":1944.099976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 9:56",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7233563,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4494087,
+    "Capture the location of the meter (Location Answered - accuracy)":4.861000061,
+    "Capture the location of the meter (Location Answered - altitude)":1944.099976,
+    "Route name?":"Heritage ",
+    "Period of no consumption":2021,
+    "Other sources of water":"Buying from venders ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Advise customer to pay the water bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4495441,-0.7233048 ]
+    },
+    "properties": {
+    "Name of the customer?":"Nahashon kahindi",
+    "Name of the customer? (Location Answered) (latitude)":-0.7233058,
+    "Account number?":10200261,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":36035,
+    "Account status":"Sealed (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.316999912,
+    "Capture the location of the meter (altitude)":1944.099976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 10:01",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.723298,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4495304,
+    "Capture the location of the meter (Location Answered - accuracy)":4.065999985,
+    "Capture the location of the meter (Location Answered - altitude)":1944.099976,
+    "Route name?":"Heritage",
+    "Period of no consumption":2021,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up with the customer debt "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4446667,-0.7357417 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Njogu Karanja",
+    "Name of the customer? (Location Answered) (latitude)":-0.7357357,
+    "Account number?":10302944,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":414,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4,
+    "Capture the location of the meter (altitude)":1949.099976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 10:03",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7357417,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4446667,
+    "Capture the location of the meter (Location Answered - accuracy)":4,
+    "Capture the location of the meter (Location Answered - altitude)":1949.099976,
+    "Route name?":"Helping hands",
+    "Period of no consumption":2023,
+    "Other sources of water":"Rain harvesting ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Okay "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.45089,-0.7255217 ]
+    },
+    "properties": {
+    "Name of the customer?":"Simeon ouma",
+    "Name of the customer? (Location Answered) (latitude)":-0.7255296,
+    "Account number?":10307554,
+    "Account category":"Religious institution ",
+    "Service type":"Water only ",
+    "Account debt":13117,
+    "Account status":"Sealed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.113999844,
+    "Capture the location of the meter (altitude)":1955.826172,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 10:16",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.72552,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4508864,
+    "Capture the location of the meter (Location Answered - accuracy)":3.813999891,
+    "Capture the location of the meter (Location Answered - altitude)":1956.57959,
+    "Route name?":"Heritage ",
+    "Period of no consumption":2024,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Meter stolen "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4511613,-0.7262973 ]
+    },
+    "properties": {
+    "Name of the customer?":"Mary njoki",
+    "Name of the customer? (Location Answered) (latitude)":-0.7262932,
+    "Account number?":10309301,
+    "Account category":"Commercial ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Viwandani, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.775000095,
+    "Capture the location of the meter (altitude)":1980.800049,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 10:20",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7262973,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4511613,
+    "Capture the location of the meter (Location Answered - accuracy)":4.775000095,
+    "Capture the location of the meter (Location Answered - altitude)":1980.800049,
+    "Route name?":"Heritage ",
+    "Period of no consumption":2024,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Construction stopped "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.44685,-0.73377 ]
+    },
+    "properties": {
+    "Name of the customer?":"Nyongesa Boniface Wafula",
+    "Name of the customer? (Location Answered) (latitude)":-0.7337685,
+    "Account number?":10306662,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":90605,
+    "Account status":"Sealed ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.299999952,
+    "Capture the location of the meter (altitude)":1962.199951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 10:38",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.73377,
+    "Capture the location of the meter (Location Answered) (longitude)":36.44685,
+    "Capture the location of the meter (Location Answered - accuracy)":2.299999952,
+    "Capture the location of the meter (Location Answered - altitude)":1962.199951,
+    "Route name?":"Helping hands",
+    "Period of no consumption":2021,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4524908,-0.7320457 ]
+    },
+    "properties": {
+    "Name of the customer?":"Wangombe mboi",
+    "Name of the customer? (Location Answered) (latitude)":-0.7320468,
+    "Account number?":10200224,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":43877,
+    "Account status":"Sealed (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.710000038,
+    "Capture the location of the meter (altitude)":1979.699951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 10:48",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7320457,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4524908,
+    "Capture the location of the meter (Location Answered - accuracy)":4.710000038,
+    "Capture the location of the meter (Location Answered - altitude)":1979.699951,
+    "Route name?":"Heritage ",
+    "Period of no consumption":3,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4476367,-0.73223 ]
+    },
+    "properties": {
+    "Name of the customer?":"Alice Njoki",
+    "Name of the customer? (Location Answered) (latitude)":-0.73223,
+    "Account number?":10300872,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":81,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.299999952,
+    "Capture the location of the meter (altitude)":1967.699951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 11:08",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.73223,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4476367,
+    "Capture the location of the meter (Location Answered - accuracy)":1.299999952,
+    "Capture the location of the meter (Location Answered - altitude)":1967.699951,
+    "Route name?":"Police container ",
+    "Period of no consumption":2023,
+    "Other sources of water":"Rain water harvesting ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Okay "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4470867,-0.7316683 ]
+    },
+    "properties": {
+    "Name of the customer?":"Francis Njuguna Karanja",
+    "Name of the customer? (Location Answered) (latitude)":-0.7316624,
+    "Account number?":10302398,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":89765,
+    "Account status":"Sealed",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.900000095,
+    "Capture the location of the meter (altitude)":1967,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 11:29",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7316683,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4470867,
+    "Capture the location of the meter (Location Answered - accuracy)":3.900000095,
+    "Capture the location of the meter (Location Answered - altitude)":1967,
+    "Route name?":"Police container ",
+    "Period of no consumption":2021,
+    "Other sources of water":"Buying from water venders",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Facilitate closure of account and follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4475385,-0.7316698 ]
+    },
+    "properties": {
+    "Name of the customer?":"Dorcas Wambui Njoroge",
+    "Name of the customer? (Location Answered) (latitude)":-0.7316713,
+    "Account number?":10302611,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":45,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.032999992,
+    "Capture the location of the meter (altitude)":1969.099976,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 11:48",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7316698,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4475385,
+    "Capture the location of the meter (Location Answered - accuracy)":4.032999992,
+    "Capture the location of the meter (Location Answered - altitude)":1969.099976,
+    "Route name?":"Police container ",
+    "Period of no consumption":2025,
+    "Other sources of water":"Storage tank",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Storage tank customer will continue consuming. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4479305,-0.7249264 ]
+    },
+    "properties": {
+    "Name of the customer?":"Bedan gitonga",
+    "Name of the customer? (Location Answered) (latitude)":-0.7249264,
+    "Account number?":10202403,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":52350,
+    "Account status":"Sealed (wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.06799984,
+    "Capture the location of the meter (altitude)":1945.699951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 12:30",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7249264,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4479305,
+    "Capture the location of the meter (Location Answered - accuracy)":4.06799984,
+    "Capture the location of the meter (Location Answered - altitude)":1945.699951,
+    "Route name?":"Heritage ",
+    "Period of no consumption":2020,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premises"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4477076,-0.7251401 ]
+    },
+    "properties": {
+    "Name of the customer?":"Edward munoka",
+    "Name of the customer? (Location Answered) (latitude)":-0.7251401,
+    "Account number?":10202449,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":15900,
+    "Account status":"Sealed(wired)",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":5.053999901,
+    "Capture the location of the meter (altitude)":1945.699951,
+    "Capture the location of the meter (Time Answered)":"5/29/2025 12:34",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Heritage",
+    "Period of no consumption":2020,
+    "Other sources of water":"Harvesting rain water ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"To be disconnected from the main "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4454883,-0.7277767 ]
+    },
+    "properties": {
+    "Name of the customer?":"Naomi njeri ondoro",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10303448,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":3200,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.48300004,
+    "Capture the location of the meter (altitude)":1960.300049,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 6:23",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7277767,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4454883,
+    "Capture the location of the meter (Location Answered - accuracy)":1.48300004,
+    "Capture the location of the meter (Location Answered - altitude)":1960.300049,
+    "Route name?":"Suberico",
+    "Period of no consumption":2022,
+    "Other sources of water":"Buying from water vendors ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4456283,-0.72767 ]
+    },
+    "properties": {
+    "Name of the customer?":"Joseph Kahu Kamau",
+    "Name of the customer? (Location Answered) (latitude)":-0.72767,
+    "Account number?":10302528,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":3940,
+    "Account status":"Cut off",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.383000016,
+    "Capture the location of the meter (altitude)":1960.300049,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 6:28",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.72767,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4456283,
+    "Capture the location of the meter (Location Answered - accuracy)":1.383000016,
+    "Capture the location of the meter (Location Answered - altitude)":1960.300049,
+    "Route name?":"Suberico",
+    "Period of no consumption":2021,
+    "Other sources of water":"",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.445078,-0.7276192 ]
+    },
+    "properties": {
+    "Name of the customer?":"Lucy Muthoni Kahiga",
+    "Name of the customer? (Location Answered) (latitude)":-0.7275738,
+    "Account number?":10302363,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":48629,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.760000229,
+    "Capture the location of the meter (altitude)":1959.900024,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 6:36",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7276192,
+    "Capture the location of the meter (Location Answered) (longitude)":36.445078,
+    "Capture the location of the meter (Location Answered - accuracy)":4.760000229,
+    "Capture the location of the meter (Location Answered - altitude)":1959.900024,
+    "Route name?":"Suberico",
+    "Period of no consumption":2021,
+    "Other sources of water":"Harvesting rain water",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line and follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4441817,-0.7278317 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul Mwarari Wambugu",
+    "Name of the customer? (Location Answered) (latitude)":-0.727832,
+    "Account number?":10303814,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"On",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.599999905,
+    "Capture the location of the meter (altitude)":1959.099976,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 6:45",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7278317,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4441817,
+    "Capture the location of the meter (Location Answered - accuracy)":2.599999905,
+    "Capture the location of the meter (Location Answered - altitude)":1959.099976,
+    "Route name?":"Suberico",
+    "Period of no consumption":2025,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Irregular water consumption, to continue using water. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4433917,-0.72763 ]
+    },
+    "properties": {
+    "Name of the customer?":"Hannah Mwihaki",
+    "Name of the customer? (Location Answered) (latitude)":-0.7276282,
+    "Account number?":10309248,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.099999905,
+    "Capture the location of the meter (altitude)":1957.900024,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 6:54",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.72763,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4433917,
+    "Capture the location of the meter (Location Answered - accuracy)":3.099999905,
+    "Capture the location of the meter (Location Answered - altitude)":1957.900024,
+    "Route name?":"Suberico",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premise, disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4433785,-0.7276692 ]
+    },
+    "properties": {
+    "Name of the customer?":"Zipporah Wanjiku",
+    "Name of the customer? (Location Answered) (latitude)":-0.7276666,
+    "Account number?":10303441,
+    "Account category":"Retail shop",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":14.32900047,
+    "Capture the location of the meter (altitude)":1957.900024,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 6:58",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Suberico",
+    "Period of no consumption":2023,
+    "Other sources of water":"Buying from venders",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Facilitate closure of account "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4438333,-0.7271 ]
+    },
+    "properties": {
+    "Name of the customer?":"Mary Nyambura Thuo",
+    "Name of the customer? (Location Answered) (latitude)":-0.7269706,
+    "Account number?":10308945,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":2.799999952,
+    "Capture the location of the meter (altitude)":1956.300049,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 7:08",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7271,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4438333,
+    "Capture the location of the meter (Location Answered - accuracy)":2.799999952,
+    "Capture the location of the meter (Location Answered - altitude)":1956.300049,
+    "Route name?":"Suberico",
+    "Period of no consumption":2021,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premise, disconnect from the main line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4437683,-0.7272183 ]
+    },
+    "properties": {
+    "Name of the customer?":"Mary Nyambura Thuo",
+    "Name of the customer? (Location Answered) (latitude)":-0.7272183,
+    "Account number?":10308946,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.199999809,
+    "Capture the location of the meter (altitude)":1956.300049,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 7:10",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7272183,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4437683,
+    "Capture the location of the meter (Location Answered - accuracy)":4.199999809,
+    "Capture the location of the meter (Location Answered - altitude)":1956.300049,
+    "Route name?":"Suberico",
+    "Period of no consumption":2023,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premise, disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4448666,-0.7269587 ]
+    },
+    "properties": {
+    "Name of the customer?":"Paul ngaruiya Kamau",
+    "Name of the customer? (Location Answered) (latitude)":-0.7269794,
+    "Account number?":10310040,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":400,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.96600008,
+    "Capture the location of the meter (altitude)":1958.599976,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 7:16",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7269587,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4448666,
+    "Capture the location of the meter (Location Answered - accuracy)":4.96600008,
+    "Capture the location of the meter (Location Answered - altitude)":1958.599976,
+    "Route name?":"Suberico",
+    "Period of no consumption":2022,
+    "Other sources of water":"No",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Vacant premise, disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4447117,-0.7267667 ]
+    },
+    "properties": {
+    "Name of the customer?":"Monicah Wnjiru ",
+    "Name of the customer? (Location Answered) (latitude)":-0.7267655,
+    "Account number?":10302344,
+    "Account category":"MDU",
+    "Service type":"Water only ",
+    "Account debt":64395,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":3.200000048,
+    "Capture the location of the meter (altitude)":1952.900024,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 7:21",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7267667,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4447117,
+    "Capture the location of the meter (Location Answered - accuracy)":3.200000048,
+    "Capture the location of the meter (Location Answered - altitude)":1952.900024,
+    "Route name?":"Suberico",
+    "Period of no consumption":2020,
+    "Other sources of water":"Buying from water vendors ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line and follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4364395,-0.7131289 ]
+    },
+    "properties": {
+    "Name of the customer?":"NAIVAWASS",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10402614,
+    "Account category":"Commercial",
+    "Service type":"Water only",
+    "Account debt":1173,
+    "Account status":"�ctive",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":104.0999985,
+    "Capture the location of the meter (altitude)":1909,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 7:37",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"AIC",
+    "Period of no consumption":3,
+    "Other sources of water":"N/A",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Meter had not been installed for the last 3 months, but now the meter has been installed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4404867,-0.72928 ]
+    },
+    "properties": {
+    "Name of the customer?":"Moses Nyanjua",
+    "Name of the customer? (Location Answered) (latitude)":-0.72931,
+    "Account number?":10307482,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":30983,
+    "Account status":"Cyt off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":11.5,
+    "Capture the location of the meter (altitude)":1944.9,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 8:31",
+    "Capture the location of the meter (Location Answered) (latitude)":null,
+    "Capture the location of the meter (Location Answered) (longitude)":null,
+    "Capture the location of the meter (Location Answered - accuracy)":null,
+    "Capture the location of the meter (Location Answered - altitude)":null,
+    "Route name?":"Police container ",
+    "Period of no consumption":2023,
+    "Other sources of water":"Rain harvesting",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Disconnect from the main line "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4404818,-0.729323 ]
+    },
+    "properties": {
+    "Name of the customer?":"Moses Nyanjua Kinyanjui",
+    "Name of the customer? (Location Answered) (latitude)":null,
+    "Account number?":10307481,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":0,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":4.915999889,
+    "Capture the location of the meter (altitude)":1947.9,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 8:28",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.729323,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4404818,
+    "Capture the location of the meter (Location Answered - accuracy)":4.915999889,
+    "Capture the location of the meter (Location Answered - altitude)":1947.9,
+    "Route name?":"Police container ",
+    "Period of no consumption":2025,
+    "Other sources of water":"Rain harvest ",
+    "Is there meter installled?":"No",
+    "What are the final remarks?":"Facilitate closure of acc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4405783,-0.7293283 ]
+    },
+    "properties": {
+    "Name of the customer?":"Moses Nyanjua",
+    "Name of the customer? (Location Answered) (latitude)":-0.7293283,
+    "Account number?":10306208,
+    "Account category":"Residential ",
+    "Service type":"Water only ",
+    "Account debt":100798,
+    "Account status":"Cut off ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.799999952,
+    "Capture the location of the meter (altitude)":1935.599976,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 8:42",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.7293283,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4405783,
+    "Capture the location of the meter (Location Answered - accuracy)":1.799999952,
+    "Capture the location of the meter (Location Answered - altitude)":1935.599976,
+    "Route name?":"Police container ",
+    "Period of no consumption":2022,
+    "Other sources of water":"Rain harvest ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Follow up to clear bill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4434367,-0.728865 ]
+    },
+    "properties": {
+    "Name of the customer?":"Peter Mwangi Kimank",
+    "Name of the customer? (Location Answered) (latitude)":-0.7289583,
+    "Account number?":10300870,
+    "Account category":"Residential ",
+    "Service type":"Water and sewer ",
+    "Account debt":0,
+    "Account status":"Active ",
+    "Capture the location of the meter (method)":"GPS",
+    "Capture the location of the meter (administrative region)":"Lake View, Naivasha, Nakuru, Kenya",
+    "Capture the location of the meter (accuracy)":1.600000024,
+    "Capture the location of the meter (altitude)":1959.900024,
+    "Capture the location of the meter (Time Answered)":"5/30/2025 9:08",
+    "Capture the location of the meter (Location Answered) (latitude)":-0.728865,
+    "Capture the location of the meter (Location Answered) (longitude)":36.4434367,
+    "Capture the location of the meter (Location Answered - accuracy)":1.600000024,
+    "Capture the location of the meter (Location Answered - altitude)":1959.900024,
+    "Route name?":"Suberico",
+    "Period of no consumption":202004,
+    "Other sources of water":"Rain harvest ",
+    "Is there meter installled?":"Yes",
+    "What are the final remarks?":"Has been using stored water but will continue consuming "
+    }
+  }
+]
+}

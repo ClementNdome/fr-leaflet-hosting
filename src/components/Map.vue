@@ -1,73 +1,60 @@
+
 <template>
   <div>
     <div class="title-bar">
-      <h1> Sanitation Baseline Mapping </h1>
+      <h1>GIS MAPPING FOR SSWSP</h1>
     </div>
 
     <div class="footer">
       <button @click="triggerFileInput" class="upload-btn">Upload KML</button>
     </div>
 
-    <input ref="fileInput" type="file" accept=".kml" style="display:none" @change="handleFileChange" />
-  </div>
+    <input ref="fileInput" type="file" accept=".kml" style="display: none" @change="handleFileChange" />
 
-  <div id="map" style="height: 85vh;"></div>
+    <div id="map" style="height: 82vh;"></div>
+  </div>
 </template>
 
 <script setup lang="ts">
 import leaflet from "leaflet";
-import { onMounted, ref } from "vue";
+import { onMounted, ref, reactive, nextTick } from "vue";
 import * as toGeoJSON from "@tmcw/togeojson";
 import "leaflet.markercluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import { useSessionStorage } from "@vueuse/core";
-// import { Session } from "node:inspector";
-// import { Session } from "node:inspector";
 import type { FeatureCollection, GeoJsonProperties, Geometry } from "geojson";
-// import { GeoJSON } from "geojson";
-import type { GeoJSON } from "geojson";
-import type { Layer } from "leaflet";
-// import { FileSessionVariableComponent } from "./MapSession.vue";
-// Types
 
-type GeoJSONFeature = {
-  type: string;
-  geometry: {
-    type: string;
-    coordinates: number[];
-  };
-  properties?: Record<string, any>;
-};
 
 const layerData = useSessionStorage("layers", {
   geojson: [] as Array<FeatureCollection<Geometry | null, GeoJsonProperties>>,
   geoJSONNames: [] as string[],
 });
 
-
 let map: leaflet.Map;
-let kmlLayers: Record<string, leaflet.Layer> = {}; // Store KMLs here
-
+const kmlLayers = reactive<Record<string, leaflet.Layer>>({});
 const fileInput = ref<HTMLInputElement | null>(null);
-const sessionData = ref<{ [key: string]: any } | null>(null);
+let overlayLayersControl: leaflet.Control.Layers | null = null;
 
-// Function to trigger the file input
+const basemaps: Record<string, leaflet.TileLayer> = {};
+
 const triggerFileInput = () => {
   fileInput.value?.click();
 };
 
 const handleFileChange = async (event: Event) => {
-  const file = (event.target as HTMLInputElement).files?.[0];
+  const input = event.target as HTMLInputElement;
+  const file = input.files?.[0];
   if (file && file.name.endsWith(".kml")) {
     const kmlText = await readFile(file);
+    await uploadFileToServer(file); // ✅ Save file to backend
     await loadKML(file.name, kmlText);
+    input.value = "";
   } else {
     alert("Please upload a valid KML file.");
   }
 };
 
-// Function to read the KML file
 const readFile = (file: File): Promise<string> => {
   return new Promise((resolve, reject) => {
     const reader = new FileReader();
@@ -77,157 +64,266 @@ const readFile = (file: File): Promise<string> => {
   });
 };
 
-// Function to load the KML file
+const uploadFileToServer = async (file: File) => {
+  const formData = new FormData();
+  formData.append("files", file);
+  try {
+    await fetch("http://localhost:3000/upload", {
+      method: "POST",
+      body: formData,
+    });
+    console.log("File uploaded to server.");
+  } catch (err) {
+    console.error("Upload failed:", err);
+  }
+};
+
 const loadKML = async (kmlName: string, kmlText: string) => {
   try {
     const parser = new DOMParser();
     const kml = parser.parseFromString(kmlText, "text/xml");
     const geojson = toGeoJSON.kml(kml);
 
+    if (kmlLayers[kmlName]) {
+      map.removeLayer(kmlLayers[kmlName]);
+      removeFromLayerData(kmlName);
+      delete kmlLayers[kmlName];
+    }
+
     const layer = leaflet.geoJSON(geojson, {
       style: {
-        color: 'blue',
-        weight: 2
-      }
+        color: "blue",
+        weight: 2,
+      },
     });
 
-    kmlLayers[kmlName] = layer; // Store by name
-    // send geojson to mobile app
-    console.log("KML Layers: ", layer);
-    map.addLayer(layer); // Add to map
+    kmlLayers[kmlName] = layer;
+    map.addLayer(layer);
 
-    // Store the layer in session storage
-    console.log("Geo Type:", layerData.value.geojson)
     layerData.value.geojson.push(geojson);
     layerData.value.geoJSONNames.push(kmlName);
-    // layerData.value.kmlLayers = layerData.value.kmlLayers;
 
-    console.log("Session Storage: ", layerData.value.geojson);
-
-    addToLayerControl(kmlName, layer);
+    refreshLayerControl();
   } catch (error) {
     console.error(`Error loading KML ${kmlName}:`, error);
   }
 };
 
-// Function to add the layer to the layer control
-const addToLayerControl = (name: string, layer: leaflet.Layer) => {
-  leaflet.control.layers(
-    {},
-    { [name]: layer },
-    { collapsed: false }
-  ).addTo(map);
+const removeFromLayerData = (name: string) => {
+  const index = layerData.value.geoJSONNames.indexOf(name);
+  if (index !== -1) {
+    layerData.value.geojson.splice(index, 1);
+    layerData.value.geoJSONNames.splice(index, 1);
+  }
 };
 
-let userGeoMarker: leaflet.Marker;
+const removeKMLLayer = (name: string) => {
+  const layer = kmlLayers[name];
+  if (layer) {
+    map.removeLayer(layer);
+    delete kmlLayers[name];
+    removeFromLayerData(name);
+    refreshLayerControl();
+  }
+};
 
-const loadGeoJSON  = async () => {
+const refreshLayerControl = () => {
+  if (overlayLayersControl) {
+    map.removeControl(overlayLayersControl);
+  }
+
+  const overlays: Record<string, leaflet.Layer> = {};
+  for (const name in kmlLayers) {
+    overlays[name] = kmlLayers[name];
+  }
+
+  overlayLayersControl = leaflet.control.layers(basemaps, overlays, { collapsed: false }).addTo(map);
+
+  nextTick(() => {
+    addDeleteButtonsToLayerControl();
+  });
+};
+
+const addDeleteButtonsToLayerControl = () => {
+  if (!overlayLayersControl) return;
+
+  const container = overlayLayersControl.getContainer();
+  if (!container) return;
+
+  const overlaysList = container.querySelectorAll<HTMLLabelElement>(".leaflet-control-layers-overlays label");
+
+  overlaysList.forEach(label => {
+    if (label.querySelector(".delete-btn-layer")) return;
+
+    const overlayName = label.textContent?.trim() || "";
+
+    if (overlayName && kmlLayers[overlayName]) {
+      const deleteBtn = document.createElement("button");
+      deleteBtn.className = "delete-btn-layer";
+      deleteBtn.textContent = "🗑️";
+      deleteBtn.title = `Remove ${overlayName}`;
+      deleteBtn.style.marginLeft = "8px";
+      deleteBtn.style.border = "none";
+      deleteBtn.style.background = "transparent";
+      deleteBtn.style.cursor = "pointer";
+      deleteBtn.style.color = "red";
+      deleteBtn.style.fontSize = "14px";
+      deleteBtn.style.padding = "0";
+
+      deleteBtn.addEventListener("click", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        removeKMLLayer(overlayName);
+      });
+
+      label.appendChild(deleteBtn);
+    }
+  });
+};
+
+const loadGeoJSON = async () => {
   try {
-    const response = await fetch('/data/Sanitation Baseline (6).geojson');
+    const response = await fetch("data/SSSP2 (2).geojson");
     const data = await response.json();
 
-    // Create a Marker Cluster Group
     const markers = leaflet.markerClusterGroup();
-
-
     const geoJsonLayer = leaflet.geoJSON(data, {
-      pointToLayer: (feature, latlng) => {
-        return leaflet.marker(latlng);
-      },
+      pointToLayer: (feature, latlng) => leaflet.marker(latlng),
       onEachFeature: (feature, layer) => {
         if (feature.properties) {
           layer.bindPopup(
             Object.keys(feature.properties)
               .map(key => `<strong>${key}:</strong> ${feature.properties[key]}`)
-              .join('<br>')
+              .join("<br>")
+          );
+        }
+      },
+    });
+
+    markers.addLayer(geoJsonLayer);
+    map.addLayer(markers);
+  } catch (error) {
+    console.error("Error loading GeoJSON:", error);
+  }
+};
+
+
+
+const loadStoredLayers = async () => {
+  try {
+    const response = await fetch("http://localhost:3000/layers");
+    const data = await response.json();
+
+    const layer = leaflet.geoJSON(data, {
+      style: { color: "blue", weight: 2 },
+      onEachFeature: (feature, layer) => {
+        if (feature.properties) {
+          layer.bindPopup(
+            Object.keys(feature.properties)
+              .map(key => `<strong>${key}:</strong> ${feature.properties[key]}`)
+              .join("<br>")
           );
         }
       }
     });
 
-    markers.addLayer(geoJsonLayer); // Add the GeoJSON layer to the marker cluster group
-    //  console.log("GeoJSON Layer: ", geoJsonLayer); // send this to mobile server
-    map.addLayer(markers); // Add the cluster group to the map
+    map.addLayer(layer);
+    kmlLayers["Saved KML Layers"] = layer;
+    refreshLayerControl();
   } catch (error) {
-    console.error('Error loading GeoJSON:', error);
+    console.error("Failed to load stored KML layers:", error);
   }
-}
+};
+
 
 onMounted(() => {
-  map = leaflet
-    .map("map")
-    .setView([-0.84666, 36.45511], 10);
+  // initialize map...
 
-  // Base maps
+  loadGeoJSON();       // Optional if you use another GeoJSON source
+  loadStoredLayers();  // Load KML data from PostGIS here
+});
+
+
+
+
+onMounted(() => {
+  map = leaflet.map("map").setView([-0.84666, 36.45511], 11);
+
   const osm = leaflet.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
-    attribution: '&copy; OpenStreetMap contributors',
+    attribution: "&copy; OpenStreetMap contributors",
   });
-  // Satellite basemap (from Esri)
+
   const satellite = leaflet.tileLayer(
     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
     {
       maxZoom: 19,
-      attribution: "Tiles © Esri"
+      attribution: "Tiles © Esri",
     }
   );
 
-  // Add the default layer to map
-  osm.addTo(map);
+  const googleSat = leaflet.tileLayer(
+  "http://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+  {
+    attribution: "&copy; Google",
+    maxZoom: 20,
+  }
+);
 
-  // Add the Layer Control
-  leaflet.control.layers(
-    {
-      "OpenStreetMap": osm,
-      "Satellite": satellite,
-    }
-  ).addTo(map);
 
+
+const maptilerStreets = leaflet.tileLayer(
+  "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=pkofjgt6Yd5z6PF380jI",
+  {
+    tileSize: 512,
+    zoomOffset: -1,
+    minZoom: 0,
+    maxZoom: 22,
+    attribution:
+      '&copy; <a href="https://www.maptiler.com/">MapTiler</a> &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+  }
+);
+
+
+
+  googleSat.addTo(map);
+  
+  basemaps["Google sat"] = googleSat;
+  basemaps["OpenStreetMap"] = osm;
+  basemaps["Satellite"] = satellite;
+  basemaps["maptilerStreets"] = maptilerStreets;
+
+  overlayLayersControl = leaflet.control.layers(basemaps, {}, { collapsed: false }).addTo(map);
 
   loadGeoJSON();
 
-  // Autoloads  
-  const storedKmlLayers = layerData.value.geojson;
-  const kmlName = layerData.value.geoJSONNames;
+  const storedLayers = layerData.value.geojson;
+  const storedNames = layerData.value.geoJSONNames;
 
-  if (storedKmlLayers) {
-    console.log("Storage Layers: ", layerData.value.geojson.length, " KML Name: ", kmlName[0]);
-    for (let i = 0; i < storedKmlLayers.length; i++) {
-      console.log("Stored KML Layers: ", storedKmlLayers[i]);
-
-      // construct a random rgb color
-      // const randomColor = Math.random()*255
-
-      const layer = leaflet.geoJSON(storedKmlLayers[i], {
+  if (storedLayers && storedNames.length) {
+    for (let i = 0; i < storedLayers.length; i++) {
+      const layer = leaflet.geoJSON(storedLayers[i], {
         style: {
           color: "blue",
-          weight: 2
-        }
+          weight: 2,
+        },
       });
-
-
-      console.log("KML Layers: ", layer);
-      map.addLayer(layer); // Add to map
-      addToLayerControl(kmlName[i], layer);
+      kmlLayers[storedNames[i]] = layer;
+      map.addLayer(layer);
     }
+    refreshLayerControl();
   }
-
 });
 </script>
 
 <style scoped>
 .title-bar {
   background-color: #4CAF50;
-  /* Green background */
   color: white;
-  /* White text */
   padding: 20px;
   text-align: center;
-  font-size: 10px;
   font-weight: bold;
 }
-
-/* Footer styling for the button */
 .footer {
   position: absolute;
   bottom: 0;
@@ -238,7 +334,6 @@ onMounted(() => {
   padding: 10px;
   border-top: 2px solid #ccc;
 }
-
 .upload-btn {
   margin: 10px;
   padding: 10px 20px;
@@ -249,23 +344,20 @@ onMounted(() => {
   font-size: 16px;
   border-radius: 5px;
 }
-
 .upload-btn:hover {
   background-color: #45a049;
 }
-
-h1 {
-  text-align: center;
-  margin: 15px;
-  font-size: 8;
-  font-family: sans-serif;
-  color: hsla(0, 28%, 93%, 0.989);
-}
-
-/* Map styling */
 #map {
-  /* height: 650px; */
   width: 100%;
   position: relative;
+}
+.delete-btn-layer {
+  margin-left: 8px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: red;
+  font-size: 14px;
+  padding: 0;
 }
 </style>
