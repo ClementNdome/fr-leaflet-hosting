@@ -2,7 +2,7 @@
 <template>
   <div>
     <div class="title-bar">
-      <h1>GIS MAPPING FOR SSWSP</h1>
+      <h1>BASELINE SANITATION MAPPING</h1>
     </div>
 
     <div class="footer">
@@ -11,7 +11,7 @@
 
     <input ref="fileInput" type="file" accept=".kml" style="display: none" @change="handleFileChange" />
 
-    <div id="map" style="height: 82vh;"></div>
+    <div id="map" style="height: 90.5vh;"></div>
   </div>
 </template>
 
@@ -183,7 +183,7 @@ const addDeleteButtonsToLayerControl = () => {
 
 const loadGeoJSON = async () => {
   try {
-    const response = await fetch("data/SSSP2 (2).geojson");
+    const response = await fetch("data/Sanitation Baseline (6).geojson");
     const data = await response.json();
 
     const markers = leaflet.markerClusterGroup();
@@ -206,8 +206,6 @@ const loadGeoJSON = async () => {
     console.error("Error loading GeoJSON:", error);
   }
 };
-
-
 
 const loadStoredLayers = async () => {
   try {
@@ -244,8 +242,6 @@ onMounted(() => {
 });
 
 
-
-
 onMounted(() => {
   map = leaflet.map("map").setView([-0.84666, 36.45511], 11);
 
@@ -270,8 +266,6 @@ onMounted(() => {
   }
 );
 
-
-
 const maptilerStreets = leaflet.tileLayer(
   "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=pkofjgt6Yd5z6PF380jI",
   {
@@ -287,7 +281,6 @@ const maptilerStreets = leaflet.tileLayer(
 
 
   googleSat.addTo(map);
-  
   basemaps["Google sat"] = googleSat;
   basemaps["OpenStreetMap"] = osm;
   basemaps["Satellite"] = satellite;
@@ -320,9 +313,11 @@ const maptilerStreets = leaflet.tileLayer(
 .title-bar {
   background-color: #4CAF50;
   color: white;
-  padding: 20px;
+  padding: 15px;
   text-align: center;
-  font-weight: bold;
+  /* font-weight: bold; */
+  font-family: serif
+
 }
 .footer {
   position: absolute;
