@@ -283,7 +283,7 @@ const maptilerStreets = leaflet.tileLayer(
   googleSat.addTo(map);
   basemaps["Google sat"] = googleSat;
   basemaps["OpenStreetMap"] = osm;
-  basemaps["Satellite"] = satellite;
+  // basemaps["Satellite"] = satellite;
   basemaps["maptilerStreets"] = maptilerStreets;
 
   overlayLayersControl = leaflet.control.layers(basemaps, {}, { collapsed: false }).addTo(map);
@@ -313,7 +313,7 @@ const maptilerStreets = leaflet.tileLayer(
 .title-bar {
   background-color: #4CAF50;
   color: white;
-  padding: 15px;
+  padding: 17px;
   text-align: center;
   /* font-weight: bold; */
   font-family: serif
