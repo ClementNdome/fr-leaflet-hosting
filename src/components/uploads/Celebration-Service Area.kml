@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>Celebrations.kml</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Schema name="celebrations" id="celebrations">
+		<SimpleField type="string" name="id"></SimpleField>
+		<SimpleField type="string" name="descriptio"></SimpleField>
+		<SimpleField type="string" name="timestamp"></SimpleField>
+		<SimpleField type="string" name="begin"></SimpleField>
+		<SimpleField type="string" name="end"></SimpleField>
+		<SimpleField type="string" name="altitudeMo"></SimpleField>
+		<SimpleField type="float" name="tessellate"></SimpleField>
+		<SimpleField type="float" name="extrude"></SimpleField>
+		<SimpleField type="float" name="visibility"></SimpleField>
+		<SimpleField type="float" name="drawOrder"></SimpleField>
+		<SimpleField type="string" name="icon"></SimpleField>
+	</Schema>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>celebrations</name>
+		<Placemark id="celebrations.1">
+			<name>2-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4724289866557,-0.724623630425717,0 36.4721542185651,-0.7244603637587052,0 36.4726657158011,-0.723493930280569,0 36.4728370519357,-0.723173452194471,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.2">
+			<name>2-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.472629106137,-0.723574544888317,0 36.4710285022632,-0.723526043240528,0 36.4703867768607,-0.723531375417389,0 36.4703443586165,-0.72300192042463,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.3">
+			<name>2-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4721576231406,-0.724463085366464,0 36.472092949352,-0.724544412976901,0 36.471805274709,-0.7244713529373159,0 36.4717715906443,-0.724389128274357,0 36.4717802031125,-0.724218897911224,0 36.4717387430958,-0.724184813212823,0 36.4711127113805,-0.7241347066243479,0 36.4708597089488,-0.7241146927727301,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.4">
+			<name>2-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4721083497098,-0.724537603613133,0 36.4717749579735,-0.725279466128586,0 36.4712278774368,-0.7250196689751761,0 36.4705610165227,-0.724678605699985,0 36.4698498373594,-0.724928028871173,0 36.4698225600599,-0.7249511915124269,0 36.4697851831057,-0.72496314344851,0 36.4698174985047,-0.725120949473107,0 36.4697996310896,-0.725151289610749,0 36.4683704882611,-0.7256065432324499,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.5">
+			<name>1.5-inc</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4712137981394,-0.7250113596896059,0 36.4715177372122,-0.724464775273303,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.6">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4714008425408,-0.7246729237274431,0 36.4708884407162,-0.724529855118177,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.7">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4711900247619,-0.725003809344405,0 36.4710708222543,-0.725062175671884,0 36.4696656745825,-0.725516762339972,0 36.4693651658259,-0.72561367305193,0 36.4693015724703,-0.725639547323337,0 36.4693466429205,-0.725789604380772,0 36.4689327787525,-0.725916435043638,0 36.4687916597819,-0.725946289982752,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.8">
+			<name>2 -inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4717727354419,-0.7252793149538451,0 36.4708544936825,-0.7271793946807779,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.9">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4723992323401,-0.7246033657537041,0 36.4730014863074,-0.7234281449624529,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.10">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4725234712764,-0.724354158329079,0 36.4728268564047,-0.7245069885205759,0 36.4737661250213,-0.724972868840172,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.11">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4728934440903,-0.724538499015779,0 36.4733658327656,-0.723594152405559,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.12">
+			<name>1.5</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4734675127573,-0.7248290338597581,0 36.4740541379153,-0.723651045038337,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.13">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4723492792389,-0.7247050596943601,0 36.47343938054,-0.7252567283022661,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.14">
+			<name>2 - inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4723855321713,-0.724610606822902,0 36.4718904427053,-0.7257031214532361,0 36.4712701145852,-0.7268898450283872,0 36.4706260439463,-0.7282282198999561,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.15">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4706187450867,-0.728246427333453,0 36.469532329856,-0.7304656036223569,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.16">
+			<name>1inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4696389571192,-0.7302420144379611,0 36.470515690142,-0.730729730977232,0 36.4713086050653,-0.7311429769962801,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.17">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4718789166946,-0.7257169700025329,0 36.4721925333341,-0.725882210126829,0 36.4722219571674,-0.725827319154448,0 36.47271182932,-0.7260743026101789,0 36.4732731060573,-0.7263446427441019,0 36.4737827620537,-0.7265817506964271,0 36.4741719116004,-0.726767921461509,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.18">
+			<name>1-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4721632149559,-0.7258638697306221,0 36.4720126513094,-0.7261986433195019,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.19">
+			<name>1-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4714202723894,-0.7265953624139611,0 36.4722889525393,-0.7269903630339849,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.20">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4710408855737,-0.7273758999343369,0 36.4717048607894,-0.7276528240014841,0 36.472326931721,-0.7279311633287091,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.21">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4705561385995,-0.7283845790212801,0 36.4713599595093,-0.728846451739333,0 36.471420646454,-0.728877281155629,0 36.4713929369101,-0.7289417017449561,0 36.4718328537944,-0.729183528213323,0 36.4721911665173,-0.72938739412211,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.22">
+			<name>1.25-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.471912772024,-0.729222040183817,0 36.4716485039473,-0.729774910361502,0 36.4723603808584,-0.730147083655497,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.23">
+			<name>1-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4723548374472,-0.7301445160538459,0 36.4723847750887,-0.730158192929648,0 36.4725038990658,-0.729948155805402,0 36.4725505126231,-0.7300104479435822,0 36.4727469249346,-0.730369506400139,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.24">
+			<name>1-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4698892099885,-0.729745026483218,0 36.4702365350986,-0.729946366315107,0 36.4702900334904,-0.729983946075216,0 36.4704632813607,-0.7295865476469769,0 36.4704870027399,-0.729565287890993,0 36.470725322715,-0.7296815956828648,0 36.4707373025708,-0.7297332728882739,0 36.4706546080948,-0.729893543139151,0 36.4708942425966,-0.730024287024168,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.25">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4709487911071,-0.7269825572158901,0 36.4705137786094,-0.726899249968858,0 36.46974833969,-0.7267640591255979,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="celebrations.26">
+			<name>1.5-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#celebrations">
+					<SimpleData name="tessellate">1</SimpleData>
+					<SimpleData name="extrude">0</SimpleData>
+					<SimpleData name="visibility">-1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						36.4703416051182,-0.723003043792681,0 36.471049662072,-0.722989708817692,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

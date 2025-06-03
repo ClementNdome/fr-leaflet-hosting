@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Vintel.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Vintel</name>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4703946917161,-0.72302627287796,0 36.4704294562176,-0.7235710333705606,0 36.47081036363153,-0.7235689551262722,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-HDPE</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47209567577157,-0.7201784201844406,0 36.47200658037119,-0.7213069376648427,0 36.47157327832993,-0.721263068385,0 36.47142463300124,-0.7212813367387176,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47016727401221,-0.7194631255834455,0 36.47010796854619,-0.7181595098622461,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47398530631953,-0.7200275282623125,0 36.47400452486756,-0.7196279625232663,0 36.47402552171472,-0.7191825185925126,0 36.47245981420068,-0.7190725244154329,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47175114270134,-0.7252935931993878,0 36.47212664514959,-0.7245294183026484,0 36.47180115398398,-0.7244724102867808,0 36.47176167547467,-0.7244100063573965,0 36.47174999684768,-0.7241958208609652,0 36.471207428044,-0.7241265837617571,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4702607920114,-0.7194698364492916,0 36.46868540761319,-0.7194749335013899,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-HDPE</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47342654037559,-0.7211916566206433,0 36.47389708096772,-0.7202634519428192,0 36.47401923428862,-0.7200488998953033,0 36.47385638289419,-0.7200580025648048,0 36.47313596109787,-0.7200338847754508,0 36.47213055987937,-0.7199670990005135,0 36.47210672991931,-0.7201690054604629,0 36.47127755759051,-0.7201391745827918,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47042776603781,-0.7235627622237712,0 36.47048042543594,-0.7246293456015107,0 36.47118636262361,-0.724979642681708,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47017896557172,-0.7194683992288264,0 36.4701152163702,-0.7183132157787659,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47118409868058,-0.7249802798399666,0 36.47174717715502,-0.7252863572674098,0 36.47143021848134,-0.7259149799993867,0 36.47116247665707,-0.726470742107451,0 36.47091738469283,-0.7269522214936318,0 36.47027479324877,-0.7268347274225229,0 36.46985535769688,-0.72675919285291,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47399997260698,-0.719615887456604,0 36.47210553139953,-0.7194708822664418,0 36.47210335312194,-0.7195278725264428,0 36.47025206017846,-0.7194710996801618,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47130522029853,-0.7201367172792741,0 36.47125388108893,-0.7209192288076502,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46831667855822,-0.72794597150805,0 36.4682396236468,-0.7279346452759154,0 36.46718406654034,-0.7280747974479157,0 36.46711045489712,-0.7285863613001892,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47011540675309,-0.7183086506439875,0 36.46857588071196,-0.718350803286828,0 36.46799883566447,-0.718413211213764,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-inch</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47010774918984,-0.7183183901348502,0 36.47009477446689,-0.7177682941732044,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46977660000829,-0.7277469508953743,0 36.46976249008826,-0.7277963618322231,0 36.46959654096335,-0.7283738134853966,0 36.46886314257054,-0.7281226923435323,0 36.46832897351481,-0.727952857081422,0 36.4683397477393,-0.7283828856341388,0 36.4683488551608,-0.7285237312465378,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-inc-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46416199628274,-0.7187588539282082,0 36.46418864359038,-0.7194539562151536,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47091528081751,-0.7269387823655825,0 36.47042624770932,-0.7279496741898854,0 36.46950560840499,-0.7276653646254966,0 36.46900234396441,-0.7275503855312052,0 36.46881172468463,-0.7275082292486704,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4655303007943,-0.7186669739211075,0 36.46549838271208,-0.7181179943870051,0 36.46549675719172,-0.7179346558460273,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47376630072083,-0.7211674685938269,0 36.47380619437291,-0.7211850754341719,0 36.47347902307504,-0.7218723098341806,0 36.47344397507296,-0.7219222428706656,0 36.47262734347871,-0.7219340619701127,0 36.47181832230042,-0.7219672901391151,0 36.47038583358907,-0.7220229379304992,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47029305772904,-0.7220320909568415,0 36.46834565571841,-0.7220698121607076,0 36.46826349405929,-0.7220652900172568,0 36.46823203520505,-0.72180794554967,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47038406464484,-0.7220201693370509,0 36.47031038695315,-0.7220259463657456,0 36.47027029686654,-0.7214488274594482,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>2inch-pvc</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47340901219027,-0.7211419442793012,0 36.473779000472,-0.7211686975408649,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47119199155557,-0.7249761676264939,0 36.46930919545886,-0.7255872357705719,0 36.46927911262983,-0.7256349955069503,0 36.46930178001161,-0.7258113743004119,0 36.46882362304586,-0.7259638045761627,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1.25-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47034257814031,-0.7220262123005367,0 36.47039833276535,-0.7230324379552172,0 36.47109974859141,-0.7230164026225006,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>1-inch-hdpe</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46797142857228,-0.7184042954057431,0 36.46779881132688,-0.7184434652696412,0 36.46778881431976,-0.7183739082450397,0 36.46670349768596,-0.7185208732354816,0 36.46628368238025,-0.7185730695962772,0 36.46561198388383,-0.7186707935516661,0 36.46551654753982,-0.7186729946042164,0 36.46509302006517,-0.7187068303299965,0 36.46403170121589,-0.7187710454033598,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

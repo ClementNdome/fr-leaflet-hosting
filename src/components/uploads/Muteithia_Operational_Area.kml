@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="muteithia" id="muteithia">
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>muteithia</name>
+  <Placemark id="muteithia.1">
+	<name>40mm</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#muteithia">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.5233461285486,-0.729755936726123,0 36.5212935464455,-0.73088020893574,0 36.5200956736707,-0.728752337900948,0 36.5169039169362,-0.730588574365199,0 36.5129527573089,-0.723680718254588,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="muteithia.2">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#muteithia">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.5124451938714,-0.722768468111978,0 36.5136658020092,-0.718983520776899,0 36.5141024734481,-0.717600928230017,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="muteithia.3">
+	<name>Untitled Path</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#muteithia">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.519108744639,-0.719489903052166,0 36.5177754311521,-0.717108887566695,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="muteithia.4">
+	<name>40mm</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#muteithia">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.5117963362999,-0.724548796740908,0 36.51242553743,-0.722734695619207,0 36.5129485829237,-0.723670968660784,0 36.5160012493305,-0.721876355685116,0 36.5162638761432,-0.721836995497785,0 36.5194330817785,-0.720067257557964,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="muteithia.5">
+	<name>75mm</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#muteithia">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.5204847640885,-0.721649412846169,0 36.520383799822,-0.721701183237525,0 36.5194425530968,-0.720069967322387,0 36.5191074498255,-0.719489247917309,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="muteithia.6">
+	<name>75mm</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#muteithia">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.5203856624467,-0.721702948620311,0 36.5207020148548,-0.722258435799743,0 36.5246026539494,-0.729068879710761,0 36.5239417519173,-0.729420130351671,0 36.5234417326083,-0.729698897675327,0 36.5233410643044,-0.729758739657332,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

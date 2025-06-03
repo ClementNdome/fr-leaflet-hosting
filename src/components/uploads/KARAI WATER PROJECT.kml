@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Karai Water project.kml</name>
+	<StyleMap id="m_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Karai Water project</name>
+		<open>1</open>
+		<Placemark>
+			<name>1</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48589015650184,-0.7705666851292992,0 36.48595885336096,-0.7712507141670311,0 36.48618090299628,-0.77287775605356,0 36.48479757159831,-0.7730863624662393,0 36.48370560863756,-0.7732381892066333,0 36.48147043454718,-0.7735582083307923,0 36.47792207044891,-0.7740248771132944,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48288403235026,-0.7709923999413891,0 36.48232847208716,-0.7680604447035044,0 36.48144053306605,-0.763445262429404,0 36.48017476627509,-0.7636978016286705,0 36.47934933079872,-0.763831502733002,0 36.47906724289792,-0.7625978453426582,0 36.47865773370063,-0.7623790847290859,0 36.4782404355454,-0.7624452183057583,0 36.47743704810473,-0.7625729303699544,0 36.47694543065424,-0.7626642038055058,0 36.47700192648971,-0.7627946323291701,0 36.47735890392718,-0.7630646606286928,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48718384009915,-0.7702351103911397,0 36.48721832306235,-0.7703717446317103,0 36.48524545281664,-0.7706605655449686,0 36.48500986489044,-0.7706942742068553,0 36.48447587970279,-0.7707748090971547,0 36.48278948755678,-0.7710017658786015,0 36.48186674403129,-0.7711601450079464,0 36.47955135668386,-0.7714525030622592,0 36.47743166594785,-0.7717741432677558,0 36.47603079644728,-0.7719561793638283,0 36.47437239492908,-0.7721860685389627,0 36.47266163322783,-0.7724332637117975,0 36.47086005075001,-0.7727038900978578,0 36.46997543984698,-0.7728103907011137,0 36.46837260256329,-0.7730115155617818,0 36.46626110004146,-0.7733192372385898,0 36.46495652800476,-0.7734828555469748,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin200</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48500258381244,-0.7706470186417066,0 36.48501302690207,-0.7706949870694431,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin200</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48171004960761,-0.764835839449529,0 36.48035290116621,-0.7651114202390611,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin200</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48184261343027,-0.7711684680829832,0 36.4821454171509,-0.7734517047944239,0 36.48203498325271,-0.7726062650869735,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin200</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47808244037403,-0.7716664293707646,0 36.47775490813368,-0.7699832226316846,0 36.47750981099831,-0.7686677475280891,0 36.47727506431029,-0.7674590398631905,0 36.47706394911337,-0.7663293470503607,0 36.47689036155188,-0.7654966989582197,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin200</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47816608317138,-0.7716624672114925,0 36.47832690493207,-0.7729057288696196,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4872161265686,-0.770373011555699,0 36.48738107395442,-0.7703378350960605,0 36.48733228961365,-0.7701379772339053,0 36.48705812777771,-0.7686888713025918,0 36.48699428248137,-0.7683233100706081,0 36.48651513916856,-0.7684045449339663,0 36.48479963233415,-0.768763990920649,0 36.48479903761812,-0.7687639087825829,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin200</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4871391872032,-0.769151059811682,0 36.4862856503449,-0.7693274152554261,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48732133862558,-0.7703739568415416,0 36.48880096761349,-0.7701671232616979,0 36.48977830064439,-0.7700268118490747,0 36.49127717740498,-0.7698115131442523,0 36.4919315647355,-0.7697176516313569,0 36.49197606303137,-0.7697029223737479,0 36.49201233921622,-0.7696849267215254,0 36.49265398397877,-0.7684943556960636,0 36.49165058006753,-0.7680224949272714,0 36.49122595700734,-0.7677865493063476,0 36.49044054246296,-0.767245292209908,0 36.48947065900105,-0.7666044880766335,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48238474763183,-0.7682579919338628,0 36.48343805151308,-0.7680712930992976,0 36.48460000567407,-0.7678381195817571,0 36.48478875534668,-0.7687434378414701,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48215413917391,-0.7671093362974587,0 36.48293398417599,-0.7669364741396428,0 36.48290843692666,-0.766748786244685,0 36.48337889042883,-0.7666834132403114,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48203390868169,-0.7664717929411216,0 36.4825620424603,-0.7663742623723241,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47109388971325,-0.7609390768400175,0 36.47147098613557,-0.7630416001893562,0 36.47186686581951,-0.7650089259142383,0 36.47239854238754,-0.7678011132258425,0 36.47327429489371,-0.7723328652062317,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47230550440754,-0.7672818278717436,0 36.47428971949797,-0.7669104490599351,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46830083942233,-0.7730193447227763,0 36.46779721742828,-0.7702029338200386,0 36.46669484055911,-0.7646965567977823,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46738655369459,-0.7731622057784417,0 36.46770650655208,-0.7754028106481432,0 36.46572048161965,-0.7757034795199397,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46592717619304,-0.7756834096724419,0 36.46595205557664,-0.7759164420920019,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46698354029323,-0.7755161180299152,0 36.46713466019998,-0.7765263027263238,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46769918734334,-0.7754022470142404,0 36.46778757158381,-0.7758878490399266,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46769554447737,-0.7754063611503138,0 36.46899697230101,-0.7752285670184456,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47758453872049,-0.7717652754299176,0 36.47777767752262,-0.7731069673608314,0 36.47792486022672,-0.7740189721106623,0 36.47736934836613,-0.7741150509225986,0 36.47790392780892,-0.7782594864914687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47791006187576,-0.7782536810551548,0 36.47915104735032,-0.7780713089990314,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4777508626412,-0.7770893453562244,0 36.4792330972683,-0.7768956015054824,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47790038945038,-0.7782566411098069,0 36.47669889125164,-0.778407509269643,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48699501145147,-0.768340516169424,0 36.48669891438878,-0.7667806123724613,0 36.48642409786291,-0.765338781767148,0 36.48672624749728,-0.7648786809970063,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.48640975318392,-0.764651812689593,0 36.48672574400393,-0.7648815715470879,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Methuens.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Methuens</name>
+		<open>1</open>
+		<Placemark>
+			<name>PVC</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47505838618613,-0.7176048107489127,0 36.47511675598998,-0.7169514419294084,0 36.47514011863878,-0.7164361906826429,0 36.47589557768939,-0.7163837600255648,0 36.47586092212088,-0.7154739425113931,0 36.47578989568822,-0.7142948806830065,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>PVC-2INCH</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47588167503347,-0.7163899386570374,0 36.47726140372723,-0.7163433412134419,0 36.47767819907026,-0.7163431596010947,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>PVC</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47643512543559,-0.7163707642959294,0 36.47639334338208,-0.7154404994063965,0 36.4763673875487,-0.7148341902886983,0 36.47636961679262,-0.7148137908334125,0 36.47704401427972,-0.714774920269734,0 36.47703431536151,-0.7142991341475728,0 36.47700614519977,-0.7137574563013763,0 36.47696847399625,-0.7130951098018971,0 36.47695399488336,-0.7124052713364989,0 36.47691009635849,-0.7116659048321153,0 36.4768702241382,-0.7109883026376302,0 36.47686212137512,-0.7106654727566257,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47706592840683,-0.7152765327999304,0 36.47639317588804,-0.7152876144257948,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47642013813442,-0.7159135616181056,0 36.47701665119414,-0.71588747977379,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>PVC</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47713628558376,-0.7163566129412159,0 36.4771772255635,-0.716972336822815,0 36.47720212172491,-0.7179476477518706,0 36.47719614592956,-0.7179787881980241,0 36.47686481757902,-0.7179925841411425,0 36.47624471372811,-0.7180093690030437,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47676604530508,-0.7179951001221008,0 36.47672859765414,-0.7174949652098228,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47628323985222,-0.7180077399158011,0 36.47625625158926,-0.7175438737005364,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>PVC</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47508297772902,-0.7173575023256217,0 36.47528400139625,-0.7173650925361214,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Main-2 inch</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47503465776366,-0.7176262175039343,0 36.47497529902774,-0.7183176490648655,0 36.47497313832888,-0.7183539449776379,0 36.47466889634126,-0.7183217967368515,0 36.47467425797539,-0.7182013479138685,0 36.47447748344598,-0.7181909464714311,0 36.4744388016145,-0.7185341995818415,0 36.47439640803318,-0.7190133754068915,0 36.47435342734303,-0.7196882765135819,0 36.47374610409328,-0.7196003191524105,0 36.47213050937221,-0.719487211490963,0 36.47024034555669,-0.719414398645604,0 36.47017676981118,-0.7194067254959895,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>PVC</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4740202534189,-0.7196407469921066,0 36.47404434335667,-0.7192467356691135,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>PVC-2 inch</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4701867880022,-0.7194076104563946,0 36.47017779749718,-0.7192857738985596,0 36.47013139154659,-0.718642097469988,0 36.47007633047022,-0.7173407541852067,0 36.47071829185175,-0.7173094897862301,0 36.47187882322997,-0.7172302445716752,0 36.47190667013233,-0.7165948767120468,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47179845048385,-0.7194680137655383,0 36.47182140922418,-0.7188864715031088,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4 PVC</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47018401731142,-0.7194132306508985,0 36.47012587826404,-0.7194417875212377,0 36.46816181962288,-0.7194596637398966,0 36.46814649140769,-0.7190778822320164,0 36.46814839862177,-0.7189171624097945,0 36.46918170702138,-0.7188864527828926,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4-pvc</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47018248716432,-0.7194206543676037,0 36.47021919472402,-0.720084834684923,0 36.47028657776509,-0.720081161481815,0 36.47086305207042,-0.7201152768519323,0 36.47129620742235,-0.7201366189480003,0 36.47123891864619,-0.720737413881761,0 36.47118639706604,-0.7213785410445903,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47129898062254,-0.7201335027293237,0 36.47208780665991,-0.7201761367069226,0 36.47201067776798,-0.7208627565224739,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4712802998641,-0.7172725315942494,0 36.4713080900627,-0.7166596628353402,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47072655071706,-0.7173102200357014,0 36.47073195934875,-0.7168470268777031,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>2-inch</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.4700783922534,-0.7173389027906311,0 36.47003804421767,-0.7165404650557023,0 36.46999315676479,-0.7155907702217693,0 36.46991860830649,-0.7145695865083203,0 36.46986868612588,-0.714400753343387,0 36.46976792234824,-0.7139960456696359,0 36.46955439482,-0.7131639087483074,0 36.46939246821843,-0.712504497080064,0 36.46872464772583,-0.7125042884509689,0 36.4684725554877,-0.712503843331345,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.469879665108,-0.7144197498167491,0 36.46905266500298,-0.7143130198282107,0 36.46820245005097,-0.714257635607038,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46847325487045,-0.7124990089737466,0 36.46837381392277,-0.7121042726691781,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.46867971021388,-0.7125117480440575,0 36.4687479274696,-0.7127864033528615,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3/4</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					36.47495199057303,-0.7192425918696772,0 36.47499160023133,-0.7183897843398934,0 36.47496555863454,-0.7183512007150883,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>KARAI</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>36.47651799412343</longitude>
+				<latitude>-0.6774962726231547</latitude>
+				<altitude>0</altitude>
+				<heading>0.000943880420757654</heading>
+				<tilt>24.18700122946347</tilt>
+				<range>263.6968495619438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.4758937020641,-0.677474980094172,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>KARAI WATER PROJECT</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>PVC-2INCH</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						36.47587500362682,-0.677522505127509,0 36.47586706132257,-0.6775455020029416,0 36.47542838036369,-0.6775903958822312,0 36.4743158504437,-0.6777300786695512,0 36.47433107090515,-0.6789447608109928,0 36.47200225537885,-0.6791356121219692,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>pvc-1.5 inch</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						36.47585759738539,-0.6775486127043495,0 36.47740526724492,-0.6773998136136616,0 36.4778649290016,-0.681618524648943,0 36.47808850335381,-0.6833749461468022,0 36.47831019341966,-0.6857949768473868,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						36.47590989650752,-0.6774953177182488,0 36.47599830895537,-0.6774911187149379,0 36.47596829782611,-0.6763863120606413,0 36.47431051229751,-0.6766522895017206,0 36.47427582329998,-0.6760473107536098,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>PVC</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						36.47431600578068,-0.6789483459830107,0 36.4743527700876,-0.6800325272402067,0 36.4760433226527,-0.6798854719720696,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Folder>
+				<name>Nyonjoro water project</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<Placemark>
+					<name>Nyonjoro water tank</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>36.47919566420989</longitude>
+						<latitude>-0.6645614948459028</latitude>
+						<altitude>0</altitude>
+						<heading>-11.83346376037147</heading>
+						<tilt>25.76970384773907</tilt>
+						<range>435.055714743247</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>36.47949764664521,-0.6648045702097247,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>GI-PVC-2INCH</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47949154446806,-0.6648263042718503,0 36.47945212390574,-0.6650186039457571,0 36.4784852119551,-0.6648599224144339,0 36.4781120791344,-0.6671177946874507,0 36.47754783605274,-0.667043976423597,0 36.47635933636883,-0.6668625501128241,0 36.47577960316089,-0.6670588019854412,0 36.47525598792814,-0.6672377698469121,0 36.47460734939396,-0.6673362903507922,0 36.47410944740144,-0.6674007911016322,0 36.47338383601605,-0.6675029951264471,0 36.47286614675067,-0.6675558884882686,0 36.47220367867448,-0.6675453335850486,0 36.47218836230266,-0.6676107756028025,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Tank</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>36.47292265509233</longitude>
+						<latitude>-0.6676440551018654</latitude>
+						<altitude>0</altitude>
+						<heading>105.8455300015861</heading>
+						<tilt>26.52643936725338</tilt>
+						<range>355.7635047173285</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>36.47215612237611,-0.6676372105691515,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47219346846765,-0.6675542807428972,0 36.47173877025495,-0.6675548938285776,0 36.47173936770093,-0.6686520502146486,0 36.47216004228137,-0.6686591551394977,0 36.47263644148352,-0.6686685988902734,0 36.47293796396546,-0.6686694109103899,0 36.47404856195861,-0.6685219230436553,0 36.47492970007904,-0.6684089061502351,0 36.47560128976409,-0.668247027358884,0 36.47639563169354,-0.6680115150809509,0 36.47661607100395,-0.6680303015341013,0 36.47698398694482,-0.6680813564239384,0 36.477695961347,-0.6682054006475986,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Untitled Path</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47173920506324,-0.6686136564514469,0 36.47173928809033,-0.6702786398088052,0 36.47171311887062,-0.6710436930862578,0 36.47180015841337,-0.6722687631858062,0 36.47186687471669,-0.6745036973262172,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>pvc-1.5</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47174921519466,-0.6698710273973215,0 36.47287628898612,-0.6698617288077667,0 36.47402756852053,-0.6697109065767725,0 36.4752571597491,-0.6695503850737968,0 36.47585657148433,-0.6693322086889292,0 36.47640218543237,-0.6691785972615297,0 36.47693362305246,-0.6692452024285567,0 36.47749769664554,-0.6693192273841582,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>pvc-1.5</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47171806191137,-0.6709993048494254,0 36.47268758932376,-0.6709797741674326,0 36.4730230552026,-0.6709669281707398,0 36.47337126083393,-0.6709305144008727,0 36.47417669507382,-0.6708032946297593,0 36.47494105022597,-0.6706984370499753,0 36.47554581471145,-0.6705846031430085,0 36.47592093966483,-0.6704817999213069,0 36.47640749142786,-0.670326285259485,0 36.47653273456457,-0.6703510907134953,0 36.47741176120368,-0.6705108328072472,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47183250540255,-0.6721437040698472,0 36.47300096260401,-0.6721120547363827,0 36.47406960764015,-0.671990309709367,0 36.47539626254547,-0.6717590701069324,0 36.4763789089617,-0.6715345855338978,0 36.47651906086512,-0.6716074811956629,0 36.47697984414589,-0.6717217820833823,0 36.47738908656783,-0.6717656255623592,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47183279418196,-0.6733129968601096,0 36.4729271810805,-0.6733003624162643,0 36.47361749431364,-0.6732029036220698,0 36.4741951591318,-0.6731152065224117,0 36.47507359174838,-0.6730022923508354,0 36.47584727671104,-0.6728416475044496,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5 pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47173779069782,-0.6675776682961891,0 36.46936739992681,-0.6676478715121059,0 36.46807646838339,-0.6676954708383341,0 36.46693936723153,-0.6677194466745908,0 36.46694359987477,-0.667906899417645,0 36.46694877455183,-0.6682563959589879,0 36.46698421599443,-0.6691109184835565,0 36.46704575779796,-0.6694785010159632,0 36.46715708013677,-0.6701621000166937,0 36.46722894187841,-0.6705771533342842,0 36.4672955549017,-0.6711776128447663,0 36.46748704094181,-0.6724512602485793,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.46888239544669,-0.6676642271743183,0 36.46878563268675,-0.6654913613862906,0 36.46873716731457,-0.6643110779300812,0 36.46971845131239,-0.6638431187753179,0 36.47165611055431,-0.66298179478213,0 36.47161305378727,-0.6606001961071355,0 36.47398280267453,-0.6604661495365755,0 36.47413303501062,-0.6604269584779388,0 36.47458751674097,-0.6601855402470695,0 36.47694516409243,-0.6589586706006599,0 36.47782508580808,-0.6584707284601995,0 36.47827011711033,-0.6582754536091445,0 36.47858034445566,-0.6582039387103702,0 36.47927598774379,-0.6581814263583966,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47172255203223,-0.6675792578137215,0 36.47173571720406,-0.6640778696015245,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47173740285928,-0.6664006598866927,0 36.473156282095,-0.6663798277066765,0 36.4750745083663,-0.6661072244119629,0 36.47573961884749,-0.6658970269015519,0 36.4763394031384,-0.6656852292823952,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.4717390126094,-0.6652446774289359,0 36.47267485575745,-0.6652435196426639,0 36.47348688549688,-0.6651674767894818,0 36.47405389578159,-0.6651034614415682,0 36.47524018836872,-0.6649364781544632,0 36.47632057649164,-0.6645143545834922,0 36.47630905082215,-0.6639339282010802,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47174496969731,-0.6640793993173023,0 36.47331580961269,-0.6640520402821233,0 36.47402706601249,-0.6639702493720017,0 36.47457476781696,-0.6638833282824466,0 36.4752284117414,-0.6637221768127401,0 36.47576044157158,-0.6635347299272009,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47405312848326,-0.6639608091246968,0 36.47405864763611,-0.6632432360343676,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1.5-pvc</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47163022791156,-0.6617466296544935,0 36.47331516190992,-0.6617223407287638,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Untitled Path</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47167588363874,-0.662897602631163,0 36.47252683078972,-0.6629154541111575,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Untitled Path</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.46698204437447,-0.6690754242570408,0 36.46691894703242,-0.6690813860616027,0 36.46553951018811,-0.669119265920593,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Untitled Path</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.46715607649782,-0.6701506630702471,0 36.4653330415231,-0.6702437098878332,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Untitled Path</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.46718947408691,-0.6702870782108181,0 36.46793014437997,-0.6702949426870934,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1-inch</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.46805746252929,-0.6676964466488812,0 36.4680368557119,-0.6695518039752019,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1-inch</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47945045884371,-0.6650052822847017,0 36.47940364525093,-0.6651482571343891,0 36.48005151881953,-0.6652521778175262,0 36.48124171877508,-0.6654458389095509,0 36.48154612727836,-0.6654920335103612,0 36.48242902947586,-0.6656177732827534,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>1-inch</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							36.47811179393092,-0.6670994535100111,0 36.47789064324705,-0.6683853519323073,0 36.47774116007933,-0.6695438489710156,0 36.4777065128525,-0.6699414513809744,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

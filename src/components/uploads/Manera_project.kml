@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="manera" id="manera">
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>manera</name>
+  <Placemark id="manera.1">
+	<name>63</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4243482964333,-0.707976236211887,0 36.423884241923,-0.707093567788716,0 36.4233680290533,-0.706116961944015,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.2">
+	<name>63-HDPE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4238731476547,-0.705237373984279,0 36.4230795571282,-0.703953775849282,0 36.422695258313,-0.703329401319255,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.3">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4234868361198,-0.705450719599442,0 36.4230753392695,-0.704872612391118,0 36.4221887026804,-0.703664791471872,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.4">
+	<name>63-HDPE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4231474746414,-0.707043596844992,0 36.4228410240677,-0.70640527035583,0 36.4244831366577,-0.70555178188965,0 36.4250575731752,-0.706624946491039,0 36.4242354565509,-0.708193201503183,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.5">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4230473202899,-0.705674668755986,0 36.422775643111,-0.705343701256955,0 36.422202292062,-0.704708397225263,0 36.4217140769535,-0.704141783678597,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.6">
+	<name>110</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4231730370593,-0.707099585257813,0 36.4233848508763,-0.707613905677679,0 36.423039000118,-0.707660667227664,0 36.4228727666957,-0.70779694741252,0 36.4226855132747,-0.708187429136748,0 36.4225867667736,-0.708392451297618,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.7">
+	<name>63</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.422645685862,-0.708300478235894,0 36.4227343644749,-0.708319174588209,0 36.4235266801229,-0.708774350707947,0 36.4233176759155,-0.709157146967688,0 36.4232316609178,-0.709345755362565,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.8">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4234412997242,-0.70548022598398,0 36.4226816944285,-0.704428620489127,0 36.422138542487,-0.703694296211954,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.9">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4233712572093,-0.707609112780079,0 36.4233612263253,-0.707675002292083,0 36.4232358307475,-0.707660296227114,0 36.4231114995665,-0.70768641103752,0 36.4230299637596,-0.707708192197811,0 36.4229453722367,-0.707832839559646,0 36.4227184719464,-0.708266090344324,0 36.4235593416736,-0.708748020681913,0 36.4234183874421,-0.709062047059791,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.10">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4232250393743,-0.709343627106917,0 36.4229374378879,-0.709857337815402,0 36.4224246744377,-0.710745593815308,0 36.421939935358,-0.711612677691395,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.11">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4221557707895,-0.711347479623781,0 36.422422974789,-0.711498344848354,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.12">
+	<name>63</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.422845689717,-0.706412469625746,0 36.4224647028,-0.705984734310647,0 36.4238259130912,-0.705263454602585,0 36.4243334389344,-0.705011046439479,0 36.4239887994707,-0.704316048000062,0 36.4234814272586,-0.703385614627448,0 36.4232576869235,-0.702966370815497,0 36.4223635996537,-0.7033914822804,0 36.4217531784164,-0.70387283789878,0 36.4216195371931,-0.704028074696225,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.13">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4221175368812,-0.711273530296053,0 36.4217858977429,-0.711085936132694,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.14">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4234188678022,-0.709057384407531,0 36.4230964507698,-0.709655232086901,0 36.4227522812497,-0.710255976157073,0 36.4224417886895,-0.71079627415767,0 36.4221752191909,-0.711310452480184,0 36.4219709895103,-0.71165074617736,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.15">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4224502083005,-0.710788171781369,0 36.4227276632893,-0.710945412354973,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.16">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4224713437255,-0.710756901644893,0 36.422745148984,-0.710915149999482,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.17">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4224276359005,-0.710731320151278,0 36.4220849338381,-0.710528567309729,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.18">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4224077852622,-0.710765486466109,0 36.4220777352446,-0.710562058154018,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.19">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4227729493687,-0.710241822622669,0 36.4230389790244,-0.710402624139309,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.20">
+	<name>40-HDPE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4230003137589,-0.705693907610963,0 36.4227719800233,-0.705420305082208,0 36.4225026214187,-0.705099826279766,0 36.421682666593,-0.70420239160405,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.21">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.422726586869,-0.710220016931539,0 36.4223747080197,-0.710017609641253,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.22">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.422781305808,-0.710214907239163,0 36.4230331893805,-0.710362984059058,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.23">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4230371635826,-0.709675916250105,0 36.4226935406509,-0.709469090498123,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.24">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4221016724393,-0.711312710381585,0 36.4217663089901,-0.711124045715146,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.25">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4227396284426,-0.710185619901313,0 36.4223924178615,-0.70998835067258,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.26">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4230606042179,-0.709633700309189,0 36.4227083248392,-0.709433508090464,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.27">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4230942472909,-0.709656465841908,0 36.4233713527698,-0.709814361690625,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.28">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4230794627097,-0.709692896459227,0 36.4233528313932,-0.709842085604644,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.29">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4233566489313,-0.709088092290266,0 36.4230062904526,-0.708888797477928,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.30">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4233981434459,-0.70909265362298,0 36.423683896416,-0.709262992405075,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.31">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4225798566615,-0.708408395489946,0 36.4216078849991,-0.707849851432008,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.32">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4221793132503,-0.711309481882912,0 36.4224434904812,-0.711464488903737,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.33">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4228366905692,-0.707876967453246,0 36.4222380549205,-0.707516479541042,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.34">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4225576759597,-0.708457715311291,0 36.4221625271919,-0.708215393281905,0 36.4215328193941,-0.707855790175502,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.35">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4228108708208,-0.707909346110484,0 36.4222057608424,-0.707551200225799,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.36">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4227105463599,-0.708256993828925,0 36.4224836916792,-0.708671288357515,0 36.4219982777902,-0.709510888671892,0 36.4219803197363,-0.709538842796031,0 36.4216749905532,-0.710068913154257,0 36.4212609953312,-0.710817561663408,0 36.421062663421,-0.711197878131263,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.37">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4244889235661,-0.705570031084062,0 36.4244645877748,-0.705670028290315,0 36.4249800685123,-0.706627499719436,0 36.4243570253852,-0.707850599732035,0 36.4234556886863,-0.706179373334396,0 36.4239553199435,-0.705920339600544,0 36.4245802535794,-0.707218272675283,0 36.4246261218108,-0.707169229826715,0 36.4240174934133,-0.705967968861723,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.38">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4219627148482,-0.709475198020631,0 36.4206088195627,-0.708678034042177,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.39">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4219323394264,-0.709506955825686,0 36.4210572516118,-0.708998387397017,0 36.4205939633793,-0.708737804692286,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.40">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4216649788223,-0.710013934733823,0 36.4203702435482,-0.709254241721122,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.41">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4222794379594,-0.708950896381776,0 36.4209698027005,-0.708190477971566,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.42">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4230843316734,-0.707043150373777,0 36.4228443965787,-0.707138276642688,0 36.4219356125546,-0.707580359855552,0 36.4215857813703,-0.707783269965664,0 36.4209107965149,-0.708136987769053,0 36.4205198343613,-0.708729529290701,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.43">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4225846450885,-0.70840680170289,0 36.4222573420258,-0.708995308724055,0 36.4219335575751,-0.709512937232474,0 36.4218298102217,-0.709720330107177,0 36.421580872715,-0.710165975415706,0 36.4213168168322,-0.710642298425951,0 36.4210067286998,-0.71119400623815,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.44">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4222621705778,-0.708978737168959,0 36.4216111160924,-0.708605445480331,0 36.4209345055728,-0.708215412230449,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.45">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4200270712364,-0.708424500510569,0 36.4203549168447,-0.707862121828571,0 36.4204601297679,-0.707692382194584,0 36.4212601782876,-0.70724623571249,0 36.4220887152475,-0.706863664383149,0 36.4227124690644,-0.706551756861578,0 36.4228772386012,-0.706488722428247,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.46">
+	<name>110</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4224664587873,-0.705982666689217,0 36.4216499541342,-0.705104043947471,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.47">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4199944333328,-0.708372713145878,0 36.420374931417,-0.707725696369798,0 36.4208056146507,-0.707451677291712,0 36.4212220062925,-0.707224126904006,0 36.4223144919808,-0.70670578188934,0 36.4228526485093,-0.706429119226787,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.48">
+	<name>40-HDPE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4233374647654,-0.709119377806319,0 36.4229927283699,-0.708913547877549,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.49">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4206140132732,-0.708673091333625,0 36.4209044240242,-0.70822157654724,0 36.4209780850461,-0.708139769512248,0 36.4215056902168,-0.707852115039069,0 36.4222088164219,-0.707499466497663,0 36.4229947299495,-0.707117365943097,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.50">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4187876223444,-0.706995177996697,0 36.4196849348833,-0.707618441939722,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.51">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4200739181314,-0.707103227285811,0 36.418807954478,-0.706183932296032,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.52">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.418856276744,-0.706148285735042,0 36.4201179307665,-0.707050318568172,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.53">
+	<name>63</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4223997096485,-0.705913025927805,0 36.4222276627587,-0.706002854975886,0 36.4217629991871,-0.70623751130339,0 36.4213703879323,-0.706440956454243,0 36.4207178237631,-0.706735880994638,0 36.4201214384067,-0.707050456330182,0 36.4199152085104,-0.707268162792103,0 36.4193871041834,-0.70807625687439,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.54">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4195694890043,-0.705561493242237,0 36.4206518622444,-0.706759407348529,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.55">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4194589889591,-0.708101103756829,0 36.4197142351488,-0.707622785895855,0 36.4200355588427,-0.707193219510706,0 36.4203253159381,-0.706990562205158,0 36.420867300492,-0.706711901642987,0 36.4217518049469,-0.706280820287194,0 36.4224355362194,-0.705950326029874,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.56">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4196043020953,-0.705536233870538,0 36.4207236858648,-0.706728787542123,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.57">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4213948164956,-0.706429102464745,0 36.4205587893453,-0.705541877246167,0 36.4199320674465,-0.704857088576624,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.58">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4213379088074,-0.706442475939941,0 36.4208851908515,-0.705953359407012,0 36.420304027668,-0.705328214287453,0 36.4198948590322,-0.704881245482224,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.59">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4204976941143,-0.704473877472297,0 36.4212677338624,-0.705290535179432,0 36.422010688978,-0.706105760529317,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.60">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4204556929802,-0.704482587748428,0 36.42126950784,-0.705359800911167,0 36.4219651554652,-0.706120721253782,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.61">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4216400930927,-0.710064715859174,0 36.4203298984817,-0.709302230154618,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.62">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.418834105751,-0.706946287824911,0 36.4196929754148,-0.707566672121301,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="manera.63">
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#manera">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4239185949224,-0.705230881162469,0 36.4234564226682,-0.704484570925132,0 36.422842704025,-0.703463657865435,0 36.4227180279107,-0.703282099531274,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

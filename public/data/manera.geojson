@@ -1,0 +1,855 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4229203,-0.7089135,1904.08 ]
+    },
+    "properties": {
+    "meter_precision":2.297,
+    "Name of the Customer":"John Muchiri",
+    "Meter type used":"Super Kemei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Installation okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F3477cfc7-39a4-4e3d-8422-6e6698f65aa1%2F1747639255030.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -19.38%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4223607,-0.706673,1878.717 ]
+    },
+    "properties": {
+    "meter_precision":2.358,
+    "Name of the Customer":"Ephantus Kinuthia",
+    "Meter type used":"Kent brass",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"poor position",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F3aaf296e-0112-4f31-aee8-f612e1f6c18b%2F1747643790170.jpg",
+    "Final remarks for the meter tested?":"Meter not tested : due to poor position"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4220149,-0.7069103,1890.808 ]
+    },
+    "properties": {
+    "meter_precision":2.313,
+    "Name of the Customer":"John Gichege",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fe9b620f9-c830-4796-83d6-5962b58e98e0%2F1747643955741.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.420806,-0.7073925,1852.972 ]
+    },
+    "properties": {
+    "meter_precision":2.314,
+    "Name of the Customer":"Dancan Kamau Maina",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fa594db63-f13b-403b-8234-1429e62a6865%2F1747644258605.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering with percentage error of -8. 67%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4210143,-0.7067345,1883.137 ]
+    },
+    "properties": {
+    "meter_precision":5.783,
+    "Name of the Customer":"Gideon Gitonga",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Meter need to be raised",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F8865425c-bffa-4121-854a-304e6df72e50%2F1747644668225.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -13. 34%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4216717,-0.7063227,1882 ]
+    },
+    "properties": {
+    "meter_precision":0.919,
+    "Name of the Customer":"Catherine kasoku",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Meter okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fd83ed995-ac27-44a1-8813-81a0b793d55b%2F1747645032494.jpg",
+    "Final remarks for the meter tested?":"Customer meter tested and found to be under registering by-9. 45%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4216112,-0.705624,1954.499 ]
+    },
+    "properties": {
+    "meter_precision":3.697,
+    "Name of the Customer":"Lenard weru",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fe197e654-eb50-4bea-9079-f150464912a5%2F1747645456692.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -10. 27%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4213047,-0.7054354,1882 ]
+    },
+    "properties": {
+    "meter_precision":1.047,
+    "Name of the Customer":"Iran muiruri",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fba5bc992-3fcb-4e7f-8971-2ff9e74cc3f4%2F1747645712290.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4212265,-0.7054046,1882 ]
+    },
+    "properties": {
+    "meter_precision":0.97,
+    "Name of the Customer":"Francis Gitaka",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fef63dd5a-0c0e-4ad1-aa47-7f6ca428de54%2F1747645866307.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4211279,-0.7053182,1882 ]
+    },
+    "properties": {
+    "meter_precision":1.132,
+    "Name of the Customer":"Milka kamau",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fcdadecb7-a38e-4614-883d-77be26f1808f%2F1747646290604.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4211106,-0.7052947,1894.228 ]
+    },
+    "properties": {
+    "meter_precision":0.98,
+    "Name of the Customer":"James Githuri",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Meter location in poor position",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Ffd5ed54d-a6c7-45a2-90de-a6f8e4f2b0d2%2F1747646507457.jpg",
+    "Final remarks for the meter tested?":"Meter not tested : due to poor position"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.421111,-0.7052983,1893.957 ]
+    },
+    "properties": {
+    "meter_precision":1.469,
+    "Name of the Customer":"Lilian Waithera",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Ff4809c81-3cb2-4d73-919f-c475a1392640%2F1747646689697.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4205119,-0.7062328,1920.007 ]
+    },
+    "properties": {
+    "meter_precision":2.694,
+    "Name of the Customer":"Paul Kamau",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fbdca6b7b-48af-42bc-842a-ccd2dbeae03d%2F1747646952200.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -11. 79%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4230228,-0.7057462,1877.649 ]
+    },
+    "properties": {
+    "meter_precision":2.064,
+    "Name of the Customer":"Peter wakafa",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F18bfb293-0c77-4017-b60d-4d64b1b1fde2%2F1747647605576.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -7. 89%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4230781,-0.7056781,1883.099976 ]
+    },
+    "properties": {
+    "meter_precision":1.272,
+    "Name of the Customer":"Paul Njehia",
+    "Meter type used":"Kent brass",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fd158e1bc-fe5d-4f88-b35b-30f8abe809dc%2F1747647841082.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be within the percentage error range of -4. 67%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.422454,-0.7050085,1889.527 ]
+    },
+    "properties": {
+    "meter_precision":2.423,
+    "Name of the Customer":"Patrick Waithaka ",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F62e6a28f-99d0-4d5c-bba7-fedb3b3bd51d%2F1747649012715.jpg",
+    "Final remarks for the meter tested?":"Meter not in a good position for it to be tested"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4223414,-0.7050084,1882.5 ]
+    },
+    "properties": {
+    "meter_precision":1.216,
+    "Name of the Customer":"Margarine Muhiruri",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F79140819-5260-469b-9a20-b030d231a01f%2F1747649331337.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -6. 78%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4225787,-0.7040288,1865.184 ]
+    },
+    "properties": {
+    "meter_precision":1.751,
+    "Name of the Customer":"Stephen Njoroge",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F519c5a4a-28e6-4d56-a606-680767ab68ea%2F1747649799920.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4226152,-0.7041132,1886.300049 ]
+    },
+    "properties": {
+    "meter_precision":1.831,
+    "Name of the Customer":"Joseph Muraya",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fefd35ef3-e995-41fe-8561-73f61ab49553%2F1747649902026.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4226633,-0.7042471,1886.5 ]
+    },
+    "properties": {
+    "meter_precision":1.198,
+    "Name of the Customer":"Erick Wambuku",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fe05901fb-ca0b-4b3b-a80d-01f44ffef23a%2F1747650096304.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4226712,-0.7042445,1886.5 ]
+    },
+    "properties": {
+    "meter_precision":1.434,
+    "Name of the Customer":"Alex Mbugu",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Meter installation okay",
+    "photo of the meter_URL":"https://kf.kobotoolbox.org/api/v2/assets/aHUHeJua83CEBcxddpHvxV/data/481697152/attachments/238152941/",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -10.63%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4226464,-0.7042668,1886.5 ]
+    },
+    "properties": {
+    "meter_precision":1.054,
+    "Name of the Customer":"Eunice Karenjo",
+    "Meter type used":"Kent brass",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F77ef9eff-9a6a-4536-9d54-6c8272485321%2F1747650449552.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4226613,-0.7042707,1886.5 ]
+    },
+    "properties": {
+    "meter_precision":1.588,
+    "Name of the Customer":"Ann Muthoni",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F554e38d5-739f-4976-92f3-f57ef0bee547%2F1747650565239.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -9. 45%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4227219,-0.704345,1886.5 ]
+    },
+    "properties": {
+    "meter_precision":1.22,
+    "Name of the Customer":"David Theuri",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F15150085-ed30-43f9-86a3-d46f4be5a148%2F1747650910070.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -5. 12%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4237631,-0.7038713,1883.099976 ]
+    },
+    "properties": {
+    "meter_precision":1.063,
+    "Name of the Customer":"Samuel Githongori",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F94d7124c-b41f-46eb-a291-956ec63ddbab%2F1747651048696.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4237738,-0.7038927,1883.099976 ]
+    },
+    "properties": {
+    "meter_precision":1.566,
+    "Name of the Customer":"Benson Njihia",
+    "Meter type used":"No meter",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"N/A",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fd89d3cab-9f39-4593-acca-69e4257c4877%2F1747651225021.jpg",
+    "Final remarks for the meter tested?":"No meter at the customer premise"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4246609,-0.705496,1882.5 ]
+    },
+    "properties": {
+    "meter_precision":7.457,
+    "Name of the Customer":"David Mainge",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Ff85df961-404d-4406-9ec3-98d650c675e3%2F1747651599446.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4240014,-0.705794,1883.253 ]
+    },
+    "properties": {
+    "meter_precision":5.538,
+    "Name of the Customer":"Annah and Geoffrey Mbugi",
+    "Meter type used":"Kent brass",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fcbba36ac-f639-43b6-928f-e0594ebf5224%2F1747652343046.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4240081,-0.7058467,1882 ]
+    },
+    "properties": {
+    "meter_precision":0.859,
+    "Name of the Customer":"Edith Wameyo",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F0813b4aa-744c-4341-9177-9181997389a1%2F1747652447052.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -7. 72%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4240005,-0.7058639,1882 ]
+    },
+    "properties": {
+    "meter_precision":1.203,
+    "Name of the Customer":"Jane wariara",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fde2b74ec-ed25-40b6-aa56-19505745bc0f%2F1747652630224.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -12. 54%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4242575,-0.7065079,1894.906 ]
+    },
+    "properties": {
+    "meter_precision":5.795,
+    "Name of the Customer":"Margaret Wakafa",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F55a86552-256e-4187-a485-d42675b74947%2F1747652867687.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -6. 89%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4242732,-0.7065367,1885.099976 ]
+    },
+    "properties": {
+    "meter_precision":0.77,
+    "Name of the Customer":"Margaret Wakafa",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F3df02428-e05e-4279-a385-d16575500b1a%2F1747653143702.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -5.98%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4242068,-0.708228,1882.599976 ]
+    },
+    "properties": {
+    "meter_precision":0.775,
+    "Name of the Customer":"Gideon mwenza",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F50d05179-67e0-4e81-8c57-b74053d19787%2F1747653448855.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -12. 43%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4242746,-0.7083247,1882.199951 ]
+    },
+    "properties": {
+    "meter_precision":0.769,
+    "Name of the Customer":"Beatrice Njoki",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fa4453cb1-044f-42e7-b194-3d178536d669%2F1747653717999.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4239113,-0.7071952,1885.5 ]
+    },
+    "properties": {
+    "meter_precision":6.2,
+    "Name of the Customer":"Patrick Njihia",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F9c5f18bf-040a-4c05-83ed-0e26cd9d689f%2F1747653847315.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.423958,-0.7072059,1891.800049 ]
+    },
+    "properties": {
+    "meter_precision":0.805,
+    "Name of the Customer":"Adrian mwai",
+    "Meter type used":"Kent brass",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Not okay",
+    "photo of the meter_URL":"https://kf.kobotoolbox.org/api/v2/assets/aHUHeJua83CEBcxddpHvxV/data/481697348/attachments/238153032/",
+    "Final remarks for the meter tested?":"Meter not tested : due to vertical installation"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4239596,-0.707182,1882.400024 ]
+    },
+    "properties": {
+    "meter_precision":0.907,
+    "Name of the Customer":"Gladys kimani",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F09d48c6a-56c1-4d92-8502-ad908706bc88%2F1747654189312.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by  -5. 69%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4235764,-0.7064757,1882.199951 ]
+    },
+    "properties": {
+    "meter_precision":0.886,
+    "Name of the Customer":"Stephen Ngure",
+    "Meter type used":"Super kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F72d158e8-01b2-4a21-b5a5-399cb851b8bc%2F1747654380076.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering by -11.34%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4211265,-0.7053432,1882 ]
+    },
+    "properties": {
+    "meter_precision":1.993,
+    "Name of the Customer":"Julia Njeri",
+    "Meter type used":"Super Kmei",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F58b99920-7efa-41b6-9db4-2886e8211775%2F1747646111665.jpg",
+    "Final remarks for the meter tested?":"Customer meter tested and found to be under registering by-7. 56%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4230052,-0.7088999,1881.699951 ]
+    },
+    "properties": {
+    "meter_precision":4.9,
+    "Name of the Customer":"John Muchiri",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F0f5979cf-9e88-452e-a727-c36782200e6c%2F1747639267444.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering with -19.24%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4216215,-0.7102986,1881.699951 ]
+    },
+    "properties": {
+    "meter_precision":4.425,
+    "Name of the Customer":"Daniel Gachiengo Gitau",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F81bec6b0-5f67-40d6-abdb-ff0a59db7198%2F1747640594815.jpg",
+    "Final remarks for the meter tested?":"Meter box locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4214121,-0.7106158,1880.300049 ]
+    },
+    "properties": {
+    "meter_precision":5,
+    "Name of the Customer":"Peter Kimani Makena",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Get locked",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fd2cbd602-8bf0-4514-b396-2c896cc439b6%2F1747641276693.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4212593,-0.7108611,1879 ]
+    },
+    "properties": {
+    "meter_precision":3.657,
+    "Name of the Customer":"Judith Kamau",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fbe083954-558d-4292-bcd1-294d983554ef%2F1747641387859.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4215328,-0.7091507,1879 ]
+    },
+    "properties": {
+    "meter_precision":3.02,
+    "Name of the Customer":"Ruth Njeri and Simon Ng'ang'a",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Menera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F88885112-f68c-4c30-8923-f8b652268daf%2F1747641807443.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4222966,-0.7088834,1880.300049 ]
+    },
+    "properties": {
+    "meter_precision":4.528,
+    "Name of the Customer":"Peter Ndirangu Macharia",
+    "Meter type used":"Kent brass",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F49c01cd7-90a0-44b3-99cb-8e86892cb866%2F1747642666351.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4228278,-0.7079874,1881.699951 ]
+    },
+    "properties": {
+    "meter_precision":3.94,
+    "Name of the Customer":"Mike Muchemi Maina",
+    "Meter type used":"Kent brass",
+    "Serial Number for the Meter":"230402690",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fc382ab18-7c0a-4bba-aa57-c797400398c1%2F1747642965821.jpg",
+    "Final remarks for the meter tested?":"Meter tested and found to be under registering with -7.32%"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4227747,-0.7077666,1881.900024 ]
+    },
+    "properties": {
+    "meter_precision":4.933,
+    "Name of the Customer":"Francis Gitaka",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F66534569-135e-4eef-9614-30ef9fc05cae%2F1747643217560.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4227192,-0.7066162,1882.800049 ]
+    },
+    "properties": {
+    "meter_precision":4.16,
+    "Name of the Customer":"Stephen kiongo",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F665acb3e-cc34-4d12-80b3-3dabd6acc9ce%2F1747643565228.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4249082,-0.7069416,1882.400024 ]
+    },
+    "properties": {
+    "meter_precision":3.875,
+    "Name of the Customer":"Stephen Gitonga",
+    "Meter type used":"N/A",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"N/A",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2F7cfbc538-fc85-45bb-8258-26a8150aed69%2F1747653123080.jpg",
+    "Final remarks for the meter tested?":"Gate locked"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4239517,-0.7070533,1882 ]
+    },
+    "properties": {
+    "meter_precision":4.9,
+    "Name of the Customer":"John Kahora",
+    "Meter type used":"Super",
+    "Serial Number for the Meter":"N/A",
+    "Route":"Manera",
+    "status for the meter?":"Okay",
+    "photo of the meter_URL":"https://kc.kobotoolbox.org/media/original?media_file=frank_433%2Fattachments%2F5384feee55b34ce8af337ef84f82f69f%2Fb60f46fd-f8da-4a6e-8bf3-0558279b7009%2F1747654018568.jpg",
+    "Final remarks for the meter tested?":"Meter under registering"
+    }
+  }
+]
+}

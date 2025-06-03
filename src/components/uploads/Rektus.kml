@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rektus" id="Rektus">
+	<SimpleField name="DIAMETER" type="float"></SimpleField>
+	<SimpleField name="MATERIAL" type="string"></SimpleField>
+</Schema>
+<Folder><name>Rektus</name>
+  <Placemark id="Rektus.1">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4790733124751,-0.722587169976562,0 36.4792153723695,-0.722851965782977,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.2">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4792179034577,-0.722851602777156,0 36.4782598491947,-0.723747461672796,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.3">
+	<name>1.5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">40</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4790707834292,-0.722576553612848,0 36.4787211164465,-0.72223528694669,0 36.4785842058067,-0.722153865717005,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.4">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4788702682593,-0.722585081756258,0 36.4783425529765,-0.723088594527433,0 36.4782977444231,-0.723044216661316,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.5">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4781469579069,-0.721884995593034,0 36.4777780508961,-0.722265803690503,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.6">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4775855360631,-0.72162742534376,0 36.4768411276944,-0.722303818234808,0 36.4768344940871,-0.722304930111972,0 36.4768344940871,-0.722304930111972,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.7">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.477067369942,-0.721390120727367,0 36.476517258965,-0.72194038438906,0 36.4763923149987,-0.721963527293581,0 36.4762114233595,-0.722154071975494,0 36.4758000853518,-0.721758902876956,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.8">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4762013882175,-0.720995040538679,0 36.4757821305495,-0.721406047804018,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.9">
+	<name>0.75</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">20</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4785842058067,-0.722153865717005,0 36.4773902484555,-0.723374473236211,0 36.4767933741028,-0.722784399168311,0 36.4763525985622,-0.723436618584209,0 36.475952799244,-0.724080205957576,0 36.4751509804312,-0.725657480793719,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.10">
+	<name>1.5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">40</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4785842058067,-0.722153865717005,0 36.4784202582043,-0.722052603906817,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.11">
+	<name>1.5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">40</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4784202582043,-0.722052603906817,0 36.4781469579069,-0.721884995593034,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.12">
+	<name>1.5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">40</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4781469579069,-0.721884995593034,0 36.4775855360631,-0.72162742534376,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.13">
+	<name>1.5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">40</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.4775855360631,-0.72162742534376,0 36.477067369942,-0.721390120727367,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="Rektus.14">
+	<name>1.5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rektus">
+		<SimpleData name="DIAMETER">40</SimpleData>
+		<SimpleData name="MATERIAL">PPR</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.477067369942,-0.721390120727367,0 36.4762026448643,-0.720995817797586,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
