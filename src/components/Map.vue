@@ -11,7 +11,7 @@
 
     <input ref="fileInput" type="file" accept=".kml" style="display: none" @change="handleFileChange" />
 
-    <div id="map" style="height: 85vh;"></div>
+    <div id="map" style="height: 87vh;"></div>
   </div>
 </template>
 
@@ -204,7 +204,7 @@ const loadGeoJSON = async () => {
    
     markers.addLayer(geoJsonLayer);
     map.addLayer(markers);
-    overlayLayersControl?.addOverlay(markers, "Sanitation Points");
+    // overlayLayersControl?.addOverlay(markers, "Sanitation Points");
 
   } catch (error) {
     console.error("Error loading GeoJSON:", error);
@@ -334,12 +334,6 @@ onMounted(() => {
 //     refreshLayerControl();
 //   }
 // })
-
-
-
-
-
-
 
 
 
