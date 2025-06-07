@@ -173,6 +173,24 @@ app.get("/data", async (req, res) => {
   }
 });
 
-app.listen(port, () => {
-  console.log(`✅ Server running on http://localhost:${port}`);
+
+app.use(cors());
+app.use("/uploads", express.static(path.join(__dirname, "uploads")));
+
+// Endpoint to list uploaded KML files
+app.get("/kml-files", (req, res) => {
+  const uploadsDir = path.join(__dirname, "uploads");
+  fs.readdir(uploadsDir, (err, files) => {
+    if (err) {
+      return res.status(500).json({ error: "Failed to list files." });
+    }
+    const kmlFiles = files.filter(file => file.endsWith(".kml"));
+    res.json(kmlFiles);
+  });
 });
+
+app.listen(3000, () => {
+  console.log("Server started on http://localhost:3000");
+});
+
+

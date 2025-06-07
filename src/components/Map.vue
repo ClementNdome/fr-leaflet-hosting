@@ -11,7 +11,7 @@
 
     <input ref="fileInput" type="file" accept=".kml" style="display: none" @change="handleFileChange" />
 
-    <div id="map" style="height: 90.5vh;"></div>
+    <div id="map" style="height: 85vh;"></div>
   </div>
 </template>
 
@@ -181,9 +181,11 @@ const addDeleteButtonsToLayerControl = () => {
   });
 };
 
+// let sanitationLayer = null;
+
 const loadGeoJSON = async () => {
   try {
-    const response = await fetch("data/Sanitation Baseline (6).geojson");
+    const response = await fetch("data/SSSP2 (2).geojson");
     const data = await response.json();
 
     const markers = leaflet.markerClusterGroup();
@@ -199,9 +201,11 @@ const loadGeoJSON = async () => {
         }
       },
     });
-
+   
     markers.addLayer(geoJsonLayer);
     map.addLayer(markers);
+    overlayLayersControl?.addOverlay(markers, "Sanitation Points");
+
   } catch (error) {
     console.error("Error loading GeoJSON:", error);
   }
@@ -237,12 +241,114 @@ const loadStoredLayers = async () => {
 onMounted(() => {
   // initialize map...
 
+
+
+  const loadStoredKMLsFromServer = async () => {
+  try {
+    const response = await fetch("http://localhost:3000/kml-files");
+    const kmlFiles: string[] = await response.json();
+
+    for (const fileName of kmlFiles) {
+      const kmlURL = `http://localhost:3000/uploads/${fileName}`;
+      const kmlText = await fetch(kmlURL).then(res => res.text());
+      await loadKML(fileName, kmlText);
+    }
+  
+
+  } catch (error) {
+    console.error("Failed to load stored KMLs:", error);
+  }
+};
+
+
   loadGeoJSON();       // Optional if you use another GeoJSON source
-  loadStoredLayers();  // Load KML data from PostGIS here
+  loadStoredKMLsFromServer();
+  // loadStoredLayers();  // Load KML data from PostGIS here
 });
 
 
-onMounted(() => {
+// onMounted(() => {
+//   map = leaflet.map("map").setView([-0.84666, 36.45511], 11);
+
+//   const osm = leaflet.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+//     maxZoom: 19,
+//     attribution: "&copy; OpenStreetMap contributors",
+//   });
+
+//   const satellite = leaflet.tileLayer(
+//     "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+//     {
+//       maxZoom: 19,
+//       attribution: "Tiles © Esri",
+//     }
+//   );
+
+//   const googleSat = leaflet.tileLayer(
+//   "http://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+//   {
+//     attribution: "&copy; Google",
+//     maxZoom: 20,
+//   }
+// );
+
+// const maptilerStreets = leaflet.tileLayer(
+//   "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=pkofjgt6Yd5z6PF380jI",
+//   {
+//     tileSize: 512,
+//     zoomOffset: -1,
+//     minZoom: 0,
+//     maxZoom: 22,
+//     attribution:
+//       '&copy; <a href="https://www.maptiler.com/">MapTiler</a> &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+//   }
+// );
+
+
+
+//   googleSat.addTo(map);
+//   basemaps["Google sat"] = googleSat;
+//   basemaps["OpenStreetMap"] = osm;
+//   // basemaps["Satellite"] = satellite;
+//   basemaps["maptilerStreets"] = maptilerStreets;
+  
+
+//   overlayLayersControl = leaflet.control.layers(basemaps, {}, { collapsed: false }).addTo(map);
+
+//   loadGeoJSON();
+ 
+
+//   const storedLayers = layerData.value.geojson;
+//   const storedNames = layerData.value.geoJSONNames;
+
+//   if (storedLayers && storedNames.length) {
+//     for (let i = 0; i < storedLayers.length; i++) {
+//       const layer = leaflet.geoJSON(storedLayers[i], {
+//         style: {
+//           color: "blue",
+//           weight: 2,
+//         },
+//       });
+//       kmlLayers[storedNames[i]] = layer;
+//       map.addLayer(layer);
+//     }
+//     refreshLayerControl();
+//   }
+// })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+onMounted(async () => {
   map = leaflet.map("map").setView([-0.84666, 36.45511], 11);
 
   const osm = leaflet.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -259,36 +365,37 @@ onMounted(() => {
   );
 
   const googleSat = leaflet.tileLayer(
-  "http://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
-  {
-    attribution: "&copy; Google",
-    maxZoom: 20,
-  }
-);
+    "http://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    {
+      attribution: "&copy; Google",
+      maxZoom: 20,
+    }
+  );
 
-const maptilerStreets = leaflet.tileLayer(
-  "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=pkofjgt6Yd5z6PF380jI",
-  {
-    tileSize: 512,
-    zoomOffset: -1,
-    minZoom: 0,
-    maxZoom: 22,
-    attribution:
-      '&copy; <a href="https://www.maptiler.com/">MapTiler</a> &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
-  }
-);
-
-
+  const maptilerStreets = leaflet.tileLayer(
+    "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=pkofjgt6Yd5z6PF380jI",
+    {
+      tileSize: 512,
+      zoomOffset: -1,
+      minZoom: 0,
+      maxZoom: 22,
+      attribution:
+        '&copy; <a href="https://www.maptiler.com/">MapTiler</a> &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+    }
+  );
 
   googleSat.addTo(map);
   basemaps["Google sat"] = googleSat;
   basemaps["OpenStreetMap"] = osm;
-  // basemaps["Satellite"] = satellite;
   basemaps["maptilerStreets"] = maptilerStreets;
+  
 
+  // Initialize overlay control AFTER map and base layers
   overlayLayersControl = leaflet.control.layers(basemaps, {}, { collapsed: false }).addTo(map);
 
-  loadGeoJSON();
+  // ✅ Now safe to call functions that rely on overlayLayersControl
+  await loadGeoJSON();             // Add GeoJSON layer
+  // await loadStoredKMLsFromServer(); // Add saved KMLs if any
 
   const storedLayers = layerData.value.geojson;
   const storedNames = layerData.value.geoJSONNames;
@@ -305,9 +412,11 @@ const maptilerStreets = leaflet.tileLayer(
       map.addLayer(layer);
     }
     refreshLayerControl();
+  
   }
 });
-</script>
+
+</script>;
 
 <style scoped>
 .title-bar {
