@@ -365,7 +365,7 @@ onMounted(async () => {
   );
 
   const googleSat = leaflet.tileLayer(
-    "http://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
+    "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
     {
       attribution: "&copy; Google",
       maxZoom: 20,
