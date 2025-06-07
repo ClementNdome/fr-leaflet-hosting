@@ -422,7 +422,7 @@ onMounted(async () => {
 .title-bar {
   background-color: #4CAF50;
   color: white;
-  padding: 17px;
+  padding: 10px;
   text-align: center;
   /* font-weight: bold; */
   font-family: serif
