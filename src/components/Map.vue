@@ -2,7 +2,7 @@
 <template>
   <div>
     <div class="title-bar">
-      <h1>BASELINE SANITATION MAPPING</h1>
+      <h1>SMALL SCALE MAPPING</h1>
     </div>
 
     <div class="footer">
@@ -204,7 +204,7 @@ const loadGeoJSON = async () => {
    
     markers.addLayer(geoJsonLayer);
     map.addLayer(markers);
-    // overlayLayersControl?.addOverlay(markers, "Sanitation Points");
+    overlayLayersControl?.addOverlay(markers, "SSSPS ");
 
   } catch (error) {
     console.error("Error loading GeoJSON:", error);
@@ -238,33 +238,33 @@ const loadStoredLayers = async () => {
 };
 
 
-onMounted(() => {
-  // initialize map...
+// onMounted(() => {
+//   // initialize map...
 
 
 
-  const loadStoredKMLsFromServer = async () => {
-  try {
-    const response = await fetch("http://localhost:3000/kml-files");
-    const kmlFiles: string[] = await response.json();
+//   const loadStoredKMLsFromServer = async () => {
+//   try {
+//     const response = await fetch("http://localhost:3000/kml-files");
+//     const kmlFiles: string[] = await response.json();
 
-    for (const fileName of kmlFiles) {
-      const kmlURL = `http://localhost:3000/uploads/${fileName}`;
-      const kmlText = await fetch(kmlURL).then(res => res.text());
-      await loadKML(fileName, kmlText);
-    }
+//     for (const fileName of kmlFiles) {
+//       const kmlURL = `http://localhost:3000/uploads/${fileName}`;
+//       const kmlText = await fetch(kmlURL).then(res => res.text());
+//       await loadKML(fileName, kmlText);
+//     }
   
 
-  } catch (error) {
-    console.error("Failed to load stored KMLs:", error);
-  }
-};
+//   } catch (error) {
+//     console.error("Failed to load stored KMLs:", error);
+//   }
+// };
 
 
-  loadGeoJSON();       // Optional if you use another GeoJSON source
-  loadStoredKMLsFromServer();
-  // loadStoredLayers();  // Load KML data from PostGIS here
-});
+//   loadGeoJSON();       // Optional if you use another GeoJSON source
+//   loadStoredKMLsFromServer();
+//   // loadStoredLayers();  // Load KML data from PostGIS here
+// });
 
 
 // onMounted(() => {
