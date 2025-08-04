@@ -1,0 +1,4925 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4855226,-0.7012096 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Good Faith",
+    "Year_Drilled":"1985",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"7 per 30 ltrs, 150 per connection",
+    "Connected_Households":60,
+    "Households_using_Water_Kiosks":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4778749,-0.7234143 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Kinamba",
+    "Year_Drilled":"1992",
+    "Depth_m":180,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Pump House",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9603215,-0.3926254 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Mutaro W. P.",
+    "Year_Drilled":"1988",
+    "Depth_m":170,
+    "Operational_Status":"Yes",
+    "Yield":17,
+    "Complementary_Assets":"Fence Pump House Bulk Meter ",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per household connection and 5 per 20 ltrs",
+    "Connected_Households":300,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4774071,-0.6908792 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Karate",
+    "Year_Drilled":"2013",
+    "Depth_m":240,
+    "Operational_Status":"Yes",
+    "Yield":13,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 100 per unit ",
+    "Connected_Households":223,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4619293,-0.6780595 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Gadhengera",
+    "Year_Drilled":"1993",
+    "Depth_m":210,
+    "Operational_Status":"Yes",
+    "Yield":4,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per Unit ",
+    "Connected_Households":60,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0905323,-0.5298408 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Miti Mingi",
+    "Year_Drilled":"2006",
+    "Depth_m":230,
+    "Operational_Status":"Yes",
+    "Yield":13,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 250 per unit",
+    "Connected_Households":40,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6892268,-0.1947361 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Mchorwe",
+    "Year_Drilled":"2021",
+    "Depth_m":256,
+    "Operational_Status":"Yes",
+    "Yield":27,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":250,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9961558,-0.4523219 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Kariaini Water Project ",
+    "Year_Drilled":"2020",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":19,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Church Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per household connection, 5 per 20ltr,",
+    "Connected_Households":500,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7143916,-0.4999939 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Kapseger",
+    "Year_Drilled":"1948",
+    "Depth_m":82,
+    "Operational_Status":"Yes",
+    "Yield":3,
+    "Complementary_Assets":"Bulk Meter  Tanks",
+    "Funder":"Community Donation",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2024604,-0.8205493 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Ngondi Community water project",
+    "Year_Drilled":"2013",
+    "Depth_m":240,
+    "Operational_Status":"Yes",
+    "Yield":4,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Community Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5/ 30ltrs",
+    "Connected_Households":5,
+    "Households_using_Water_Kiosks":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9980207,-0.0614765 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Mulwang Water Project",
+    "Year_Drilled":"2020",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Tanks",
+    "Funder":"Community Donation",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr, every livestock is 10 per month, 200 per household connection",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1585654,-0.0837974 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Jumuia",
+    "Year_Drilled":"2016",
+    "Depth_m":185,
+    "Operational_Status":"Yes",
+    "Yield":7,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"Community Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":300,
+    "Households_using_Water_Kiosks":1000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1125315,-0.1655825 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Wanyororo",
+    "Year_Drilled":"1927",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Tanks",
+    "Funder":"Community Donation",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Generator",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9438099,-0.1286101 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Kambi ya Moto community water project",
+    "Year_Drilled":"2007",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter  Chlorination Doser ",
+    "Funder":"Community Donation",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 100 per unit per households connection",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2276834,-0.7568409 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Kipkony'",
+    "Year_Drilled":"1994",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Community Donation",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 30 ltrs",
+    "Connected_Households":123,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6830022,-0.4714288 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Chebara",
+    "Year_Drilled":"1944",
+    "Depth_m":138,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Tanks Bulk Meter  Pump House",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 100 per household",
+    "Connected_Households":47,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1743602,-0.0815234 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Karuma Ido",
+    "Year_Drilled":"1965",
+    "Depth_m":120,
+    "Operational_Status":"No",
+    "Yield":8,
+    "Complementary_Assets":"Fence",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0228879,-0.3278612 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Engibor Phase 1",
+    "Year_Drilled":"2001",
+    "Depth_m":250,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"150 per unit",
+    "Connected_Households":300,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0425691,-0.3541004 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Kamasai",
+    "Year_Drilled":"1965",
+    "Depth_m":108,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"50 per unit, 3 per 20Ltrs",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0401305,-0.3732077 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Kigonor",
+    "Year_Drilled":"2019",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":0,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per Unit",
+    "Connected_Households":150,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6838483,-0.4004365 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Siwot Water Projector ",
+    "Year_Drilled":"1945",
+    "Depth_m":120,
+    "Operational_Status":"Yes",
+    "Yield":3,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":20,
+    "Households_using_Water_Kiosks":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6976656,-0.5043024 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Dendwet dispensary borehole",
+    "Year_Drilled":"2018",
+    "Depth_m":172,
+    "Operational_Status":"Yes",
+    "Yield":20,
+    "Complementary_Assets":"Tanks Bulk Meter ",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":30,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7043365,-0.4471675 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Tulwet ",
+    "Year_Drilled":"1945",
+    "Depth_m":124,
+    "Operational_Status":"Yes",
+    "Yield":11,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Flat Rate of 300 per month, 5 per 20ltr ",
+    "Connected_Households":205,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6859746,-0.4268294 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Keringet town",
+    "Year_Drilled":"1992",
+    "Depth_m":120,
+    "Operational_Status":"Yes",
+    "Yield":25,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Naruwasco tariff ",
+    "Connected_Households":250,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.499452,-0.6717741 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Milimani Water Project",
+    "Year_Drilled":"1996",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Pump House Tanks",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per Unit",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1204345,-0.0414292 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"NCCK Community",
+    "Year_Drilled":"2002",
+    "Depth_m":96,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per Unit and 4 per 20 ltrs",
+    "Connected_Households":230,
+    "Households_using_Water_Kiosks":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6584631,-0.6396884 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Ndasiata",
+    "Year_Drilled":"2019",
+    "Depth_m":280,
+    "Operational_Status":"Yes",
+    "Yield":4,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Community Donation ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per household ",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2385801,-0.2464266 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Ndondori",
+    "Year_Drilled":"2021",
+    "Depth_m":230,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Chiefs Camp",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":500,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1118553,-0.1564394 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Wanyororo B",
+    "Year_Drilled":"2020",
+    "Depth_m":235,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Tanks",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 Per 20 Ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1577435,-0.1548354 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Old Bahati public ",
+    "Year_Drilled":"2019",
+    "Depth_m":202,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1600164,-0.1773639 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Karaga DCC",
+    "Year_Drilled":"2020",
+    "Depth_m":165,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1661486,-0.2149028 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Kabatini Borehole",
+    "Year_Drilled":"2015",
+    "Depth_m":120,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Tanks",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per month per household",
+    "Connected_Households":700,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1630906,-0.2307794 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Johnathan Borehole",
+    "Year_Drilled":"2018",
+    "Depth_m":220,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Tanks Pump House Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per household per month",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1475807,-0.2316132 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Amos Borehole",
+    "Year_Drilled":"1954",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"3sh per 20 ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1385972,-0.2404923 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"St. Peter's Nairobi",
+    "Year_Drilled":"2015",
+    "Depth_m":100,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":800,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1163831,-0.2307489 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Kiamaina Water",
+    "Year_Drilled":"2015",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":22,
+    "Complementary_Assets":"Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5sh per 20ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":800
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1256247,-0.2590439 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Gitawa Borehole",
+    "Year_Drilled":"2016",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":20,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":10,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1101133,-0.2503073 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Kagoto",
+    "Year_Drilled":"1940",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 sh per 20 ltrs",
+    "Connected_Households":1000,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1877484,-0.2522999 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Wanyororo A",
+    "Year_Drilled":"2019",
+    "Depth_m":178,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"800 Households",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5702732,-0.3919875 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Sitoito ",
+    "Year_Drilled":"2019",
+    "Depth_m":230,
+    "Operational_Status":"Yes",
+    "Yield":30,
+    "Complementary_Assets":"Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":29,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6803087,-0.3722775 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Segutony'",
+    "Year_Drilled":"2020",
+    "Depth_m":230,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6779402,-0.6334586 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Kitoben",
+    "Year_Drilled":"2022",
+    "Depth_m":238,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7576079,-0.2640912 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Mgere Mkia",
+    "Year_Drilled":"2011",
+    "Depth_m":190,
+    "Operational_Status":"No",
+    "Yield":16,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7451727,-0.2511573 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Kennyatta 2",
+    "Year_Drilled":"2021",
+    "Depth_m":348,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter  Chlorination Doser ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 400 per unit per month for the household connections",
+    "Connected_Households":350,
+    "Households_using_Water_Kiosks":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7023923,-0.2330588 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Tayari Water Project",
+    "Year_Drilled":"1996",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"50 per unit per month",
+    "Connected_Households":260,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4668205,-0.6877877 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Nyondia A",
+    "Year_Drilled":"1997",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per Unit ",
+    "Connected_Households":294,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4652526,-0.7058894 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Nyondia B",
+    "Year_Drilled":"2019",
+    "Depth_m":250,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"50 per unit ",
+    "Connected_Households":80,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4513949,-0.5745349 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Gwa share",
+    "Year_Drilled":"2020",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":20,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4599572,-0.6257765 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Milimani",
+    "Year_Drilled":"2019",
+    "Depth_m":165,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Bulk Meter  Tanks",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per connected household ",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7612135,-0.2439563 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Kiambogo",
+    "Year_Drilled":"2016",
+    "Depth_m":110,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Bulk Meter  Tanks",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"50 per unit",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7196755,-0.2341891 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Tayari B Water Project",
+    "Year_Drilled":"2020",
+    "Depth_m":230,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6294702,-0.4254735 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Kewamoi",
+    "Year_Drilled":"2018",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":20,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Hospital",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs and 200 per connected household per month ",
+    "Connected_Households":61,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6059897,-0.4357316 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Chemaner",
+    "Year_Drilled":"2021",
+    "Depth_m":230,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Hospital ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.577729,-0.4132871 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Ikumbi Borehole",
+    "Year_Drilled":"2009",
+    "Depth_m":60,
+    "Operational_Status":"Yes",
+    "Yield":30,
+    "Complementary_Assets":"Fence Tanks Bulk Meter  Pump House",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Hospital ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20Ltr, 200 per month per household",
+    "Connected_Households":40,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1820727,-0.2360575 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Muguadhi water Project",
+    "Year_Drilled":"2020",
+    "Depth_m":120,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Individual ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per household per month",
+    "Connected_Households":600,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.707749,-0.4830343 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Saptet Area Borehole",
+    "Year_Drilled":"2020",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":36,
+    "Complementary_Assets":"Tanks Bulk Meter  Pump House",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7183088,-0.5150544 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi South",
+    "Borehole_Name":"Silibwet",
+    "Year_Drilled":"2019",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":6,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7354475,-0.4128246 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Baralget ",
+    "Year_Drilled":"2019",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":4,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, ",
+    "Connected_Households":210,
+    "Households_using_Water_Kiosks":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6558902,-0.411036 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Tarakwa",
+    "Year_Drilled":"2020",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Bulk Meter  Tanks Fence",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":85,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7300659,-0.2389458 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Molo community Academy ",
+    "Year_Drilled":"2020",
+    "Depth_m":180,
+    "Operational_Status":"No",
+    "Yield":10,
+    "Complementary_Assets":"",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7181799,-0.255582 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Motoo ",
+    "Year_Drilled":"2014",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Tanks Bulk Meter ",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Naruwasco tariff ",
+    "Connected_Households":281,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0257175,-0.3047309 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Mogoon Secondary",
+    "Year_Drilled":"2015",
+    "Depth_m":160,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Pump House Bulk Meter Tanks",
+    "Funder":"County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 80 per unit",
+    "Connected_Households":80,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2292132,-0.7059956 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Fly Over to Tumaini Borehole",
+    "Year_Drilled":"2020",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2156126,-0.72257 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Shamba Boy",
+    "Year_Drilled":"1960",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per unit",
+    "Connected_Households":80,
+    "Households_using_Water_Kiosks":1000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4993192,-0.6318575 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Kerema Water project",
+    "Year_Drilled":"2016",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":400,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5248042,-0.6718337 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Gisheha Community Water Project",
+    "Year_Drilled":"2020",
+    "Depth_m":247,
+    "Operational_Status":"No",
+    "Yield":24,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5328479,-0.7014915 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Kampi Ndoro",
+    "Year_Drilled":"2019",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":12,
+    "Complementary_Assets":"Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":20,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.487026,-0.7257205 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Kamorogo Water Project",
+    "Year_Drilled":"2015",
+    "Depth_m":270,
+    "Operational_Status":"No",
+    "Yield":7,
+    "Complementary_Assets":"Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4865226,-0.7147772 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Upper Kinamba",
+    "Year_Drilled":"2015",
+    "Depth_m":250,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"150 per unit",
+    "Connected_Households":80,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4718019,-0.7364832 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Gitwamba borehole",
+    "Year_Drilled":"2020",
+    "Depth_m":260,
+    "Operational_Status":"No",
+    "Yield":11,
+    "Complementary_Assets":"Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5088299,-0.6628647 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Githuro 1993",
+    "Year_Drilled":"2014",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":4,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Generator",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"10, per 30 ltrs",
+    "Connected_Households":40,
+    "Households_using_Water_Kiosks":160
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.565596,-0.8830849 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Fly Over Magumu",
+    "Year_Drilled":"2019",
+    "Depth_m":220,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5622234,-0.8419447 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Munyu Borehole 1",
+    "Year_Drilled":"2013",
+    "Depth_m":250,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":500,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5498073,-0.8377606 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Munyu 3",
+    "Year_Drilled":"2014",
+    "Depth_m":250,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5447096,-0.8206415 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Mwishiringiri",
+    "Year_Drilled":"2013",
+    "Depth_m":180,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.519798,-0.7798458 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Nyamadhi",
+    "Year_Drilled":"2016",
+    "Depth_m":320,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Tanks Pump House Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"150 per Unit,",
+    "Connected_Households":71,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9460156,-0.3316906 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Police Line Water Project",
+    "Year_Drilled":"2020",
+    "Depth_m":190,
+    "Operational_Status":"No",
+    "Yield":14,
+    "Complementary_Assets":"Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9957809,-0.3366997 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Piave Water Project",
+    "Year_Drilled":"2018",
+    "Depth_m":170,
+    "Operational_Status":"Yes",
+    "Yield":19,
+    "Complementary_Assets":"Tanks Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 lit",
+    "Connected_Households":500,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0133534,-0.3567008 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Natu Water Project",
+    "Year_Drilled":"2019",
+    "Depth_m":170,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20lts",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9644643,-0.4382142 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Motito A",
+    "Year_Drilled":"2021",
+    "Depth_m":170,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Tanks Pump House Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 ltr",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0402924,-0.4841852 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Bavaria Water Project",
+    "Year_Drilled":"1970",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 liters, 200 per unit, 4 community water points",
+    "Connected_Households":150,
+    "Households_using_Water_Kiosks":800
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9626534,-0.4033608 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Subuku",
+    "Year_Drilled":"2021",
+    "Depth_m":193,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Bulk Meter  Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9510686,-0.3406084 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Jordan Estate",
+    "Year_Drilled":"2018",
+    "Depth_m":220,
+    "Operational_Status":"Yes",
+    "Yield":17,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 Ltrs",
+    "Connected_Households":4,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9705486,-0.3677561 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Bebga kapchi",
+    "Year_Drilled":"2018",
+    "Depth_m":220,
+    "Operational_Status":"No",
+    "Yield":17,
+    "Complementary_Assets":"Fence",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9358353,-0.3821533 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Mihoti Water Project",
+    "Year_Drilled":"2020",
+    "Depth_m":170,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9314631,-0.3897449 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Eredhi",
+    "Year_Drilled":"2019",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9225093,-0.3944309 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Eriithia Ndarugu",
+    "Year_Drilled":"2017",
+    "Depth_m":240,
+    "Operational_Status":"Yes",
+    "Yield":19,
+    "Complementary_Assets":"Fence Tanks Pump House Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9406228,-0.4373792 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Lulukwet",
+    "Year_Drilled":"2011",
+    "Depth_m":170,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20ltrs, about 10 households connected at 100 per unit",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9618311,-0.516219 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Mauche W P",
+    "Year_Drilled":"2006",
+    "Depth_m":160,
+    "Operational_Status":"Yes",
+    "Yield":6,
+    "Complementary_Assets":"Pump House Fence Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 Ltrs",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9085631,-0.3619348 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Beeston Rurii",
+    "Year_Drilled":"2012",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs,",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0056999,-0.5997976 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Morage W",
+    "Year_Drilled":"2011",
+    "Depth_m":120,
+    "Operational_Status":"Yes",
+    "Yield":11,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"4 per 20ltr, 160 per unit, ",
+    "Connected_Households":150,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8978093,-0.368738 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Cheptoloi ",
+    "Year_Drilled":"2006",
+    "Depth_m":121,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1051963,-0.0867456 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Ruiru",
+    "Year_Drilled":"2021",
+    "Depth_m":250,
+    "Operational_Status":"Yes",
+    "Yield":26,
+    "Complementary_Assets":"Fence Tanks Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":20,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2228336,0.1133538 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Nyamamidhi",
+    "Year_Drilled":"2018",
+    "Depth_m":147,
+    "Operational_Status":"Yes",
+    "Yield":30,
+    "Complementary_Assets":"Tanks Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr. ",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9454262,-0.1551266 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Chergei W P",
+    "Year_Drilled":"2017",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0253508,-0.0557332 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Majani Mingi",
+    "Year_Drilled":"\n2013",
+    "Depth_m":180,
+    "Operational_Status":"No",
+    "Yield":20,
+    "Complementary_Assets":"Fence Tanks Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, ",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.191346,-0.0501177 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Kirengero",
+    "Year_Drilled":"2015",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":14,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1907775,-0.0423243 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Munanda",
+    "Year_Drilled":"2013",
+    "Depth_m":107,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1984618,-0.017241 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Edge wood",
+    "Year_Drilled":"1994",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2163888,-0.0179397 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Mugagi ",
+    "Year_Drilled":"2019",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Fence",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":250,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.223896,-0.0281003 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Mutito mumoi",
+    "Year_Drilled":"Rehabilited 2021",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":150,
+    "Households_using_Water_Kiosks":130
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2386145,0.006314 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Suka Milk processing water project",
+    "Year_Drilled":"2020",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Chlorination Doser ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":5,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2407034,0.0188874 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Ngamini",
+    "Year_Drilled":"2019",
+    "Depth_m":220,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"About 10 household connection and 8 communial  water point",
+    "Connected_Households":10,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1337775,-0.0634262 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Marigu",
+    "Year_Drilled":"2019",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":35,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 Ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1260841,-0.0838163 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Endao",
+    "Year_Drilled":"2019",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":7,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20Ltr, 100 per unit for the connected ",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1395374,-0.1182059 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Akuisi",
+    "Year_Drilled":"2019",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":30,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1495792,-0.3697525 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru East",
+    "Borehole_Name":"Meruge Tank Site",
+    "Year_Drilled":"2022",
+    "Depth_m":212,
+    "Operational_Status":"No",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4793576,-0.6649764 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Nyonjoro",
+    "Year_Drilled":"1982",
+    "Depth_m":164,
+    "Operational_Status":"Yes",
+    "Yield":13,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 Ltr, 100 per unit ",
+    "Connected_Households":230,
+    "Households_using_Water_Kiosks":180
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2386052,-0.363992 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Kasambara",
+    "Year_Drilled":"2021",
+    "Depth_m":280,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Tanks Pump House Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 Ltr, 50 per unit per connected households",
+    "Connected_Households":60,
+    "Households_using_Water_Kiosks":280
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2238876,-0.3483252 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Echareria",
+    "Year_Drilled":"2010",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Tanks Bulk Meter Pump House Fence",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 40 Ltr, 50 per unit",
+    "Connected_Households":60,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2183566,-0.3444143 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Kirima",
+    "Year_Drilled":"2021",
+    "Depth_m":270,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1883983,-0.5701431 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Oljorai",
+    "Year_Drilled":"2016",
+    "Depth_m":220,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"3 per 20Ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":750
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.114916,-0.566999 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Inua Hustles",
+    "Year_Drilled":"2019",
+    "Depth_m":250,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Bulk Meter Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1573455,-0.4894626 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Derit",
+    "Year_Drilled":"2020",
+    "Depth_m":165,
+    "Operational_Status":"Yes",
+    "Yield":25,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1516932,-0.3425386 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Worker Water Project",
+    "Year_Drilled":"2020",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Tanks Bulk Meter Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"3 per 20Ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6875114,-0.1951108 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"African Farm",
+    "Year_Drilled":"2019",
+    "Depth_m":125,
+    "Operational_Status":"No",
+    "Yield":16,
+    "Complementary_Assets":"Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6925998,-0.2078679 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Baraka Salome Borehole",
+    "Year_Drilled":"2009",
+    "Depth_m":160,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0222301,-0.3197984 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Mugoon",
+    "Year_Drilled":"2020",
+    "Depth_m":250,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Fence Pump House Bulk Meter Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per unit",
+    "Connected_Households":600,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9102121,-0.1719872 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Boito",
+    "Year_Drilled":"1963",
+    "Depth_m":157,
+    "Operational_Status":"Yes",
+    "Yield":13,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":121,
+    "Households_using_Water_Kiosks":180
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9079377,-0.1855247 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Ndoroto",
+    "Year_Drilled":"",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"50 per unit",
+    "Connected_Households":135,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.890104,-0.1995589 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Salome B 2",
+    "Year_Drilled":"2020",
+    "Depth_m":230,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr, 50 per unit",
+    "Connected_Households":150,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9115222,-0.2028213 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Salom A",
+    "Year_Drilled":"2012",
+    "Depth_m":231,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr, 50 per unit",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9383616,-0.3085338 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Gecha B",
+    "Year_Drilled":"2020",
+    "Depth_m":195,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"2 per 20 Ltr",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9559856,-0.2988997 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Ogilgei",
+    "Year_Drilled":"1996",
+    "Depth_m":157,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Tanks Bulk Meter Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":460,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9787373,-0.4627065 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Store Mbili Water Project",
+    "Year_Drilled":"",
+    "Depth_m":146,
+    "Operational_Status":"Yes",
+    "Yield":31,
+    "Complementary_Assets":"Tanks Pump House Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltr",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8981924,-0.3931218 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Nessuit",
+    "Year_Drilled":"2019",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":50,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9043502,-0.3601348 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Mukuria Water Project",
+    "Year_Drilled":"1998",
+    "Depth_m":115,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, with 100 households connection at the rate of 250 per month",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1164997,-0.0217285 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Chamasis Community ",
+    "Year_Drilled":"2019",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Flat rate for the connections of 100, and 5 per 20 Ltr from the water kiosk",
+    "Connected_Households":150,
+    "Households_using_Water_Kiosks":350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9356891,-0.1252789 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Ranjera",
+    "Year_Drilled":"2017",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"4 per 20ltrs, 150 per households ",
+    "Connected_Households":7,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1501164,-0.3731944 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru East",
+    "Borehole_Name":"Meruge Dispensary",
+    "Year_Drilled":"2005",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":17,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Hospital ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 100 per unit ",
+    "Connected_Households":311,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2256649,-0.6884104 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Manyatta W Project",
+    "Year_Drilled":"2019",
+    "Depth_m":300,
+    "Operational_Status":"Yes",
+    "Yield":16,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Not yet ",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.523102,-0.6991003 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Mununga Water Project",
+    "Year_Drilled":"1992",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Tanks Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 Ltrs",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5204506,-0.7216276 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Muteithia Water Project",
+    "Year_Drilled":"2021",
+    "Depth_m":370,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0138967,-0.3835634 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Mutamaiya",
+    "Year_Drilled":"2021",
+    "Depth_m":250,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9499399,-0.1226006 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Morop community w p",
+    "Year_Drilled":"2018",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":4,
+    "Complementary_Assets":"Tanks Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr, 80 per unit",
+    "Connected_Households":10,
+    "Households_using_Water_Kiosks":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1955782,-0.0628517 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Kamuohi",
+    "Year_Drilled":"2019",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":28,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.658722,-0.0893934 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Mau",
+    "Year_Drilled":"2020",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Naruwasco Tarif",
+    "Connected_Households":80,
+    "Households_using_Water_Kiosks":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8347899,-0.1550721 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Kapkwen",
+    "Year_Drilled":"1993",
+    "Depth_m":110,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.114932,-0.2758522 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru East",
+    "Borehole_Name":"Teachers Boreholes ",
+    "Year_Drilled":"2020",
+    "Depth_m":250,
+    "Operational_Status":"No",
+    "Yield":31,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Market",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1211999,-0.2902781 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru East",
+    "Borehole_Name":"Keratina Borehole",
+    "Year_Drilled":"2020",
+    "Depth_m":230,
+    "Operational_Status":"No",
+    "Yield":30,
+    "Complementary_Assets":"",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"N/A",
+    "Land_Owner":"Market",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4460345,-0.7921897 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Mirera Suswa Water Project",
+    "Year_Drilled":"1991",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":25,
+    "Complementary_Assets":"Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Railway Land",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"60 per unit, About 1000 households connection ",
+    "Connected_Households":1000,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2392619,-0.7348777 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Ndabibi secondary borehole",
+    "Year_Drilled":"2020",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.994658,-0.6338176 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Mau Narok Community",
+    "Year_Drilled":"2005",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr, 150 per Unit",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":700
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0621124,-0.0625494 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Testai Water Project ",
+    "Year_Drilled":"2017",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Tanks Bulk Meter  Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr ",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2105146,0.020016 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Wei Water project",
+    "Year_Drilled":"2018",
+    "Depth_m":280,
+    "Operational_Status":"Yes",
+    "Yield":6,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":48,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3122372,-0.4113251 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Gitare",
+    "Year_Drilled":"2014",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Bulk Meter Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20 Ltrs,",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3151941,-0.4402793 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Kigogo",
+    "Year_Drilled":"2021",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.718031,-0.255617 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Moto",
+    "Year_Drilled":"2017",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Tanks Bulk Meter Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Naruwasco Tarif",
+    "Connected_Households":300,
+    "Households_using_Water_Kiosks":350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6621208,-0.2098356 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Choronk",
+    "Year_Drilled":"2021",
+    "Depth_m":256,
+    "Operational_Status":"Yes",
+    "Yield":36,
+    "Complementary_Assets":"Tanks Bulk Meter",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":290
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.019588,-0.3130512 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Hingombor Phase 2",
+    "Year_Drilled":"2019",
+    "Depth_m":185,
+    "Operational_Status":"Yes",
+    "Yield":5.5,
+    "Complementary_Assets":"Tanks Bulk Meter Pump House",
+    "Funder":"County Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"150 per unit, 5 per 20ltr",
+    "Connected_Households":374,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2307222,-0.8032203 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Kiberengenye",
+    "Year_Drilled":"2011",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Chiefs Camp",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per / 30 Ltr",
+    "Connected_Households":38,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2340979,-0.7163854 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Tarabete Water Project",
+    "Year_Drilled":"2015",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Generator",
+    "Land_Owner":"Chiefs Camp",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":20,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2193541,0.1245921 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Marana W. P",
+    "Year_Drilled":"2013",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":11,
+    "Complementary_Assets":"Fence Pump House Bulk Meter  Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Church",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr and 300 flat rate per households ",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2062594,-0.2714316 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Menengai Community borehole",
+    "Year_Drilled":"2002",
+    "Depth_m":128,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Pump House Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":400,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7437766,-0.2472556 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Kennyatta 1",
+    "Year_Drilled":"2005",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":13,
+    "Complementary_Assets":"Fence Pump House Bulk Meter  Chlorination Doser  Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs and 400 per household connection ",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2235283,-0.817738 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Moi W Water Project",
+    "Year_Drilled":"1996",
+    "Depth_m":140,
+    "Operational_Status":"Yes",
+    "Yield":6,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 30 ltrs",
+    "Connected_Households":300,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2511479,-0.7965084 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Zero Water Project",
+    "Year_Drilled":"2007",
+    "Depth_m":210,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 30 Let's, 140 per Unit",
+    "Connected_Households":280,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2198714,-0.7017874 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Dividing Water Project",
+    "Year_Drilled":"2014",
+    "Depth_m":240,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2.5 per 30 litrs",
+    "Connected_Households":40,
+    "Households_using_Water_Kiosks":1000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4417708,-0.8015689 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Rubiri Water Project",
+    "Year_Drilled":"2004",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":7,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"50 per Unit,",
+    "Connected_Households":190,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1409027,0.0460469 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Tuiyotich Boreholes",
+    "Year_Drilled":"2012",
+    "Depth_m":180,
+    "Operational_Status":"No",
+    "Yield":12,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per unit, and 5 per 20 ltrs",
+    "Connected_Households":70,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1471083,0.084837 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Machine water project",
+    "Year_Drilled":"2011",
+    "Depth_m":80,
+    "Operational_Status":"No",
+    "Yield":22,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1478444,0.0259898 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Mahinga",
+    "Year_Drilled":"2012",
+    "Depth_m":90,
+    "Operational_Status":"Yes",
+    "Yield":50,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1524101,-0.0062206 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Emarangwisho",
+    "Year_Drilled":"2015",
+    "Depth_m":78,
+    "Operational_Status":"Yes",
+    "Yield":75,
+    "Complementary_Assets":"Fence Bulk Meter  Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Flat rates for individual connections of 300 per month ",
+    "Connected_Households":37,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2350489,-0.0215514 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Umoja water Project",
+    "Year_Drilled":"2016",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1597691,-0.5372 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Sachangwan",
+    "Year_Drilled":"2016",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":12,
+    "Complementary_Assets":"Fence Tanks Bulk Meter Pump House",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 120 per unit",
+    "Connected_Households":10,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1180892,-0.563259 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Rerecua",
+    "Year_Drilled":"2007",
+    "Depth_m":221,
+    "Operational_Status":"Yes",
+    "Yield":6,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":15,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0285513,-0.3358899 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Lalwet",
+    "Year_Drilled":"2015",
+    "Depth_m":210,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Bulk Meter Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"3 per 20Ltrs, 100 per unit",
+    "Connected_Households":150,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0430983,-0.3154088 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Soimet",
+    "Year_Drilled":"2017",
+    "Depth_m":230,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Pump House Tanks Bulk Meter",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"3 per 20Ltrs, 70 per unit",
+    "Connected_Households":300,
+    "Households_using_Water_Kiosks":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7210911,-0.2415487 ]
+    },
+    "properties": {
+    "Sub_Counties":"Molo",
+    "Borehole_Name":"Green Water Project ",
+    "Year_Drilled":"1944",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":9,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Expecting to charge 5 per 20ltrs ",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1453138,0.1033372 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Kipatich",
+    "Year_Drilled":"2015",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":25,
+    "Complementary_Assets":"Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"300 flat rate per household and 200 per household using water point",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1598933,0.1678773 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Kamosk Water Project",
+    "Year_Drilled":"1994",
+    "Depth_m":120,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2248268,0.1617662 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Witheria Water Project",
+    "Year_Drilled":"2013",
+    "Depth_m":240,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20ltrs, 4 Water Kiosk",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1745306,0.092636 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Chepkulul",
+    "Year_Drilled":"2012",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":40,
+    "Complementary_Assets":"Pump House Fence Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per Ltr, Avr 300 per household per month ",
+    "Connected_Households":70,
+    "Households_using_Water_Kiosks":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2229543,-0.0039906 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Gitwamba",
+    "Year_Drilled":"Was drilled 1950 and revived 2013",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":7,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per month every members",
+    "Connected_Households":80,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2233596,0.007822 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Morro Water Project",
+    "Year_Drilled":"1960, 2008 new pump by life water, 2020 salar by county government ",
+    "Depth_m":150,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Pump House Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per month per member",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1105766,-0.1751863 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"GDC",
+    "Year_Drilled":"2018",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Individual ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1971173,0.145432 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Chelitit",
+    "Year_Drilled":"2013",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":35,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"Hospital",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per Month per Household ",
+    "Connected_Households":400,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1956471,-0.8242873 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Gonyumu Water project",
+    "Year_Drilled":"1955",
+    "Depth_m":280,
+    "Operational_Status":"Yes",
+    "Yield":11,
+    "Complementary_Assets":"Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 30 lrts",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.212557,-0.7985301 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Tangi tati water project",
+    "Year_Drilled":"1995",
+    "Depth_m":225,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 / 30 ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.12557,-0.0950048 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Solai Nyakinywa",
+    "Year_Drilled":"2016",
+    "Depth_m":220,
+    "Operational_Status":"Yes",
+    "Yield":18,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"\n100 flat rate per month, on connected households ",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0322201,0.0185407 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Lomolo community Water Project",
+    "Year_Drilled":"2021",
+    "Depth_m":55,
+    "Operational_Status":"Yes",
+    "Yield":13,
+    "Complementary_Assets":"Fence Tanks Bulk Meter ",
+    "Funder":"Doner Funded",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"Solar",
+    "Land_Owner":"School ",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20 Ltr, ",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1797761,-0.0856465 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Kihoto famers",
+    "Year_Drilled":"1960s",
+    "Depth_m":110,
+    "Operational_Status":"Yes",
+    "Yield":28,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Doner Funded ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":500,
+    "Households_using_Water_Kiosks":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0007672,-0.4765003 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Nduriri Njuu Nyakiambi",
+    "Year_Drilled":"2010",
+    "Depth_m":230,
+    "Operational_Status":"Yes",
+    "Yield":11,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"National Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per unit for the connected households,  5 per 20ltrs",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2448565,0.0384268 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Kwandeki",
+    "Year_Drilled":"2019",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":14,
+    "Complementary_Assets":"Fence Tanks Pump House",
+    "Funder":"National Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per month per connected households",
+    "Connected_Households":30,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2131153,0.0522672 ]
+    },
+    "properties": {
+    "Sub_Counties":"Subukia",
+    "Borehole_Name":"Wei Secondary",
+    "Year_Drilled":"2019",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":7,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"National Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.341481,-0.3999886 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Kagisho",
+    "Year_Drilled":"2020",
+    "Depth_m":210,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Bulk Meter Tanks",
+    "Funder":"National Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3302273,-0.3945835 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Twendane",
+    "Year_Drilled":"2018",
+    "Depth_m":230,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Tanks Bulk Meter Pump House",
+    "Funder":"National Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3345016,-0.4425385 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Nuthu",
+    "Year_Drilled":"2021",
+    "Depth_m":250,
+    "Operational_Status":"Yes",
+    "Yield":6,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"National Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20Ltrs, 150 per connected Household",
+    "Connected_Households":10,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0621903,-0.509075 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Mahiga",
+    "Year_Drilled":"2021",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"National Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0398321,-0.3110436 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Kapkures Water Project",
+    "Year_Drilled":"2018",
+    "Depth_m":76,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"National Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2.5 per 20ltrs, 60 per unit",
+    "Connected_Households":30,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.711202,-0.1865664 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Taibain Primary",
+    "Year_Drilled":"2020",
+    "Depth_m":200,
+    "Operational_Status":"Yes",
+    "Yield":20,
+    "Complementary_Assets":"Tanks Bulk Meter",
+    "Funder":"National Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"School",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5563824,-0.8426006 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Munyu 2",
+    "Year_Drilled":"2013",
+    "Depth_m":250,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Pump House Tanks",
+    "Funder":"National Government ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":1500,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5096846,-0.6404922 ]
+    },
+    "properties": {
+    "Sub_Counties":"Naivasha",
+    "Borehole_Name":"Kahuru Famers Water Project",
+    "Year_Drilled":"1952",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"Fence Tanks Pump House",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Generator",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"Flat rate on the connected households, 10 per 20 ltrs",
+    "Connected_Households":100,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.94336,-0.3734637 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Ngondu",
+    "Year_Drilled":"1930",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Fence Tanks",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8939131,-0.19416 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Solam B.",
+    "Year_Drilled":"1970",
+    "Depth_m":104,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Tanks Bulk Meter Pump House",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"2 per 20ltrs",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9735608,-0.3184167 ]
+    },
+    "properties": {
+    "Sub_Counties":"Rongai",
+    "Borehole_Name":"Kerma",
+    "Year_Drilled":"1960",
+    "Depth_m":180,
+    "Operational_Status":"Yes",
+    "Yield":15,
+    "Complementary_Assets":"Tanks Bulk Meter",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"5 per 20ltrs, 125 per unit",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1343066,-0.1743951 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Matangi Kenda",
+    "Year_Drilled":"1920",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9671518,-0.5351066 ]
+    },
+    "properties": {
+    "Sub_Counties":"Njoro",
+    "Borehole_Name":"Likia",
+    "Year_Drilled":"1920",
+    "Depth_m":null,
+    "Operational_Status":"No",
+    "Yield":0,
+    "Complementary_Assets":"",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"N/A",
+    "Land_Owner":"Community ",
+    "Revenue_Collection_Status":"No",
+    "Tariff":"",
+    "Connected_Households":0,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.692444,-0.1931119 ]
+    },
+    "properties": {
+    "Sub_Counties":"Kuresoi North",
+    "Borehole_Name":"Rironi Women Group",
+    "Year_Drilled":"1951",
+    "Depth_m":171,
+    "Operational_Status":"Yes",
+    "Yield":3,
+    "Complementary_Assets":"Fence Tanks Bulk Meter",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"No",
+    "Power_Source":"KPLC ",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"200 per Month, 5 per 20ltr",
+    "Connected_Households":70,
+    "Households_using_Water_Kiosks":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0320317,-0.3034715 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru West",
+    "Borehole_Name":"Ainoptich",
+    "Year_Drilled":"1968",
+    "Depth_m":100,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"Settlers",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Individual",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"3 per 20Ltrs, 60 per unit",
+    "Connected_Households":300,
+    "Households_using_Water_Kiosks":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1516561,-0.3658518 ]
+    },
+    "properties": {
+    "Sub_Counties":"Nakuru East",
+    "Borehole_Name":"Mwariki Farm",
+    "Year_Drilled":"1924",
+    "Depth_m":145,
+    "Operational_Status":"Yes",
+    "Yield":10,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter ",
+    "Funder":"Settlers ",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 100 per Unit",
+    "Connected_Households":155,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1801034,-0.2620161 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Tabuga Water Project",
+    "Year_Drilled":"1963",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":8,
+    "Complementary_Assets":"Pump House Tanks Bulk Meter ",
+    "Funder":"Settlers & County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC & Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"100 per household per day",
+    "Connected_Households":200,
+    "Households_using_Water_Kiosks":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1664836,-0.2658604 ]
+    },
+    "properties": {
+    "Sub_Counties":"Bahati",
+    "Borehole_Name":"Lamnyondeki ",
+    "Year_Drilled":"1997",
+    "Depth_m":null,
+    "Operational_Status":"Yes",
+    "Yield":4,
+    "Complementary_Assets":"Pump House Fence Tanks Bulk Meter ",
+    "Funder":"Settlers & County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"",
+    "Connected_Households":50,
+    "Households_using_Water_Kiosks":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1505529,-0.5548537 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Kongasis",
+    "Year_Drilled":"2007",
+    "Depth_m":250,
+    "Operational_Status":"Yes",
+    "Yield":3,
+    "Complementary_Assets":"Fence Pump House Tanks Bulk Meter",
+    "Funder":"Settlers & County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"KPLC",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20ltrs, 120 per Unit",
+    "Connected_Households":11,
+    "Households_using_Water_Kiosks":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.136008,-0.539339 ]
+    },
+    "properties": {
+    "Sub_Counties":"Gilgil",
+    "Borehole_Name":"Kewamu",
+    "Year_Drilled":"2015",
+    "Depth_m":160,
+    "Operational_Status":"Yes",
+    "Yield":5,
+    "Complementary_Assets":"Fence Tanks Bulk Meter Pump House",
+    "Funder":"Settlers & County Government",
+    "WRA_Permit_Status":"Yes",
+    "Power_Source":"Solar",
+    "Land_Owner":"Community",
+    "Revenue_Collection_Status":"Yes",
+    "Tariff":"5 per 20Ltr, 250 per unit",
+    "Connected_Households":12,
+    "Households_using_Water_Kiosks":800
+    }
+  }
+]
+}
