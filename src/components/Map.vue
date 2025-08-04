@@ -468,7 +468,7 @@ const loadGeoJSON = async () => {
 
     markers.addLayer(geoJsonLayer);
     map.addLayer(markers);
-    overlayLayersControl?.addOverlay(markers, "SSSPS");
+    overlayLayersControl?.addOverlay(markers, "CLSG");
   } catch (error) {
     console.error("Error loading GeoJSON:", error);
   }
