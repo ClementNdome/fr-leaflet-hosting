@@ -1,0 +1,1139 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4614669,-0.7487946 ]
+    },
+    "properties": {
+    "Acc No":11104307,
+    "Customer Name":"JOSEPH NJOROGE WAINAINA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4637651,-0.7521732 ]
+    },
+    "properties": {
+    "Acc No":11104397,
+    "Customer Name":"ARTHUR NDUNGU NGUNJIRI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512142"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4595423,-0.747963783 ]
+    },
+    "properties": {
+    "Acc No":11104503,
+    "Customer Name":"DAVID MUCHENDU KAGIRI",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8511979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46128,-0.7488215 ]
+    },
+    "properties": {
+    "Acc No":11104512,
+    "Customer Name":"SAMUEL MWIKAH NGANGA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512033"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4644368,-0.7515473 ]
+    },
+    "properties": {
+    "Acc No":11104518,
+    "Customer Name":"JANET WAIRIMU MUCHOKI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8511983"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4620526,-0.7510256 ]
+    },
+    "properties": {
+    "Acc No":11104523,
+    "Customer Name":"JOHN GICHERU NJANE",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8511999"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46324413,-0.750997317 ]
+    },
+    "properties": {
+    "Acc No":11104527,
+    "Customer Name":"SAMUEL GITHAIGA NJOROGE",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512213"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4645208,-0.7519448 ]
+    },
+    "properties": {
+    "Acc No":11104614,
+    "Customer Name":"SAMUEL MUTURI THUKU",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512157"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4639848,-0.7517605 ]
+    },
+    "properties": {
+    "Acc No":11104629,
+    "Customer Name":"MWANYUMBA PAUL AUSTIN",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H25MA035375"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46407307,-0.751437783 ]
+    },
+    "properties": {
+    "Acc No":11104685,
+    "Customer Name":"RAHAB WAMBUI NDIRANGU",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512313"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.45898627,-0.74614175 ]
+    },
+    "properties": {
+    "Acc No":11104686,
+    "Customer Name":"JOYCE WANJIKU MWANGI",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512312"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4589425,-0.746270183 ]
+    },
+    "properties": {
+    "Acc No":11104712,
+    "Customer Name":"ELIZABETH WANJIKU MBUGUA",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512230"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46416385,-0.752152917 ]
+    },
+    "properties": {
+    "Acc No":11104723,
+    "Customer Name":"MILIAMU NYATHIRA KAGAI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4629522,-0.7521044 ]
+    },
+    "properties": {
+    "Acc No":11104731,
+    "Customer Name":"ANDREW NGANGA KIARIE",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509278"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4598437,-0.7480377 ]
+    },
+    "properties": {
+    "Acc No":11104763,
+    "Customer Name":"MARY WANGUI MWANIKI",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512250"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4663855,-0.7530797 ]
+    },
+    "properties": {
+    "Acc No":11104819,
+    "Customer Name":"PETER NJIHIA  MWANGI",
+    "Zone":"KAYOLE",
+    "Route":"ARSENAL",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509367"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4583172,-0.7472674 ]
+    },
+    "properties": {
+    "Acc No":11104824,
+    "Customer Name":"CHARLES NDERITU THUKU",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512361"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.45899415,-0.745782217 ]
+    },
+    "properties": {
+    "Acc No":11104890,
+    "Customer Name":"JOHNSON NDUNGU MAINA",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512341"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4638449,-0.7514593 ]
+    },
+    "properties": {
+    "Acc No":11104896,
+    "Customer Name":"MICHAEL KABIARU WANDERI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8512303"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46037755,-0.749602483 ]
+    },
+    "properties": {
+    "Acc No":11104911,
+    "Customer Name":"ANNE NJERI NGANGA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509347"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4632429,-0.7501703 ]
+    },
+    "properties": {
+    "Acc No":11104984,
+    "Customer Name":"GLADYS WANJIRU CHEGE",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8511993"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4633163,-0.7514758 ]
+    },
+    "properties": {
+    "Acc No":11104987,
+    "Customer Name":"PHARIS MWANGI NJUGUNA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509038"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4617918,-0.749694917 ]
+    },
+    "properties": {
+    "Acc No":11105009,
+    "Customer Name":"MARY WANGARI NDIRANGU",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8508972"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4612786,-0.748823 ]
+    },
+    "properties": {
+    "Acc No":11105010,
+    "Customer Name":"ANTHONY NJOROGE MWANGI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8508961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46402727,-0.752269167 ]
+    },
+    "properties": {
+    "Acc No":11105037,
+    "Customer Name":"JOHN NJOROGE KABERA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8508928"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4598437,-0.7480377 ]
+    },
+    "properties": {
+    "Acc No":11105072,
+    "Customer Name":"PHILIP MWAURA BENARD",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509029"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4645077,-0.7519522 ]
+    },
+    "properties": {
+    "Acc No":11105109,
+    "Customer Name":"JOSEPH WAITHAKA WAMAI (111)",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8508770"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4643981,-0.7514935 ]
+    },
+    "properties": {
+    "Acc No":11105211,
+    "Customer Name":"PETER KURIA NJIRAINI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8508836"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4594747,-0.747052067 ]
+    },
+    "properties": {
+    "Acc No":11105224,
+    "Customer Name":"FLORENCE WAMBUI KABURU",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4616518,-0.7449056 ]
+    },
+    "properties": {
+    "Acc No":11105241,
+    "Customer Name":"SIMON MACHARIA WAKABA (1)",
+    "Zone":"KAYOLE",
+    "Route":"ADAMS",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8509151"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4689458,-0.7466334 ]
+    },
+    "properties": {
+    "Acc No":11105480,
+    "Customer Name":"ZABLON KAMAU MBURU (2)",
+    "Zone":"KAYOLE",
+    "Route":"SIGNATURE",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8508286"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.459165,-0.746593117 ]
+    },
+    "properties": {
+    "Acc No":11105649,
+    "Customer Name":"MARY NJERI MUYA",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA114867"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4631872,-0.750325383 ]
+    },
+    "properties": {
+    "Acc No":11105707,
+    "Customer Name":"PETER KIMANI GICHEHA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8508408"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4608234,-0.7484985 ]
+    },
+    "properties": {
+    "Acc No":11106670,
+    "Customer Name":"JOSEPH NGANGA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8507851"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4736783,-0.7499422 ]
+    },
+    "properties": {
+    "Acc No":11106686,
+    "Customer Name":"PETER MAINA MURAGE",
+    "Zone":"KAYOLE",
+    "Route":"TANK",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8507681"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.45969853,-0.745992817 ]
+    },
+    "properties": {
+    "Acc No":11106819,
+    "Customer Name":"META WAIRIMU GICHIMU",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8507816"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46049123,-0.7487716 ]
+    },
+    "properties": {
+    "Acc No":11106884,
+    "Customer Name":"STEPHEN KARUGA NJOROGE",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8507750"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.450539,-0.7351733 ]
+    },
+    "properties": {
+    "Acc No":11107042,
+    "Customer Name":"JAMES MWAURA NJERI",
+    "Zone":"KAYOLE",
+    "Route":"SKYBETTY",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"160882688"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4592683,-0.74547825 ]
+    },
+    "properties": {
+    "Acc No":11107297,
+    "Customer Name":"IRENE WANJIRA WANGAI",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA000244"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4590619,-0.745574183 ]
+    },
+    "properties": {
+    "Acc No":11107331,
+    "Customer Name":"EUNICE MUTHONI MUIRURI",
+    "Zone":"KAYOLE",
+    "Route":"PEFA",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H21JA002862"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46136537,-0.748705817 ]
+    },
+    "properties": {
+    "Acc No":11107407,
+    "Customer Name":"RAPHAEL KANYI BOSCO",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H20JA062463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46319577,-0.75047 ]
+    },
+    "properties": {
+    "Acc No":11107411,
+    "Customer Name":"PIUS NGUNDU KASAU",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H20JA062497"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.50614647,-0.76043365 ]
+    },
+    "properties": {
+    "Acc No":11107513,
+    "Customer Name":"CHRIST CO-WORKERS FELLOWSHIP ",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"COMMERCIAL/INDUSTRIA",
+    "Sub Category":"COMMERCIAL/INDUSTRIAL",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H20JA033004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46816053,-0.74433982 ]
+    },
+    "properties": {
+    "Acc No":11107610,
+    "Customer Name":"ERNEST GICHINI NYORO",
+    "Zone":"KAYOLE",
+    "Route":"TANK",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H20JA040125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46379732,-0.75120295 ]
+    },
+    "properties": {
+    "Acc No":11107675,
+    "Customer Name":"SIMON MUCHIRI MWANGI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H21JA002948"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4645205,-0.7519491 ]
+    },
+    "properties": {
+    "Acc No":11107894,
+    "Customer Name":"DANIEL MAINA KIMOTHO",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_AND_SEWE",
+    "Meter No":"H21JA002770"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4655419,-0.7519432 ]
+    },
+    "properties": {
+    "Acc No":11107924,
+    "Customer Name":"JANE WANJA KURIA (17/199)",
+    "Zone":"KAYOLE",
+    "Route":"FAHARI",
+    "Category":"COMMERCIAL/INDUSTRIA",
+    "Sub Category":"COMMERCIAL/INDUSTRIAL",
+    "Acc Status":"ON",
+    "Service":"WATER_AND_SEWE",
+    "Meter No":"H21JA002212"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46791986,-0.73787904 ]
+    },
+    "properties": {
+    "Acc No":11108173,
+    "Customer Name":"ISAAC MAINA KARANJA",
+    "Zone":"KAYOLE",
+    "Route":"TANK",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H21JA002888"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.461178,-0.748856033 ]
+    },
+    "properties": {
+    "Acc No":11108189,
+    "Customer Name":"JOHN IRUNGU OMANI (55)",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H21JA002970"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46434927,-0.750826933 ]
+    },
+    "properties": {
+    "Acc No":11108385,
+    "Customer Name":"MARGARET WANJIKU MWANGI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA114822"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46296736,-0.7551919 ]
+    },
+    "properties": {
+    "Acc No":11108598,
+    "Customer Name":"GRACE EVA WACHIRA",
+    "Zone":"KAYOLE",
+    "Route":"SKYBETTY",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H21JA002590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.50625287,-0.760369933 ]
+    },
+    "properties": {
+    "Acc No":11109069,
+    "Customer Name":"PHILIP GIKUNJU GITHINJI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"8ZR10012323248"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46149446,-0.75724171 ]
+    },
+    "properties": {
+    "Acc No":11109278,
+    "Customer Name":"ONESMUS NDIRANGU NGUGI (34A)",
+    "Zone":"KAYOLE",
+    "Route":"EAGLET",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA007209"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4627829,-0.7529073 ]
+    },
+    "properties": {
+    "Acc No":11109665,
+    "Customer Name":"SAMUEL KIBUBU MWANGI",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA000474"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4635079,-0.7522026 ]
+    },
+    "properties": {
+    "Acc No":11109900,
+    "Customer Name":"JOSEPH KANYI MBURU",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA005951"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46342775,-0.7515635 ]
+    },
+    "properties": {
+    "Acc No":11110153,
+    "Customer Name":"HANNAH WAMBUI NGOTHO",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA000127"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4724348,-0.7491104 ]
+    },
+    "properties": {
+    "Acc No":11110241,
+    "Customer Name":"PAUL KAMAU NJUGUNA",
+    "Zone":"KAYOLE",
+    "Route":"TANK",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA114968"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4748798,-0.743665 ]
+    },
+    "properties": {
+    "Acc No":11110633,
+    "Customer Name":"ANN NJOKI NJANE",
+    "Zone":"KAYOLE",
+    "Route":"MARARO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA114896"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4629041,-0.7430697 ]
+    },
+    "properties": {
+    "Acc No":11110733,
+    "Customer Name":"JOHN GICHIGI MWANGI",
+    "Zone":"KAYOLE",
+    "Route":"SIGNATURE",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H22JA114532"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4609673,-0.7504948 ]
+    },
+    "properties": {
+    "Acc No":11111156,
+    "Customer Name":"MICHAEL NJOGU",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H23JA001870"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46904964,-0.73930274 ]
+    },
+    "properties": {
+    "Acc No":11111175,
+    "Customer Name":"MARY WANGUI CHEGE",
+    "Zone":"KAYOLE",
+    "Route":"TANK",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H23JA001869"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4725997,-0.7495915 ]
+    },
+    "properties": {
+    "Acc No":11111213,
+    "Customer Name":"PAULINE WANJIRU NDUURU",
+    "Zone":"KAYOLE",
+    "Route":"TANK",
+    "Category":"Residential(individual)",
+    "Sub Category":"RESIDENTIAL/DOMESTIC",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H23JA009226"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.46399205,-0.750556883 ]
+    },
+    "properties": {
+    "Acc No":11111695,
+    "Customer Name":"JOSEPH MWANGI MUTURA",
+    "Zone":"KAYOLE",
+    "Route":"KASOKO",
+    "Category":"MULTI DWELLING UNITS",
+    "Sub Category":"MULTI DWELLING UNITS",
+    "Acc Status":"ON",
+    "Service":"WATER_ONLY",
+    "Meter No":"H23JA019900"
+    }
+  }
+]
+}

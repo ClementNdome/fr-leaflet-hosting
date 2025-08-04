@@ -399,24 +399,16 @@ onMounted(async () => {
 
 
 
-
-
-
-
-
-
-
-
 <template>
   <div>
     <div class="title-bar">
-      <h1>SMALL SCALE MAPPING</h1>
+      <h1>CLSG METER VERIFICATION MAPPING</h1>
     </div>
         <div class="footer">
       <button @click="triggerFileInput" class="upload-btn">Upload KML</button>
     </div>
     <input ref="fileInput" type="file" accept=".kml" style="display: none" @change="handleFileUpload" />
-    <div id="map" style="height: 83vh;"></div>
+    <div id="map" style="height: 100vh;"></div>
   </div>
 </template>
 
@@ -456,7 +448,8 @@ const refreshLayerControl = () => {
 
 const loadGeoJSON = async () => {
   try {
-    const response = await fetch("data/SSSP2 (2).geojson");
+    // const response = await fetch("data/Meter Reading.geojson");
+    const response = await fetch("data/CLSG.geojson");
     const data = await response.json();
 
     const markers = leaflet.markerClusterGroup();
